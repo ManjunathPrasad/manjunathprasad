@@ -1,0 +1,13 @@
+theme: minima
+navigation:
+  - title: "Home"
+    url: "/about"
+  # - title: "About"
+  #   url: "/about/"
+  - title: "Teaching"
+    url: "/teaching/"
+  # children:
+  #   - title: 24PCA203
+  #     url: /teaching/22PCA203/
+  #   - title: 22PCA611
+  #     url: /teaching/22PCA611/
