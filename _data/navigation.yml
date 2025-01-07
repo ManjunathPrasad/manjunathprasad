@@ -1,11 +1,11 @@
 theme: minima
 navigation:
   - title: "Home"
-    url: "/"
+    url: "/manjunathprasad/"
   - title: "About"
-    url: "/about/"
+    url: "/manjunathprasad/about/"
   - title: "Teaching"
-    url: "/teaching/"
+    url: "/manjunathprasad/teaching/"
   # children:
   #   - title: 24PCA203
   #     url: /teaching/22PCA203/
