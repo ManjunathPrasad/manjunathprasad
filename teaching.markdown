@@ -35,7 +35,7 @@ permalink: /teaching/
 
 |Sl. No | Date     | Topics                                              |                    Resources                 |
 |:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
-| 1     |  01/07   |      Introduction to Python Programming             |   <span style="color:gray">Download</span>   |
+| 1     |  01/07   |      Introduction to Python Programming             |   [Download](/Downloads/DemoPDF.pdf)  |
 | 2     |  01/08   |          |                                              |
 | 3     |  01/09   |    | |
 | 4     |  01/14   | <span style="color:red">Holiday - Makara Sankranti</span>   | |
