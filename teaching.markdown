@@ -36,7 +36,7 @@ permalink: /teaching/
 |Sl. No | Date     | Topics                                              |                    Resources                 |
 |:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
 | 1     |  01/07   |      Introduction to Python Programming             |   [Download](/Downloads/DemoPDF.pdf)  |
-| 2     |  01/08   |          |                                              |
+| 2     |  01/08   |      History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
 | 3     |  01/09   |    | |
 | 4     |  01/14   | <span style="color:red">Holiday - Makara Sankranti</span>   | |
 | 5     |  01/15   |    | |
