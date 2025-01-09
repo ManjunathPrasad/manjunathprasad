@@ -29,6 +29,7 @@ url: "manjunathprasad.github.io" # the base hostname & protocol for your site, e
 
 include:
   - Downloads
+  - Downloads/01-09-2024
 # Build settings
 theme: minima
 plugins:
