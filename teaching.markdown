@@ -35,7 +35,7 @@ permalink: /teaching/
 
 ### <a id="TheoryLoc">Theory</a>
 
-|Sl. No | Date     | Topics                                              |                    Resources                 |
+|Lecture | Date     | Topics                                              |                    Resources                 |
 |:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
 | 1     |  01/07   |      Introduction Class             |     |
 | 2     |  01/08 <br> (09:30 AM - 11:10 AM)  |      History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
