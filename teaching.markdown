@@ -25,6 +25,8 @@ permalink: /teaching/
 - We ( 01:50 PM - 03:30 PM )
 
 #### **Announcements**
+- No Classes on <span style="color:blue">01/15</span> and <span style="color:blue">01/16</span>. Topics are already covered on <span style="color:blue">01/08</span> and <span style="color:blue">01/09</span> 
+- Holiday on <span style="color:blue">01/14</span>
 - Theory Class Commenced on <span style="color:blue">01/07</span>
 - Lab Commenced on <span style="color:blue">01/06</span>
 
@@ -39,8 +41,8 @@ permalink: /teaching/
 | 2     |  01/08 <br> (09:30 AM - 11:10 AM)  |      History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
 | 3     |  01/09 <br> (10:20 AM - 11:10 AM) <br> 12:10 PM - 01:00 PM   |  Philosophy of Python  | [Download](Downloads/01-09-2024/Demo.py) |
 | 4     |  01/14   | <span style="color:red">Holiday - Makara Sankranti</span>   | |
-| 5     |  01/15   |    | |
-| 6     |  01/16   |    | |
+| 5     |  01/15   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:orange; text-decoration: none;" onmouseover="this.style.textDecoration='underline orange';" onmouseout="this.style.textDecoration='none';">No Class - Topics covered on 01/08 </span></a>  | |
+| 6     |  01/16   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:orange; text-decoration: none;" onmouseover="this.style.textDecoration='underline orange';" onmouseout="this.style.textDecoration='none';">No Class - Topics covered on 01/09 </span></a>  | |
 | 7     |  01/21   |    | |
 | 8     |  01/22   |    | |
 | 9     |  01/23   |    | |
