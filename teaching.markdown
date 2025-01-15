@@ -62,9 +62,9 @@ permalink: /teaching/
 |:-----------:|:----------------------|:---------------------------------------------------:|:--------------------------------------------:|
 |       1     |  01/06 - Batch 1      |          (Lab) Hands-on Hello World Program         |  <span style="color:gray">Download</span>    |
 |       2     |  01/08 - Batch 2      |          (Lab) Hands-on Hello World Program         |                                              |
-|       3     |  01/13 - Batch 1      |                                                     |                                              |
-|       4     |  01/15 - Batch 2      |                                                     |                                              |
-|       5     |  01/20 - Batch 1      |                                                     |                                              |
+|       3     |  01/13 - Batch 1      |    <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>      |            |
+|       4     |  01/15 - Batch 2      | <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>              |              |
+|       5     |  01/20 - Batch 1      |           |                                              |
 |       6     |  01/22 - Batch 2      |                                                     |                                              |
 |       2     |  01/27 - Batch 1      |                                                     |                                              |
 |       2     |  01/29 - Batch 2      |                                                     |                                              |
