@@ -15,11 +15,43 @@ layout: default
     line-height: 1;
     letter-spacing: -1px;
   }
+  #clock-container {
+    display: inline-block; /* Keeps the background around the clock only */
+    padding: 10px;
+    background-color: #f0f0f0; /* Light gray background */
+    border-radius: 8px; /* Rounded corners */
+  }
+
+  #clock {
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    color: #48ff00;
+    background-color: black;
+    background: size 60px;
+  }
 </style>
 
 <div class="container">
-  <h1>404</h1>
+  <h1>Hey, You there!</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+  <p><strong>Things will change, look at this clock, how it changes</strong></p>
+  
+  <div id="clock-container">
+    <div id="clock"></div>
+  </div>
+  <p><strong>Don't Worry! This page will arrive in some time</strong></p>
+    <script>
+        function updateClock() {
+            var now = new Date();
+            var hours = now.getHours().toString().padStart(2, '0');
+            var minutes = now.getMinutes().toString().padStart(2, '0');
+            var seconds = now.getSeconds().toString().padStart(2, '0');
+            var timeString = hours + ":" + minutes + ":" + seconds;
+            
+            document.getElementById('clock').textContent = timeString;
+        }
+
+        setInterval(updateClock, 1000);  // Update the clock every second
+        updateClock();  // Call once to display the time immediately
+    </script>
+  </div>
