@@ -9,10 +9,11 @@ permalink: /teaching/
 - **Course Title** - Python Programming
 - **Course Code** - 24PCA203
 - **Sem** - Spring 2025 - [Jan 2025 - May 2025](/teaching/) 
-- **Text** - (Recommended)
+- **Text** - There are plethora of python resources available on Internet. However, the following books are my suggestions for its own reasons
 
 
-### **Class Hours**
+
+### **Class Meets**
 
 #### **[Theory](#TheoryLoc)**
 - Mo (10:20 AM - 11:10 AM ) - Self Learning and Q&A
@@ -64,7 +65,7 @@ permalink: /teaching/
 |       2     |  01/08 - Batch 2      |          (Lab) Hands-on Hello World Program         |                                              |
 |       3     |  01/13 - Batch 1      |    <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>      |            |
 |       4     |  01/15 - Batch 2      | <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>              |              |
-|       5     |  01/20 - Batch 1      |           |                                              |
+|       5     |  01/20 - Batch 1      |       <a title="Unavailable - Occupied with University obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>    |                                              |
 |       6     |  01/22 - Batch 2      |                                                     |                                              |
 |       2     |  01/27 - Batch 1      |                                                     |                                              |
 |       2     |  01/29 - Batch 2      |                                                     |                                              |
