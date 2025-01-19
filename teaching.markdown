@@ -17,12 +17,12 @@ permalink: /teaching/
 
     2. **Automate the boring stuff with Python - Practical Programming for Total Beginners**  
     Author: Al Sweigart  
-    Publisher: No Starch Press, 2019 
+    Publisher: No Starch Press, 2019<br> 
     [Link to Book](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
 
     3. **Learning Python**  
     Author: Mark Lutz  
-    Publisher: No Starch Press, 2009 
+    Publisher: No Starch Press, 2009 <br>
     [Link to Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 
 ### **Class Meets**
