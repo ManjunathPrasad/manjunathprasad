@@ -20,9 +20,9 @@ permalink: /teaching/
     Publisher: No Starch Press, 2019 
     [Link to Book](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
 
-    3. **Learning Python**
-    Author: Mark Lutz
-    Publisher: O`Reilly, 2009
+    3. **Learning Python**  
+    Author: Mark Lutz  
+    Publisher: No Starch Press, 2009 
     [Link to Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 
 ### **Class Meets**
