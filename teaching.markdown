@@ -9,9 +9,21 @@ permalink: /teaching/
 - **Course Title** - Python Programming
 - **Course Code** - 24PCA203
 - **Sem** - Spring 2025 - [Jan 2025 - May 2025](/teaching/) 
-- **Text** - There are plethora of python resources available on Internet. However, the following books are my suggestions for its own reasons
+- **Reference Books** - There are plethora of python resources available on Internet. However, the following books are my suggestions.
+    1. **Python Crash Course - A Hands-on, Project-based Introduction to Programming**  
+    Author: Eric Matthes  
+    Publisher: No Starch Press, 2015  
+    [Link to Book](https://khwarizmi.org/wp-content/uploads/2021/04/Eric_Matthes_Python_Crash_Course_A_Hands.pdf)
 
+    2. **Automate the boring stuff with Python - Practical Programming for Total Beginners**  
+    Author: Al Sweigart  
+    Publisher: No Starch Press, 2019 
+    [Link to Book](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
 
+    3. **Learning Python**
+    Author: Mark Lutz
+    Publisher: O`Reilly, 2009
+    [Link to Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 
 ### **Class Meets**
 
