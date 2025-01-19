@@ -22,7 +22,7 @@ permalink: /teaching/
 
     3. **Learning Python**  
     Author: Mark Lutz  
-    Publisher: No Starch Press, 2009 <br>
+    Publisher: O`Reilly, 2009 <br>
     [Link to Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 
 ### **Class Meets**
