@@ -9,6 +9,7 @@ permalink: /teaching/
 - **Course Title** - Python Programming
 - **Course Code** - 24PCA203
 - **Sem** - Spring 2025 - [Jan 2025 - May 2025](/teaching/) 
+- [**Course Syllabus**](/Downloads/Syllabus/24PCA203_Python_Programming.pdf) 
 - **Reference Books** - There are plethora of python resources available on Internet. However, the following books are my suggestions.
     1. **Python Crash Course - A Hands-on, Project-based Introduction to Programming**  
     Author: Eric Matthes  
