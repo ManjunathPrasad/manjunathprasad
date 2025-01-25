@@ -59,9 +59,9 @@ permalink: /teaching/
 | 6     |  01/16   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class - Topics of this class are pre-covered on 01/09 </span></a>  | |
 | 7     |  01/21   |   Print Statements and all its variants <br> Input Statements and some variants | [Download](Downloads/01-21-2025/01-21-2025.rar)|
 | 8     |  01/22   |  Comments in Python <br> Variables and Assignment  | [Download](Downloads/01-22-2025/Comments.pdf)|
-| 9     |  01/23   |    | |
-| 10    |  01/28   |    | |
-| 11    |  01/29   |    | |
+| 9     |  01/23   |   <a title="Technical Issue with the Projector"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class | |
+| 10    |  01/28   |   Numbers and Operators | |
+| 11    |  01/29   |   Data Types: Numeric and Dictionary | |
 | 12    |  01/30   |    | |
 | 13    |  02/04   |    | |
 | 14    |  02/05   |    | |
