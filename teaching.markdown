@@ -61,8 +61,8 @@ permalink: /teaching/
 | 7     |  01/21   |   Print Statements and all its variants <br> Input Statements and some variants | [Download](Downloads/01-21-2025/01-21-2025.rar)|
 | 8     |  01/22   |  Comments in Python <br> Variables and Assignment  | [Download](Downloads/01-22-2025/Comments.pdf)|
 | 9     |  01/23   |   <a title="Technical Issue with the Projector"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class | |
-| 10    |  01/28   |   Numbers and Operators | |
-| 11    |  01/29   |   Data Types: Numeric and Dictionary | |
+| 10    |  01/28   |   Numbers and Operators |[Download](Downloads/01-28-2025/NumbersDemo.rar) |
+| 11    |  01/29   |   Data Types: Numeric, Dictionary, Set, Boolean and Sequences | [Download](Downloads/01-29-2025/Python01-29.rar)|
 | 12    |  01/30   |    | |
 | 13    |  02/04   |    | |
 | 14    |  02/05   |    | |
@@ -80,32 +80,32 @@ permalink: /teaching/
 |       3     |  01/13 - Batch 1      |    <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>      |            |
 |       4     |  01/15 - Batch 2      | <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>              |              |
 |       5     |  01/20 - Batch 1      |       <a title="Unavailable - Occupied with University obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>    |                                              |
-|       6     |  01/22 - Batch 2      |                                                     |                                              |
-|       2     |  01/27 - Batch 1      |                                                     |                                              |
-|       2     |  01/29 - Batch 2      |                                                     |                                              |
-|       2     |  02/03 - Batch 1      |                                                     |                                              |
-|       2     |  02/05 - Batch 2      |                                                     |                                              |
-|       2     |  02/10 - Batch 1      |                                                     |                                              |
-|       2     |  02/12 - Batch 2      |                                                     |                                              |
-|       2     |  02/17 - Batch 1      |                                                     |                                              |
-|       2     |  02/19 - Batch 2      |                                                     |                                              |
-|       2     |  02/24 - Batch 1      |                                                     |                                              |
-|       2     |  02/26 - Batch 2      |                                                     |                                              |
-|       2     |  03/03 - Batch 1      |                                                     |                                              |
-|       2     |  03/05 - Batch 2      |                                                     |                                              |
-|       2     |  03/10 - Batch 1      |                                                     |                                              |
-|       2     |  03/12 - Batch 2      |                                                     |                                              |
-|       2     |  03/17 - Batch 1      |                                                     |                                              |
-|       2     |  03/19 - Batch 2      |                                                     |                                              |
-|       2     |  03/24 - Batch 1      |                                                     |                                              |
-|       2     |  03/26 - Batch 2      |                                                     |                                              |
-|       2     |  03/31 - Batch 1      | <span style="color:red">Holiday - Ramzan</span>     |                                              |
-|       2     |  04/02 - Batch 2      |                                                     |                                              |
-|       2     |  04/07 - Batch 1      |                                                     |                                              |
-|       2     |  04/09 - Batch 2      |                                                     |                                              |
-|       2     |  04/14 - Batch 1      | <span style="color:red">Holiday - Ambedkar Jayanti / Yugadi</span> |                               |
-|       2     |  04/16 - Batch 2      |                                                     |                                              |
-|       2     |  04/21 - Batch 1      |                                                     |                                              |
-|       2     |  04/23 - Batch 2      |                                                     |                                              |
-|       2     |  04/28 - Batch 1      |                                                     |                                              |
-|       2     |  04/30 - Batch 2      |                                                     |                                              |
+|       6     |  01/22 - Batch 2      |       Exercises on Pyton Basic Programs to learn varibales, assignment, functions and dunder name variables                                              |                                                                             |
+|       7     |  01/27 - Batch 1      |                                                     |                                              |
+|       8     |  01/29 - Batch 2      |                                                     |                                              |
+|       9     |  02/03 - Batch 1      |                                                     |                                              |
+|       10     |  02/05 - Batch 2      |                                                     |                                              |
+|       11    |  02/10 - Batch 1      |                                                     |                                              |
+|       12     |  02/12 - Batch 2      |                                                     |                                              |
+|       13     |  02/17 - Batch 1      |                                                     |                                              |
+|       14    |  02/19 - Batch 2      |                                                     |                                              |
+|       15    |  02/24 - Batch 1      |                                                     |                                              |
+|       16     |  02/26 - Batch 2      |                                                     |                                              |
+|       17    |  03/03 - Batch 1      |                                                     |                                              |
+|       18    |  03/05 - Batch 2      |                                                     |                                              |
+|       19     |  03/10 - Batch 1      |                                                     |                                              |
+|       20     |  03/12 - Batch 2      |                                                     |                                              |
+|       21     |  03/17 - Batch 1      |                                                     |                                              |
+|       22     |  03/19 - Batch 2      |                                                     |                                              |
+|       23     |  03/24 - Batch 1      |                                                     |                                              |
+|       24     |  03/26 - Batch 2      |                                                     |                                              |
+|       25     |  03/31 - Batch 1      | <span style="color:red">Holiday - Ramzan</span>     |                                              |
+|       26     |  04/02 - Batch 2      |                                                     |                                              |
+|       27     |  04/07 - Batch 1      |                                                     |                                              |
+|       28     |  04/09 - Batch 2      |                                                     |                                              |
+|       29     |  04/14 - Batch 1      | <span style="color:red">Holiday - Ambedkar Jayanti / Yugadi</span> |                               |
+|       30     |  04/16 - Batch 2      |                                                     |                                              |
+|       31     |  04/21 - Batch 1      |                                                     |                                              |
+|       32     |  04/23 - Batch 2      |                                                     |                                              |
+|       33     |  04/28 - Batch 1      |                                                     |                                              |
+|       34     |  04/30 - Batch 2      |                                                     |                                              |

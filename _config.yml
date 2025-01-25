@@ -33,6 +33,8 @@ include:
   - Downloads/01-21-2025
   - Downloads/01-22-2025
   - Downloads/Syllabus
+  - Downloads/01-28-2025
+  - Downloads/01-29-2025
 # Build settings
 theme: minima
 plugins:
