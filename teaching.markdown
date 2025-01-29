@@ -82,7 +82,7 @@ permalink: /teaching/
 |       5     |  01/20 - Batch 1      |       <a title="Unavailable - Occupied with University obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Lab </span></a>    |                                              |
 |       6     |  01/22 - Batch 2      |       Exercises on Pyton Basic Programs to learn varibales, assignment, functions and dunder name variables                                              |                                                                             |
 |       7     |  01/27 - Batch 1      |                                                     |                                              |
-|       8     |  01/29 - Batch 2      |                                                     |                                              |
+|       8     |  01/29 - Batch 2      |            Git Commands                                         |      [Donwload](https://education.github.com/git-cheat-sheet-education.pdf)                                        |
 |       9     |  02/03 - Batch 1      |                                                     |                                              |
 |       10     |  02/05 - Batch 2      |                                                     |                                              |
 |       11    |  02/10 - Batch 1      |                                                     |                                              |
