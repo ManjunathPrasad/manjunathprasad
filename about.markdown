@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Institute of Professional Education, Nitte University(Deemed to be University). Prior to this, I worked in software industry as a Technology Lead in both US and India. I developed various software products for clients like Travelers Insurance - Harford, Connecticut, USA, Microsoft Corporation- Redmond, WA, USA and, Charles Schwab Corporation - Austin, TX, USA. I have 12 Years experience in academic teaching and software industry exprience. 
+I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Institute of Professional Education, Nitte University(Deemed to be University). Prior to this, I worked in software industry as a Technology Lead in both US and India. I developed various software products for clients like Travelers Insurance - Harford, Connecticut, USA, Microsoft Corporation- Redmond, WA, USA and, Charles Schwab Corporation - Austin, TX, USA. I have 12 Years experience in academic teaching and software industry experience. 
 
 ### Education
 
@@ -17,3 +17,7 @@ I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Inst
 ### Research 
 My research interests are Machine Learning, Computer Vision and Vision-Language Models. 
 
+### Skills
+My skills are mostly varied across the domains of Machine Leanring, Computer Vision and Cloud Application Development and Software Development. 
+
+{% include skills.html %}
