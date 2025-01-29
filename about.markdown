@@ -18,5 +18,5 @@ I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Inst
 My research interests are Machine Learning, Computer Vision and Vision-Language Models. 
 
 ### Skills
-My skills are mostly varied across the domains of Machine Leanring, Computer Vision and Cloud Application Development and Software Development. 
+My skills are mostly varied across the domains of Machine Learning, Computer Vision and Cloud Application Development and Software Development. 
 
