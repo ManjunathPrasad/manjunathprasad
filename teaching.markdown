@@ -63,7 +63,7 @@ permalink: /teaching/
 | 9     |  01/23   |   <a title="Technical Issue with the Projector"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class | |
 | 10    |  01/28   |   Numbers and Operators |[Download](Downloads/01-28-2025/NumbersDemo.rar) |
 | 11    |  01/29   |   Data Types: Numeric, Dictionary, Set, Boolean and Sequences | [Download](Downloads/01-29-2025/Python01-29.rar)|
-| 12    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.rar) |
+| 12    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.py) |
 | 13    |  02/04   |    | |
 | 14    |  02/05   |    | |
 | 15    |  02/06   |    | |
