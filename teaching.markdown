@@ -64,8 +64,8 @@ permalink: /teaching/
 | 10    |  01/28   |   Numbers and Operators |[Download](Downloads/01-28-2025/NumbersDemo.rar) |
 | 11    |  01/29   |   Data Types: Numeric, Dictionary, Set, Boolean and Sequences | [Download](Downloads/01-29-2025/Python01-29.rar)|
 | 12    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.py) |
-| 13    |  02/04   |    | |
-| 14    |  02/05   |    | |
+| 13    |  02/04   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
+| 14    |  02/05   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>  | |
 | 15    |  02/06   |    | |
 | 16    |  02/10   |    | |
 | 17    |  02/11   |    | |
