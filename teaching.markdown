@@ -53,7 +53,7 @@ permalink: /teaching/
 |Lecture | Date     | Topics                                              |                    Resources                 |
 |:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
 | 1     |  01/07   |      Introduction Class             |     |
-| 2     |  01/08 <br> (09:30 AM - 11:10 AM)  |   Unit 1 -   History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
+| 2     |  01/08 <br> (09:30 AM - 11:10 AM)  |   <span style="color:blue"> Unit 1 -   History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
 | 3     |  01/09 <br> (10:20 AM - 11:10 AM) <br> 12:10 PM - 01:00 PM   |  Philosophy of Python  | [Download](Downloads/01-09-2025/Demo.py) |
 | 4     |  01/14   | <span style="color:red">Holiday - Makara Sankranti</span>   | |
 | 5     |  01/15   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class - Topics of this class are pre-covered on 01/08 </span></a>  | |
@@ -66,7 +66,7 @@ permalink: /teaching/
 | 12    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.py) |
 | 13    |  02/04   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
 | 14    |  02/05   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>  | |
-| 15    |  02/06   |  Unit 2 - Flow Control in Python <br> if, elif, else | |
+| 15    |  02/06   |  <span style="color:blue"> Unit 2 - Flow Control in Python <br> (if, elif, else) | |
 | 16    |  02/10   |    | |
 | 17    |  02/11   |    | |
 | 18    |  02/12   |    | |
