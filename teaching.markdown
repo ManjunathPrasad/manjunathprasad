@@ -66,10 +66,11 @@ permalink: /teaching/
 | 12    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.py) |
 | 13    |  02/04   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
 | 14    |  02/05   |  <span style="color:blue"> Unit 2 - Flow Control in Python <br> (if, elif, else)| |
-| 15    |  02/06   |  Coding examples using if, elif, and else in Python <br> Understading and coding the end cases | |
-| 16    |  02/10   |    | |
-| 17    |  02/11   |    | |
-| 18    |  02/12   |    | |
+| 15    |  02/06   |  Coding examples using if, elif, and else in Python <br> Understading and coding the edge cases | |
+| 16    |  02/08   |  Debugging and Learning Edge Cases  | |
+| 17    |  02/10   |  Debugging Techniques - Rubber Ducking :duck:, caveman, and others  | |
+| 18    |  02/11   |    | |
+| 19    |  02/12   |    | |
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
