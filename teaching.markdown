@@ -68,7 +68,7 @@ permalink: /teaching/
 | 14    |  02/05   |  <span style="color:blue"> Unit 2 - Flow Control in Python <br> (if, elif, else)| |
 | 15    |  02/06   |  Coding examples using if, elif, and else in Python <br> Understading and coding the edge cases | |
 | 16    |  02/08   |  Debugging and Learning Edge Cases  | |
-| 17    |  02/10   |  Debugging Techniques - Rubber Ducking :duck:, caveman, and others  | |
+| 17    |  02/10   |  Debugging Techniques - Rubber Ducking, caveman, and others  | |
 | 18    |  02/11   |    | |
 | 19    |  02/12   |    | |
 
