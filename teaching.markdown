@@ -69,10 +69,7 @@ permalink: /teaching/
 | 15    |  02/06   |  Coding examples using if, elif, and else in Python <br> Understading and coding the edge cases | |
 | 16    |  02/08   |  Debugging and Learning Edge Cases  | |
 | 17    |  02/10   |  Debugging Techniques - Rubber Ducking, caveman, and others  |  |
-| 18    |  02/11   |  Loops - For Loop and code examples  |  |
-| 19    |  02/12   |  Loops - While Loop, indefinite loop and coding examples  |  |
-| 20    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |  |
-| 21    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
+
 ### <a id="LabLoc">Laboratory Sessions</a>
 
 |   Sl. No    |    Date               |             Topics                                  |                    Resources                 |
