@@ -70,7 +70,6 @@ permalink: /teaching/
 | 16    |  02/08   |  Debugging and Learning Edge Cases  | |
 | 17    |  02/10   |  Debugging Techniques - Rubber Ducking, caveman, and others  |  |
 | 18    |  02/11   |  Loops - For Loop and code examples  |  |
-| 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
 |   Sl. No    |    Date               |             Topics                                  |                    Resources                 |
