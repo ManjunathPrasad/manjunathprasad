@@ -73,7 +73,7 @@ permalink: /teaching/
 | 19    |  02/12   |  Loops - While Loop, indefinite loop and coding examples |  |
 | 20    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |  |
 | 21    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
-
+| 22    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
