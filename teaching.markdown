@@ -71,7 +71,7 @@ permalink: /teaching/
 | 17    |  02/10   |  Debugging Techniques - Rubber Ducking and others  |  |
 | 18    |  02/11   |  Loops - For Loop and code examples  |  |
 | 19    |  02/12   |  Loops - While Loop, indefinite loop and coding examples |  |
-| 20    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |  |
+| 20    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |[Download](Downloads/02-13-2025/data_structures.py) |  |
 | 21    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
 | 22    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
 
