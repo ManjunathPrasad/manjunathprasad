@@ -74,6 +74,12 @@ permalink: /teaching/
 | 20    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |[Download](Downloads/02-13-2025/data_structures.py) |  |
 | 21    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
 | 22    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
+| 23    |  02/25   |  <a title="Due to Campus Bazaar and Cricket Match"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
+| 24    |  02/26   |  Practice Programs on Datastructures           | |
+| 25    |  02/27   |  Practice Programs on Datastructures           | |
+| 26    |  03/04   |  Debugging in VS Code           | |
+| 26    |  03/05   |  Functions - Types of Functions           | |
+
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
