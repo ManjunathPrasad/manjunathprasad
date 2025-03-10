@@ -39,6 +39,7 @@ include:
   - Downloads/02-06-2025
   - Downloads/02-10-2025
   - Downloads/02-13-2025
+  - Downloads/03-05-2025
 # Build settings
 theme: minima
 plugins:
