@@ -75,10 +75,12 @@ permalink: /teaching/
 | 21    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
 | 22    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
 | 23    |  02/25   |  <a title="Due to Campus Bazaar and Cricket Match"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
-| 24    |  02/26   |  Practice Programs on Datastructures           | |
-| 25    |  02/27   |  Practice Programs on Datastructures           | |
+| 24    |  02/26   |  Practice Programs on Unit 2 Datastructures           | |
+| 25    |  02/27   |  Practice Programs on Unit 2 Datastructures           | |
 | 26    |  03/04   |  Debugging in VS Code           | |
 | 26    |  03/05   |  Functions - Types of Functions           | |
+| 27    |  03/06   |  Types of Functions <br> Lambda Funcations | |
+| 28    |  03/10   |  Types of Lambda Functions <br> Map Function | |
 
 
 ### <a id="LabLoc">Laboratory Sessions</a>
