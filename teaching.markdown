@@ -79,8 +79,8 @@ permalink: /teaching/
 | 25    |  02/27   |  Practice Programs on Unit 2 Datastructures           | |
 | 26    |  03/04   |  Debugging in VS Code           | |
 | 26    |  03/05   |  Functions - Types of Functions           |[FunctionDemo.py](Downloads/03-05-2025/functionDemo.py) |
-| 27    |  03/06   |  Types of Functions <br> Lambda Funcations | |
-| 28    |  03/10   |  Types of Lambda Functions <br> Map Function | |
+| 27    |  03/06   |  Types of Functions <br> Lambda Funcations | [LambdaDemo.py](Downloads/03-05-2025/lambda_demo.py)|
+| 28    |  03/10   |  Types of Lambda Functions <br> Map Function | [MapDemo.py](Downloads/03-05-2025/demo_map.py)|
 
 
 ### <a id="LabLoc">Laboratory Sessions</a>
