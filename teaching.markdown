@@ -53,35 +53,38 @@ permalink: /teaching/
 |Lecture | Date     | Topics                                              |                    Resources                 |
 |:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
 | 1     |  01/07   |      Introduction Class             |     |
-| 2     |  01/08 <br> (09:30 AM - 11:10 AM)  |   <span style="color:blue"> Unit 1 -   History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
-| 3     |  01/09 <br> (10:20 AM - 11:10 AM) <br> 12:10 PM - 01:00 PM   |  Philosophy of Python  | [Download](Downloads/01-09-2025/Demo.py) |
-| 4     |  01/14   | <span style="color:red">Holiday - Makara Sankranti</span>   | |
-| 5     |  01/15   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class - Topics of this class are pre-covered on 01/08 </span></a>  | |
-| 6     |  01/16   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class - Topics of this class are pre-covered on 01/09 </span></a>  | |
-| 7     |  01/21   |   Print Statements and all its variants <br> Input Statements and some variants | [Download](Downloads/01-21-2025/01-21-2025.rar)|
-| 8     |  01/22   |  Comments in Python <br> Variables and Assignment  | [Download](Downloads/01-22-2025/Comments.pdf)|
-| 9     |  01/23   |   <a title="Technical Issue with the Projector"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class | |
-| 10    |  01/28   |   Numbers and Operators |[Download](Downloads/01-28-2025/NumbersDemo.rar) |
-| 11    |  01/29   |   Data Types: Numeric, Dictionary, Set, Boolean and Sequences | [Download](Downloads/01-29-2025/Python01-29.rar)|
-| 12    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.py) |
-| 13    |  02/04   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
-| 14    |  02/05   |  <span style="color:blue"> Unit 2 - Flow Control in Python <br> (if, elif, else)| |
-| 15    |  02/06   |  Coding examples using if, elif, and else in Python <br> Understanding and coding the edge cases | [Download](Downloads/02-06-2025/largest_number.py) |
-| 16    |  02/08   |  Debugging and Learning Edge Cases  | |
-| 17    |  02/10   |  Debugging Techniques - Rubber Ducking and others  | [Download](Downloads/02-10-2025/debugging_techniques.py) |
-| 18    |  02/11   |  Loops - For Loop and code examples  | [Download](Downloads/02-11-2025/DemoLoops.py) |
-| 19    |  02/12   |  Loops - While Loop, indefinite loop and coding examples |  |
-| 20    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |[Download](Downloads/02-13-2025/data_structures.py) |  |
-| 21    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
-| 22    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
-| 23    |  02/25   |  <a title="Due to Campus Bazaar and Cricket Match"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
-| 24    |  02/26   |  Practice Programs on Unit 2 Datastructures           | |
-| 25    |  02/27   |  Practice Programs on Unit 2 Datastructures           | |
-| 26    |  03/04   |  Debugging in VS Code           | |
-| 26    |  03/05   |  Functions - Types of Functions           |[FunctionDemo.py](Downloads/03-05-2025/functionDemo.py) |
-| 27    |  03/06   |  Types of Functions <br> Lambda Funcations | [LambdaDemo.py](Downloads/03-05-2025/lambda_demo.py)|
-| 28    |  03/10   |  Types of Lambda Functions <br> Map Function | [MapDemo.py](Downloads/03-05-2025/demo_map.py)|
-
+| 2 <br> 3    |  01/08 <br> (09:30 AM - 11:10 AM)  |   <span style="color:blue"> Unit 1 -   History and Background of Python <br> Comparison of C Programming Construct and Python Programming Constructs   | [Download](/Downloads/PythonDemo.zip)                    |
+| 3 <br> 4    |  01/09 <br> (10:20 AM - 11:10 AM) <br> 12:10 PM - 01:00 PM   |  Philosophy of Python  | [Download](Downloads/01-09-2025/Demo.py) |
+|      |  01/14   | <span style="color:red">Holiday - Makara Sankranti</span>   | |
+|      |  01/15   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class - Topics of this class are pre-covered on 01/08 </span></a>  | |
+|     |  01/16   |  <a title="Unavailable - Occupied with University Examination obligations"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class - Topics of this class are pre-covered on 01/09 </span></a>  | |
+| 5    |  01/21   |   Print Statements and all its variants <br> Input Statements and some variants | [Download](Downloads/01-21-2025/01-21-2025.rar)|
+| 6     |  01/22   |  Comments in Python <br> Variables and Assignment  | [Download](Downloads/01-22-2025/Comments.pdf)|
+|     |  01/23   |   <a title="Technical Issue with the Projector"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class | |
+| 7   |  01/28   |   Numbers and Operators |[Download](Downloads/01-28-2025/NumbersDemo.rar) |
+| 8    |  01/29   |   Data Types: Numeric, Dictionary, Set, Boolean and Sequences | [Download](Downloads/01-29-2025/Python01-29.rar)|
+| 9    |  01/30   |   Creating and Using Strings | [Download](Downloads/01-30-2025/Strings.py) |
+|      |  02/04   |  <a title="Instructor On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
+| 10    |  02/05   |  <span style="color:blue"> Unit 2 - Flow Control in Python <br> (if, elif, else)| |
+| 11    |  02/06   |  Coding examples using if, elif, and else in Python <br> Understanding and coding the edge cases | [Download](Downloads/02-06-2025/largest_number.py) |
+| 12    |  02/08   |  Debugging and Learning Edge Cases  | |
+| 13    |  02/10   |  Debugging Techniques - Rubber Ducking and others  | [Download](Downloads/02-10-2025/debugging_techniques.py) |
+| 14    |  02/11   |  Loops - For Loop and code examples  | [Download](Downloads/02-11-2025/DemoLoops.py) |
+| 15    |  02/12   |  Loops - While Loop, indefinite loop and coding examples |  |
+| 16    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |[Download](Downloads/02-13-2025/data_structures.py) |  |
+| 17    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
+| 18    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
+|     |  02/25   |  <a title="Due to Campus Bazaar and Cricket Match"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
+| 19    |  02/26   |  Practice Programs on Unit 2 Datastructures           | |
+| 20    |  02/27   |  Practice Programs on Unit 2 Datastructures           | |
+| 21    |  03/04   |  Debugging in VS Code           | |
+| 22    |  03/05   |  Functions - Types of Functions           |[FunctionDemo.py](Downloads/03-05-2025/functionDemo.py) |
+| 23    |  03/06   |  Types of Functions <br> Lambda Funcations | [LambdaDemo.py](Downloads/03-05-2025/lambda_demo.py)|
+| 24    |  03/10   |  Types of Lambda Functions <br> Map Function | [MapDemo.py](Downloads/03-05-2025/demo_map.py)|
+|       |  03/11   |  <a title="On Leave! Topics are covered on 03/10"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
+| 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py](Downloads/03-12-2025/iterator_function_demo.py <br> [generator_function_demo.py](Downloads/03-12-2025/generator_function_demo.py))
+|       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
+| 26    |  03/18   |  First class Function <br> Python Recursion (Memoization)  | |
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
