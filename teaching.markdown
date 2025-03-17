@@ -34,6 +34,9 @@ permalink: /teaching/
 - We ( 09:30 AM - 10:20 AM )
 - Th ( 10:20 AM - 11:10 AM )
 
+#### **[Online Classes](#OnlineCLassLoc)**
+- Three classes per week will be conducted online. The details of the online classes will be shared with the students separately.
+
 #### **[Lab](#LabLoc)**
 - Mo ( 01:50 PM - 03:30 PM )
 - We ( 01:50 PM - 03:30 PM )
