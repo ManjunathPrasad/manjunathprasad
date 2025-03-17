@@ -90,6 +90,7 @@ permalink: /teaching/
 | 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py](Downloads/03-12-2025/iterator_function_demo.py) <br> [generator_function_demo.py](Downloads/03-12-2025/generator_function_demo.py) |
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function <br> Python Recursion (Memoization)  | |
+| 27    |  03/19   |  Packages | |
 
 ### <a id="OnlineClassLoc">Online Classes</a>
 
