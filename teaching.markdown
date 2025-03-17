@@ -88,6 +88,14 @@ permalink: /teaching/
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function <br> Python Recursion (Memoization)  | |
 
+### <a id="OnlineClassLoc">Online Classes</a>
+
+|Lecture | Date     | Topics                                              |                    Resources                 |
+|:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
+| 1     |  03/17   |      Object Oriented Programming in Python             |     |
+| 2     |  03/18   |      Classes and Objects                              |      |
+
+
 ### <a id="LabLoc">Laboratory Sessions</a>
 
 |   Sl. No    |    Date               |             Topics                                  |                    Resources                 |
