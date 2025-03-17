@@ -39,6 +39,8 @@ permalink: /teaching/
 - We ( 01:50 PM - 03:30 PM )
 
 #### **Announcements**
+- No Class on 03/13 - On Leave
+- No Class on 03/11 - On Leave
 - No Lab for Batch 1 on <span style="color:blue">01/20 (Monday)</span>
 - No Classes on <span style="color:blue">01/15</span> and <span style="color:blue">01/16</span>. Topics are already covered on <span style="color:blue">01/08</span> and <span style="color:blue">01/09</span> 
 - Holiday on <span style="color:blue">01/14</span>
