@@ -82,7 +82,7 @@ permalink: /teaching/
 | 23    |  03/06   |  Types of Functions <br> Lambda Funcations | [LambdaDemo.py](Downloads/03-05-2025/lambda_demo.py)|
 | 24    |  03/10   |  Types of Lambda Functions <br> Map Function | [MapDemo.py](Downloads/03-05-2025/demo_map.py)|
 |       |  03/11   |  <a title="On Leave! Topics are covered on 03/10"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
-| 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py](Downloads/03-12-2025/iterator_function_demo.py <br> [generator_function_demo.py](Downloads/03-12-2025/generator_function_demo.py))
+| 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py] (Downloads/03-12-2025/iterator_function_demo.py) <br> [generator_function_demo.py] (Downloads/03-12-2025/generator_function_demo.py)
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function <br> Python Recursion (Memoization)  | |
 
