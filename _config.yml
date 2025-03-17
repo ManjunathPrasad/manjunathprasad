@@ -22,11 +22,25 @@ title: Manjunath Prasad H. R.
 email: manjunathprasad99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "mprasad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/manjunathprasad" # the subpath of your site, e.g. /blog
+url: "manjunathprasad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+include:
+  - Downloads
+  - Downloads/01-09-2025
+  - Downloads/01-21-2025
+  - Downloads/01-22-2025
+  - Downloads/Syllabus
+  - Downloads/01-28-2025
+  - Downloads/01-29-2025
+  - Downloads/01-30-2025
+  - Downloads/02-06-2025
+  - Downloads/02-10-2025
+  - Downloads/02-13-2025
+  - Downloads/03-05-2025
+  - Downloads/03-12-2025
 # Build settings
 theme: minima
 plugins:
