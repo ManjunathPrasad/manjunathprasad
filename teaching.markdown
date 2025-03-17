@@ -71,7 +71,7 @@ permalink: /teaching/
 | 13    |  02/10   |  Debugging Techniques - Rubber Ducking and others  | [Download](Downloads/02-10-2025/debugging_techniques.py) |
 | 14    |  02/11   |  Loops - For Loop and code examples  | [Download](Downloads/02-11-2025/DemoLoops.py) |
 | 15    |  02/12   |  Loops - While Loop, indefinite loop and coding examples |  |
-| 16    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |[Download](Downloads/02-13-2025/data_structures.py) |  |
+| 16    |  02/13   |  Lists and Dictionary - Basic Operations and Functions |[Download](Downloads/02-13-2025/data_structures.py) |  
 | 17    |  02/13   |  Tuples, Sets, and Strings - Basic Operations and Functions |  | 
 | 18    |  02/24   |  <span style="color:blue"> Unit 3 - Functions, Modules and Packages: <br> Creating a module, Importing a module, Advantage of modules. | |
 |     |  02/25   |  <a title="Due to Campus Bazaar and Cricket Match"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a> | |
@@ -82,7 +82,7 @@ permalink: /teaching/
 | 23    |  03/06   |  Types of Functions <br> Lambda Funcations | [LambdaDemo.py](Downloads/03-05-2025/lambda_demo.py)|
 | 24    |  03/10   |  Types of Lambda Functions <br> Map Function | [MapDemo.py](Downloads/03-05-2025/demo_map.py)|
 |       |  03/11   |  <a title="On Leave! Topics are covered on 03/10"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
-| 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py](Downloads/03-12-2025/iterator_function_demo.py) <br> [generator_function_demo.py](Downloads/03-12-2025/generator_function_demo.py)
+| 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py](Downloads/03-12-2025/iterator_function_demo.py) <br> [generator_function_demo.py](Downloads/03-12-2025/generator_function_demo.py) |
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function <br> Python Recursion (Memoization)  | |
 
