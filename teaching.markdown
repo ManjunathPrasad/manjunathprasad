@@ -86,11 +86,12 @@ permalink: /teaching/
 |       |  03/11   |  <a title="On Leave! Topics are covered on 03/10"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 25    |  03/12   | Iterator Function <br> Generator Function <br> Differences | [iterator_function_demo.py](Downloads/03-12-2025/iterator_function_demo.py) <br> [generator_function_demo.py](Downloads/03-12-2025/generator_function_demo.py) |
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
-| 26    |  03/18   |  First class Function <br> Python Recursion (Memoization)  | |
+| 26    |  03/18   |  First class Function  | |
+|27 | 03/19 | Python Recursion (Memoization) ||
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
-|   Sl. No    |    Date               |             Topics                                  |                    Resources                 |
+|   Sl. No    |    Date               |             Topics                                  |  sssss                  Resources                 |
 |:-----------:|:----------------------|:---------------------------------------------------:|:--------------------------------------------:|
 |       1     |  01/06 - Batch 1      |          (Lab) Hands-on Hello World Program         |  <span style="color:gray">Download</span>    |
 |       2     |  01/08 - Batch 2      |          (Lab) Hands-on Hello World Program         |                                              |
