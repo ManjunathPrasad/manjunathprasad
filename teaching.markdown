@@ -34,6 +34,9 @@ permalink: /teaching/
 - We ( 09:30 AM - 10:20 AM )
 - Th ( 10:20 AM - 11:10 AM )
 
+#### **[Online Classes](#OnlineCLassLoc)**
+- Three classes per week will be conducted online. The details of the online classes will be shared with the students separately.
+
 #### **[Lab](#LabLoc)**
 - Mo ( 01:50 PM - 03:30 PM )
 - We ( 01:50 PM - 03:30 PM )
@@ -88,6 +91,14 @@ permalink: /teaching/
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function  | |
 |27 | 03/19 | Python Recursion (Memoization) ||
+
+### <a id="OnlineClassLoc">Online Classes</a>
+
+|Lecture | Date     | Topics                                              |                    Resources                 |
+|:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
+| 1     |  03/17   |      Object Oriented Programming in Python             |     |
+| 2     |  03/18   |      Classes and Objects                              |      |
+
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
