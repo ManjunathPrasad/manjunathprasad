@@ -112,7 +112,7 @@ permalink: /teaching/
 
 ### <a id="LabLoc">Laboratory Sessions</a>
 
-|   Sl. No    |    Date               |             Topics                                  |  sssss                  Resources                 |
+|   Sl. No    |    Date               |             Topics                                  |                   Resources                 |
 |:-----------:|:----------------------|:---------------------------------------------------:|:--------------------------------------------:|
 |       1     |  01/06 - Batch 1      |          (Lab) Hands-on Hello World Program         |  <span style="color:gray">Download</span>    |
 |       2     |  01/08 - Batch 2      |          (Lab) Hands-on Hello World Program         |                                              |
