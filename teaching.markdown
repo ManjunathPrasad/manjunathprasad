@@ -91,13 +91,27 @@ permalink: /teaching/
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function  | |
 |27 | 03/19 | Python Recursion (Memoization) ||
+|28 | 03/20 | ||
+|28 | 03/25 | ||
+|28 | 03/27 | ||
+|28 | 04/01 | ||
+|28 | 04/02 | ||
+|28 | 04/03 | ||
+|28 | 04/05 | Recap of MSE topics ||
+|28 | 04/09 | ||
 
 ### <a id="OnlineClassLoc">Online Classes</a>
 
 |Lecture | Date     | Topics                                              |                    Resources                 |
 |:-----:|:---------|:---------------------------------------------------:|:--------------------------------------------:|
-| 1     |  03/17   |      Object Oriented Programming in Python             |     |
+| 1     |  03/17   |      Object Oriented Programming in Python            |      |
 | 2     |  03/18   |      Classes and Objects                              |      |
+
+
+| 3     |  03/20   |      Classes and Objects Examples                     |   [Video Link](https://nitteeduin-my.sharepoint.com/personal/manjunath_prasad_nitte_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmanjunath%5Fprasad%5Fnitte%5Fedu%5Fin%2FDocuments%2FRecordings%2FOOP%20with%20Python%2D20250317%5F183651%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E66aa2881%2D7f02%2D4e4f%2Db6b0%2D12a6a6a35c74)   |
+
+
+| 4     |  03/21   |      Properties Getters and Setters                   |   [Video Link](https://nitteeduin-my.sharepoint.com/personal/manjunath_prasad_nitte_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmanjunath_prasad_nitte_edu_in%2FDocuments%2FRecordings%2FOOP%20with%20Python-20250321_184646-Meeting%20Recording%2Emp4&referrer=Teams%2ETEAMS-ELECTRON&referrerScenario=RecapOpenInStreamButton%2Eview%2Eaa097eea-d4b7-4dcf-b396-36a16fd6b25c)   |
 
 
 ### <a id="LabLoc">Laboratory Sessions</a>
