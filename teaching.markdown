@@ -93,7 +93,7 @@ permalink: /teaching/
 |27 | 03/19 | Python Recursion (Memoization) |[memoization.py](/Downloads/03-19-2025/memoization.py)|
 |28 | 03/20 | Classes and Objects<br> Constructors and Destructors|[class_object_demo.py](/Downloads/03-20-2025/class_object_demo.py)|
 |29 | 03/25 | ||
-|30 | 03/27 | Packages - inbuilt in packages||
+|30 | 03/27 | Packages - built-in packages||
 |31 | 04/01 | Inheritance <br> Types of Inheritance|[inheritance_demo.py](/Downloads/04-01-2025/inheritance_demo.py)|
 |32 | 04/02 | Inheritance Hands-on <br> Overiding function (polymorphism)|[overriding_demo.py](/Downloads/04-02-2025/Overriding_demo.py)|
 |33 | 04/03 | Access Specifiers - public, private and protected|[private_protected_demo.py](/Downloads/04-03-2025/private_protected_methods.py)|
