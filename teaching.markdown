@@ -92,13 +92,13 @@ permalink: /teaching/
 | 26    |  03/18   |  First class Function  | |
 |27 | 03/19 | Python Recursion (Memoization) ||
 |28 | 03/20 | ||
-|28 | 03/25 | ||
-|28 | 03/27 | ||
-|28 | 04/01 | ||
-|28 | 04/02 | ||
-|28 | 04/03 | ||
-|28 | 04/05 | Recap of MSE topics ||
-|28 | 04/09 | ||
+|29 | 03/25 | ||
+|30 | 03/27 | ||
+|31 | 04/01 | ||
+|32 | 04/02 | ||
+|33 | 04/03 | ||
+|34 | 04/05 | Recap of MSE topics ||
+|35 | 04/09 | ||
 
 ### <a id="OnlineClassLoc">Online Classes</a>
 
