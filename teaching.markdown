@@ -118,7 +118,7 @@ permalink: /teaching/
 | 3     |  03/20   |      Classes and Objects Examples                     |   [Video Link](https://nitteeduin-my.sharepoint.com/personal/manjunath_prasad_nitte_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmanjunath%5Fprasad%5Fnitte%5Fedu%5Fin%2FDocuments%2FRecordings%2FOOP%20with%20Python%2D20250317%5F183651%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E66aa2881%2D7f02%2D4e4f%2Db6b0%2D12a6a6a35c74)   |
 | 4     |  03/21   |      Properties Getters and Setters                   |   [Video Link](https://nitteeduin-my.sharepoint.com/personal/manjunath_prasad_nitte_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmanjunath_prasad_nitte_edu_in%2FDocuments%2FRecordings%2FOOP%20with%20Python-20250321_184646-Meeting%20Recording%2Emp4&referrer=Teams%2ETEAMS-ELECTRON&referrerScenario=RecapOpenInStreamButton%2Eview%2Eaa097eea-d4b7-4dcf-b396-36a16fd6b25c)   |
 
-<!-->
+<!--
 ### <a id="LabLoc">Laboratory Sessions</a>
 
 |   Sl. No    |    Date               |             Topics                                  |                   Resources                 |
