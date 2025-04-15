@@ -91,14 +91,23 @@ permalink: /teaching/
 |       |  03/13   |  <a title="On Leave"><span style="color:black; text-decoration: none;" onmouseover="this.style.textDecoration='underline black';" onmouseout="this.style.textDecoration='none';">No Class </span></a>| |
 | 26    |  03/18   |  First class Function  | [firstclass_function.py](/Downloads/03-18-2025/first_class_function.py)|
 |27 | 03/19 | Python Recursion (Memoization) |[memoization.py](/Downloads/03-19-2025/memoization.py)|
-|28 | 03/20 | Classes and Objects<br> Constructors and Destructors|[class_object_demo.py](/Downloads/03-20-2025/class_object_demo.py)|
+|28 | 03/20 | <span style="color:blue"> Classes and Objects<br> Constructors and Destructors|[class_object_demo.py](/Downloads/03-20-2025/class_object_demo.py)|
 |29 | 03/25 | ||
 |30 | 03/27 | Packages - built-in packages||
 |31 | 04/01 | Inheritance <br> Types of Inheritance|[inheritance_demo.py](/Downloads/04-01-2025/inheritance_demo.py)|
 |32 | 04/02 | Inheritance Hands-on <br> Overiding function (polymorphism)|[overriding_demo.py](/Downloads/04-02-2025/Overriding_demo.py)|
 |33 | 04/03 | Access Specifiers - public, private and protected|[private_protected_demo.py](/Downloads/04-03-2025/private_protected_methods.py)|
 |34 | 04/05 | Recap of MSE topics ||
-|35 | 04/09 | ||
+|35 | 04/09 | super keyword|[super.py](/Downloads/04-09-2025/super.py)|
+|36 | 04/10 | Exception Handling|[excpetion_demo.py](/Downloads/04-10-2025/exception_demo.py)|
+|   | 04/14 | <span style="color:red">Holiday - Dr. B. R. Ambedkar's Birth Anniversary</span> ||
+|37 | 04/15 | <span style="color:blue"> Files Handling - Introduction <br> Files and Directories <br> File operation with OS package|[files_demo.py](/Downloads/04-15-2025/files_demo.py)|
+|38 | 04/16 | ||
+|39 | 04/17 | ||
+|40 | 04/21 | ||
+|41 | 04/22 | ||
+|42 | 04/23 | ||
+|43 | 04/24 | ||
 
 ### <a id="OnlineClassLoc">Online Classes</a>
 
