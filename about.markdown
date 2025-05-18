@@ -23,13 +23,13 @@ My skills are mostly varied across the domains of Machine Learning, Computer Vis
 | Skills | Programming Language / Tools / Library |
 |:------|:-------------------------------|
 | Backend | C#.NET, ASP.NET Core(MVC and WebAPI) 8.0, Python |
-| Machine Learning | NumPy, Pandas, OpenCV, Scikit-Learn, PyTorch and Vision Torch, MATLAB(Deep Learning Toolbox)|
+| Machine Learning | Proficient in NumPy and Pandas. Moderately knowledgeable in OpenCV, Scikit-Learn, PyTorch and Vision Torch, MATLAB(Deep Learning Toolbox)|
 | Front end | Reactjs, Angular19, Typescript, JavaScript, Bootstrap, CSS3, HTML5 |
 | Database | Microsoft SQL Server 2019, MongoDB, MySQL, OracleDB and IBM Db2 |
 | Test Automation | Microsoft Playwright and Selenium |
 | Unit Testing | xUnit, NUnit, MS Test, Moq, Auto Fixture, Auto Moq and Fluent Assertions
 | Cloud | Azure, AWS and PCF | 
 | Version Control | Git, Azure Devops and Atlassian Bitbucket|
-| Documentations | LaTeX, Confulence, MS Word, MS One Note, Notion | 
+| Documentations | LaTeX, Confluence, MS Word, MS One Note, Notion | 
 | CI / CD | Azure DevOps, AWS DevOps|
 | API Tools | Postman and Swagger |
