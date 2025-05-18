@@ -21,7 +21,7 @@ My research interests are Machine Learning, Computer Vision and Vision-Language 
 My skills are mostly varied across the domains of Machine Learning, Computer Vision and Cloud Application Development and Software Development. I have a Full Stack Web development skills. I am currently learning RUST programming language as RUST is all over in the air for its performance. 
 
 | Skills | Programming Language / Tools / Library |
-|:------:|:-------------------------------|
+|:------|:-------------------------------|
 | Backend | C#.NET, ASP.NET Core(MVC and WebAPI) 8.0, Python |
 | Machine Learning | NumPy, Pandas, OpenCV, Scikit-Learn, PyTorch and Vision Torch, MATLAB(Deep Learning Toolbox)|
 | Front end | Reactjs, Angular19, Typescript, JavaScript, Bootstrap, CSS3, HTML5 |
