@@ -18,4 +18,18 @@ I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Inst
 My research interests are Machine Learning, Computer Vision and Vision-Language Models. 
 
 ### Skills
-My skills are mostly varied across the domains of Machine Learning, Computer Vision and Cloud Application Development and Software Development. 
+My skills are mostly varied across the domains of Machine Learning, Computer Vision and Cloud Application Development and Software Development. I have a Full Stack Web development skills. I am currently leanring RUST programming language as RUST is all over in the air for its performance. 
+
+| Skills | Programming Language / Tools / Library |
+|:------:|:-------------------------------:|
+| Backend | C#.NET, ASP.NET Core(MVC and WebAPI) 8.0, Python, MATLAB(Deep Learning Toolbox)|
+| Machine Learning | NumPy, Pandas, OpenCV, Scikit-Learn, PyTorch and Vision Torch|
+| Front end | Reactjs, Angular19, Typescript, JavaScript, Bootstrap, CSS3, HTML5 |
+| Database | Microsoft SQL Server 2019, MongoDB, MySQL, OracleDB and IBM Db2 |
+| Test Automation | Microsoft Playwright and Selenium |
+| Unit Testing | xUnit, NUnit, MS Test, Moq, Auto Fixture, Auto Moq and Fluent Assertions
+| Cloud | Azure, AWS and PCF | 
+| Version Control | Git, Azure Devops and Atlassian Bitbucket|
+| Documentations | LaTeX, Confulence, MS Word, MS One Note, Notion | 
+| CI / CD | Azure DevOps, AWS DevOps|
+| API Tools | Postman and Swagger |
