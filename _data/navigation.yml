@@ -11,3 +11,5 @@ navigation:
   #     url: /teaching/22PCA203/
   #   - title: 22PCA611
   #     url: /teaching/22PCA611/
+  - title: "DSP"
+    url: "/manjunathprasad/dsp"
