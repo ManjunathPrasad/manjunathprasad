@@ -14,24 +14,6 @@ I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Inst
 |3       |Bachelor of Engineering | Computer Science and Engineering  | Visvesvaraya Technological University, Belgaum | 2008 |  
 
 
-## __Research__ 
-My research interests are Machine Learning, Computer Vision and Vision-Language Models. 
-
-### __Publications__
-
-### Under Review
-
-1. <span style="color:blue"> Vision Language Integration for Zero-shot Scene Understanding in Real World Environments</span> — <span style="color:red"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</span>
-
-    - Status: Under Review (since **July, 2025**)
-    - Role: First Author
-    - IEEE TPAMI is ranked as the #1 journal in AI and Computer Vision, with Impact Factor 18.6 (2025) and CiteScore 35.
-
-2. <span style="color:blue"> Dynamic Context-Aware Scene Reasoning using Vision Language Alignment in Zero-shot Real World Scenarios</span> — <span style="color:red"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</span>
-
-    - Status: Under Review (since **September, 2025**)
-    - Role: First Author
-    - Flagship IEEE Transactions journal, widely recognized as beyond Q1 standard.
 
 ## __Skills__
 My skills are mostly varied across the domains of Machine Learning, Computer Vision and Cloud Application Development and Software Development. I have a Full Stack Web development skills. I am currently learning RUST programming language as RUST is all over in the air for its performance. 
