@@ -13,3 +13,7 @@ navigation:
   #     url: /teaching/22PCA611/
   - title: "DSP"
     url: "/manjunathprasad/dsp"
+  - title: "Research"
+    url: "/manjunathprasad/research"
+  - title: "/manjunathprasad/"
+    url: "Group"
