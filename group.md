@@ -3,6 +3,7 @@ layout: page
 title: Group
 permalink: /group/
 ---
+<<<<<<< HEAD
 
 <h2>Research Team</h2>
 <ol class="team-list">
@@ -18,3 +19,18 @@ permalink: /group/
   <li>Prakrathi V, Chaithra Achari, Durga Deepika, Sneha Naik (Third Year)</li>
   <li>Tejas M, Jathin Salian, Kiran C, Vishal Acharya (Third Year)</li>
 </ol>
+<<<<<<< HEAD
+=======
+=======
+## Research Team 
+    1. Prakrathi V (Third Year) - Research Honors Graduation 2027
+    2. Athmika (Second Year) - 2027
+    3. Dishanth Shetty (Second Year) - 2027 
+    4. Jenisha Castelino (Second Year) - 2027
+    5. Manasvi (Second Year) - 2027
+
+## Project Teams
+    1. Prakrathi V, Chaithra Achari, Durga Deepika, Sneha Naik (Third Year)
+    2. Tejas M, Jathin Salian, Kiran C, Vishal Acharya (Third Year)
+>>>>>>> dff320c (Fixed enumeration and headings)
+>>>>>>> 1aac174880e579c410b4ac58ecaa0d9f598102d9
