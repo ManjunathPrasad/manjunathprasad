@@ -8,6 +8,8 @@ navigation:
     url: "/manjunathprasad/teaching/"
   - title: "Group"
     url: "/manjunathprasad/Group"
+  - title: "Publications"
+    url: "/manjunathprasad/Publications"
   # children:
   #   - title: 24PCA203
   #     url: /teaching/22PCA203/
