@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: page
 title: Research Group
 permalink: /group/
 ---
 
-# Announcements
+<!-- # Announcements
 <span style="color:blue">October 11, 2025</span> - <span style="color:red">Congratulations Prakrathi</span> - She earned a Microsoft certified certification **Azure Fundamentals (AZ 900)** from Microsoft. 
 
 # Current Work 
@@ -25,13 +25,9 @@ Currently our computer vision team is working on learning Mathematical foundatio
 2. Dishanth Shetty (2025 - 2027)
 3. K Mansavi (2025 - 2027) -->
 
----
-layout: page
-title: Research Group
-permalink: /group/
----
 
-## 📰 Announcements
+
+### 📰 Announcements
 
 **<span style="color:blue;">October 11, 2025</span>** —  
 🎉 <span style="color:red;">**Congratulations, Prakrathi!**</span>  
@@ -45,39 +41,39 @@ An excellent achievement and a proud moment for our group! 🌟
 Our group is passionately exploring **cutting-edge problems** in *Computer Vision* and *Artificial Intelligence*.  
 Below are our **active research themes**:
 
-1. 🩺 **A Vision-Language-Action Framework for Diabetic Retinopathy Prognosis**  
+1. **A Vision-Language-Action Framework for Diabetic Retinopathy Prognosis**  
    Developing interpretable AI pipelines for predictive medical imaging.
 
-2. 🛰️ **Zero-Shot Remote Sensing Scene Classification using Vision-Language Models**  
+2. **Zero-Shot Remote Sensing Scene Classification using Vision-Language Models**  
    Pushing the boundaries of cross-domain generalization in Earth observation.
 
-3. 🧩 **Cross-Domain Pattern-Aware Self-Supervised Representation Learning**  
+3. **Cross-Domain Pattern-Aware Self-Supervised Representation Learning**  
    Building robust recognition systems for real-world visual understanding under label scarcity.
 
 ---
 
-## ☁️ Cloud Computing & AI Integration Team
+### ☁️ Cloud Computing & AI Integration Team
 
 Our **Cloud Team** is driven by curiosity and innovation, focusing on the **synergy between Cloud Computing and Artificial Intelligence**.  
 They are currently working on **intelligent cloud architectures** and **AI-driven scalability solutions**, aiming to contribute impactful research publications.
 
 **Team Members:**
-- 🌤️ **Prakrathi V** (2024 – 2026)  
-- ☁️ **Jenisha Castelino** (2025 – 2027)
+- **Prakrathi V** (2024 – 2026)  
+- **Jenisha Castelino** (2025 – 2027)
 
 ---
 
-## 👁️ Computer Vision (CV) Team
+### 👁️ Computer Vision (CV) Team
 
 The **Computer Vision Team** is focused on mastering the **mathematical and theoretical foundations** of Machine Learning and Deep Learning.  
 Their mission is to evolve from foundational understanding to **research publications** in top-tier vision and AI venues.
 
 **Team Members:**
-- 🔍 **Athmika** (2025 – 2027)  
-- 📸 **Dishanth Shetty** (2025 – 2027)  
-- 🧠 **K. Mansavi** (2025 – 2027)
+- **Athmika** (2025 – 2027)  
+- **Dishanth Shetty** (2025 – 2027)  
+- **K. Mansavi** (2025 – 2027)
 
 ---
 
 > _“The essence of research is curiosity, collaboration, and continual learning.”_  
-> — **Research Group, Department of Computer Science**
+> — **Computer Vision and Cloud Research Group, Department of Computer Applications, Nitte institute of Professional Education, Nitte(DU)**_
