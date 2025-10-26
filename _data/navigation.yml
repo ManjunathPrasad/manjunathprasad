@@ -6,10 +6,12 @@ navigation:
     url: "/manjunathprasad/about/"
   - title: "Teaching"
     url: "/manjunathprasad/teaching/"
+  - title: "Group"
+    url: "/manjunathprasad/Group"
   # children:
   #   - title: 24PCA203
   #     url: /teaching/22PCA203/
   #   - title: 22PCA611
   #     url: /teaching/22PCA611/
-  - title: "DSP"
-    url: "/manjunathprasad/dsp"
+  # - title: "DSP"
+  #   url: "/manjunathprasad/dsp"

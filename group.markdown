@@ -4,7 +4,7 @@ title: Research Group
 permalink: /group/
 ---
 
-# Announcments
+# Announcements
 <span style="color:blue">October 11, 2025</span> - <span style="color:red">Congratulations Prakrathi</span> - She earned a Microsoft certified certification **Azure Fundamentals (AZ 900)** from Microsoft. 
 
 
