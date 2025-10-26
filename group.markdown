@@ -10,7 +10,7 @@ permalink: /group/
 
 
 ### Cloud Team  
-Our cloud team are enthusiastic in developing an original research based on the integration of Cloud computing and artificial intelligence concepts. Currently our cloud team is working on problems in cloud and AI intersections. Our cloud team mebers are:
+Our cloud team are enthusiastic in developing an original research based on the integration of Cloud computing and artificial intelligence concepts. Currently our cloud team is working on problems in cloud and AI intersections and publish novel research work. Our cloud team members are:
 1. Prakrathi V (2024 - 2026)
 2. Jenisha Castelino(2024 - 2026)
 
