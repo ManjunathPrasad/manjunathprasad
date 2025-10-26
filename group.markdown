@@ -27,7 +27,7 @@ Currently our computer vision team is working on learning Mathematical foundatio
 
 
 
-### 📰 Announcements
+### Announcements
 
 **<span style="color:blue;">October 11, 2025</span>** —  
 🎉 <span style="color:red;">**Congratulations, Prakrathi!**</span>  
@@ -36,7 +36,7 @@ An excellent achievement and a proud moment for our group! 🌟
 
 ---
 
-## 🚀 Current Research Directions
+## Current Research Directions
 
 Our group is passionately exploring **cutting-edge problems** in *Computer Vision* and *Artificial Intelligence*.  
 Below are our **active research themes**:
@@ -76,4 +76,4 @@ Their mission is to evolve from foundational understanding to **research publica
 ---
 
 > _“The essence of research is curiosity, collaboration, and continual learning.”_  
-> — **Computer Vision and Cloud Research Group, Department of Computer Applications, Nitte institute of Professional Education, Nitte(DU)**_
+> _**Computer Vision and Cloud Research Group, Department of Computer Applications, Nitte Institute of Professional Education, Nitte(DU)**_
