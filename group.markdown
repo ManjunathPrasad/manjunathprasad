@@ -28,6 +28,9 @@ Currently our computer vision team is working on learning Mathematical foundatio
 
 
 ### Announcements
+**<span style="color:blue;">October 30, 2025</span>** —  
+🎉 One of our research paper submitted to <span style="color:red;">IEEE Transactions on PAMI</span> is now appeared in ArXiv Pre-prints  
+**Latest Research:** Preprint published on [arXiv:2510.25070](https://arxiv.org/abs/2510.25070) — *Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments*.
 
 **<span style="color:blue;">October 11, 2025</span>** —  
 🎉 <span style="color:red;">**Congratulations, Prakrathi!**</span>  
