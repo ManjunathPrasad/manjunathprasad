@@ -55,6 +55,13 @@ theme: minima
 plugins:
   - jekyll-feed
   
+# Navigation order control
+header_pages:
+  - index.markdown
+  - about.markdown
+  - group.markdown
+  - publication.markdown
+  - teaching.markdown
 
 
 # Exclude from processing.
