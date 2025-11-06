@@ -4,83 +4,117 @@ title: Research Group
 permalink: /group/
 ---
 
-<!-- # Announcements
-<span style="color:blue">October 11, 2025</span> - <span style="color:red">Congratulations Prakrathi</span> - She earned a Microsoft certified certification **Azure Fundamentals (AZ 900)** from Microsoft. 
+<div style="max-width: 950px; margin: auto;">
 
-# Current Work 
-We are actively working on exciting problems in Computer Vision area. Following are our current ongoing work of our team:
+<!-- ================== Announcements ================== -->
+<h2>Announcements</h2>
 
-1. A Vision-language-Action Framework for Diabetic Retinopathy Prognosis.
-2. Zero-shot Remote Sensing Scene Classification using Vision Language Models
-3. Cross-Domain Pattern-Aware Self-Supervised Representation Learning for Robust Vision Recognition under Label Scarcity
+<div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong> —</p>
+  <p>
+    🎉 <strong>Two</strong> of our research papers submitted to 
+    <span style="color:#C0392B;">IEEE Transactions on PAMI</span> have now appeared as preprints on <strong>arXiv</strong>.
+  </p>
+  <ul style="margin-top:0;">
+    <li>Preprint: <a href="https://arxiv.org/abs/2510.25070"><em>Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments</em></a></li>
+    <li>Preprint: <a href="https://arxiv.org/abs/2510.26580"><em>Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment in Zero-Shot Real-World Scenarios</em></a></li>
+  </ul>
+</div>
 
-### Cloud Team  
-Our cloud team are enthusiastic in developing an original research based on the integration of Cloud computing and artificial intelligence concepts. Currently our cloud team is working on problems in cloud and AI intersections and publish novel research work. Our cloud team members are:
-1. Prakrathi V (2024 - 2026)
-2. Jenisha Castelino (2025 - 2027)
+<div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> —</p>
+  <p>
+    🎉 <strong style="color:#C0392B;">Congratulations, Prakrathi!</strong><br>
+    She successfully earned the <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong> certification.  
+    A proud moment for our group! 🌟
+  </p>
+</div>
 
-### Computer Vision Team (CV)
-Currently our computer vision team is working on learning Mathematical foundations required to build machine learning models. we are building our knowledge from the ground level with a vision of publishing papers in the field of computer vision and deep learning. our CV team members are as follows: 
-1. Athmika (2025 - 2027) 
-2. Dishanth Shetty (2025 - 2027)
-3. K Mansavi (2025 - 2027) -->
+<hr style="margin:2em 0;">
 
+<!-- ================== Current Research ================== -->
+<h2>Current Research Directions</h2>
 
-### Announcements
-**<span style="color:blue;">October 30, 2025</span>** —  
-🎉 **Two** of our research papers submitted to <span style="color:red;">IEEE Transactions on PAMI</span> is now appeared in ArXiv Pre-prints  
+<p style="text-align:justify;">
+Our group is passionately exploring <strong>cutting-edge problems</strong> in <strong>Computer Vision</strong> and <strong>Artificial Intelligence</strong>.  
+We focus on building practical, interpretable, and generalizable AI systems.  
+</p>
 
-**Latest Research:** 
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
+  <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0;">🩺 Vision-Language-Action Framework for Diabetic Retinopathy Prognosis</h3>
+    <p style="text-align:justify;">Developing interpretable AI pipelines for predictive medical imaging and early diagnosis of diabetic retinopathy.</p>
+  </div>
 
-Preprint published on [arXiv:2510.25070](https://arxiv.org/abs/2510.25070) — *Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments*.
+  <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0;">🌍 Zero-Shot Remote Sensing Scene Classification</h3>
+    <p style="text-align:justify;">Exploring cross-domain generalization in Earth observation using vision-language models for global environmental analysis.</p>
+  </div>
 
-Preprint published on [arXiv:2510.26580](https://arxiv.org/abs/2510.26580) — *Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment in Zero-Shot Real-World Scenarios*.
+  <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0;">🔁 Cross-Domain Pattern-Aware Self-Supervised Learning</h3>
+    <p style="text-align:justify;">Building robust visual understanding systems for real-world applications under label scarcity using representation learning.</p>
+  </div>
+</div>
 
-**<span style="color:blue;">October 11, 2025</span>** —  
-🎉 <span style="color:red;">**Congratulations, Prakrathi!**</span>  
-She has successfully earned the **Microsoft Certified: Azure Fundamentals (AZ-900)** certification from Microsoft.  
-An excellent achievement and a proud moment for our group! 🌟
+<hr style="margin:2em 0;">
 
----
+<!-- ================== Teams ================== -->
+<h2>Our Research Teams</h2>
 
-## Current Research Directions
+<!-- Cloud AI Team -->
+<div style="background:#f9fbff; border-left:5px solid #007BFF; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+  <h3 style="margin-top:0;">☁️ Cloud Computing &amp; AI Integration Team</h3>
+  <p style="text-align:justify;">
+    This team explores the synergy between <strong>Cloud Computing</strong> and <strong>Artificial Intelligence</strong>.  
+    Their current work focuses on intelligent cloud architectures, scalable AI deployment, and inference optimization for deep learning models.
+  </p>
+  <p><strong>Team Members:</strong></p>
+  <ul style="margin-top:0;">
+    <li><strong>Prakrathi V</strong> (2024 – 2026)</li>
+    <li><strong>Jenisha Castelino</strong> (2025 – 2027)</li>
+  </ul>
+</div>
 
-Our group is passionately exploring **cutting-edge problems** in *Computer Vision* and *Artificial Intelligence*.  
-Below are our **active research themes**:
+<!-- CV Team -->
+<div style="background:#fff9fb; border-left:5px solid #C2185B; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+  <h3 style="margin-top:0;">👁️ Computer Vision Team</h3>
+  <p style="text-align:justify;">
+    The Computer Vision team is focused on mastering the <strong>theoretical and mathematical foundations</strong> of machine learning, deep learning, and visual recognition.  
+    They are actively transitioning toward research publications in top-tier AI venues.
+  </p>
+  <p><strong>Team Members:</strong></p>
+  <ul style="margin-top:0;">
+    <li><strong>Athmika</strong> (2025 – 2027)</li>
+    <li><strong>Dishanth Shetty</strong> (2025 – 2027)</li>
+    <li><strong>K. Mansavi</strong> (2025 – 2027)</li>
+  </ul>
+</div>
 
-1. **A Vision-Language-Action Framework for Diabetic Retinopathy Prognosis**  
-   Developing interpretable AI pipelines for predictive medical imaging.
+<hr style="margin:2em 0;">
 
-2. **Zero-Shot Remote Sensing Scene Classification using Vision-Language Models**  
-   Pushing the boundaries of cross-domain generalization in Earth observation.
+<!-- ================== Join Us Section ================== -->
+<h2>Join Us</h2>
 
-3. **Cross-Domain Pattern-Aware Self-Supervised Representation Learning**  
-   Building robust recognition systems for real-world visual understanding under label scarcity.
+<div style="background:#f8f9fa; border:1px solid #e2e6ea; border-radius:12px; padding:25px; box-shadow:0 3px 8px rgba(0,0,0,0.05); margin-bottom:30px;">
+  <h3 style="margin-top:0;">🚀 Interested in Joining Our Research Group?</h3>
+  <p style="text-align:justify;">
+    We are always open to motivated undergraduate students interested in <strong>Computer Vision</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Cloud–AI Integration</strong>.  
+    If you are passionate about advancing the frontiers of AI and wish to collaborate on impactful research, feel free to get in touch.
+  </p>
 
----
+  <p style="margin-top:15px;">
+    📧 <strong>Contact:</strong> <a href="mailto:manjunathprasad99@gmail.com">manjunathprasad99@gmail.com</a><br>
+    🌐 <a href="https://manjunathprasad.github.io/manjunathprasad/">Visit Homepage</a>
+  </p>
+</div>
 
-### ☁️ Cloud Computing & AI Integration Team
+<hr style="margin:2em 0;">
 
-Our **Cloud Team** is driven by curiosity and innovation, focusing on the **synergy between Cloud Computing and Artificial Intelligence**.  
-They are currently working on **intelligent cloud architectures** and **AI-driven scalability solutions**, aiming to contribute impactful research publications.
+<p style="text-align:center; font-style:italic; color:#555;">
+“The essence of research is curiosity, collaboration, and continual learning.”<br>
+<strong>Computer Vision and Cloud Research Group</strong><br>
+Department of Computer Applications, Nitte Institute of Professional Education, Nitte (Deemed to be University)
+</p>
 
-**Team Members:**
-- **Prakrathi V** (2024 – 2026)  
-- **Jenisha Castelino** (2025 – 2027)
-
----
-
-### 👁️ Computer Vision (CV) Team
-
-The **Computer Vision Team** is focused on mastering the **mathematical and theoretical foundations** of Machine Learning and Deep Learning.  
-Their mission is to evolve from foundational understanding to **research publications** in top-tier vision and AI venues.
-
-**Team Members:**
-- **Athmika** (2025 – 2027)  
-- **Dishanth Shetty** (2025 – 2027)  
-- **K. Mansavi** (2025 – 2027)
-
----
-
-> _“The essence of research is curiosity, collaboration, and continual learning.”_  
-> _**Computer Vision and Cloud Research Group, Department of Computer Applications, Nitte Institute of Professional Education, Nitte(DU)**_
+</div>
