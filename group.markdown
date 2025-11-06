@@ -26,11 +26,15 @@ Currently our computer vision team is working on learning Mathematical foundatio
 3. K Mansavi (2025 - 2027) -->
 
 
-
 ### Announcements
 **<span style="color:blue;">October 30, 2025</span>** —  
-🎉 One of our research paper submitted to <span style="color:red;">IEEE Transactions on PAMI</span> is now appeared in ArXiv Pre-prints  
-**Latest Research:** Preprint published on [arXiv:2510.25070](https://arxiv.org/abs/2510.25070) — *Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments*.
+🎉 **Two** of our research papers submitted to <span style="color:red;">IEEE Transactions on PAMI</span> is now appeared in ArXiv Pre-prints  
+
+**Latest Research:** 
+
+Preprint published on [arXiv:2510.25070](https://arxiv.org/abs/2510.25070) — *Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments*.
+
+Preprint published on [arXiv:2510.26580](https://arxiv.org/abs/2510.26580) — *Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment in Zero-Shot Real-World Scenarios*.
 
 **<span style="color:blue;">October 11, 2025</span>** —  
 🎉 <span style="color:red;">**Congratulations, Prakrathi!**</span>  

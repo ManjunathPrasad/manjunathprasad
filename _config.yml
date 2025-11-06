@@ -61,7 +61,7 @@ header_pages:
   - about.markdown
   - group.markdown
   - publication.markdown
-  - teaching.markdown
+  - teaching/index.markdown
 
 
 # Exclude from processing.
