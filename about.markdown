@@ -141,7 +141,7 @@ details summary::after {
     <p style="margin:0; color:#007BFF; font-weight:bold;">Jan 2017 – Jan 2019</p>
     <p><strong>Master of Science (M.S.)</strong><br>
       Computer and Information Sciences,<br>
-      University of Massachusetts Dartmouth, USA
+      University of Massachusetts, USA
     </p>
   </div>
 
