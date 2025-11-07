@@ -282,7 +282,5 @@ details summary::after {
   </p>
 </div>
 
-<hr style="margin:2em 0 1em; border:0; border-top:1px solid #ccc;">
-<p style="text-align:center; color:#777;">Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
 
 </div>

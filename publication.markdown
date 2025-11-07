@@ -56,7 +56,4 @@ My research focuses on <strong>Machine Learning</strong>, <strong>Computer Visio
   </ul>
 </div>
 
-<hr style="margin:2em 0 1em; border:0; border-top:1px solid #ccc;">
-<p style="text-align:center; color:#777; font-size:0.9em;">Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
-
 </div>
