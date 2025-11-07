@@ -65,6 +65,7 @@ header_pages:
   - about.markdown
   - group.markdown
   - publication.markdown
+  - patent.markdown
   - teaching/index.markdown
 
 
