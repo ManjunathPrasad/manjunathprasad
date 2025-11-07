@@ -175,10 +175,10 @@ div, section, footer, header {
       I aim to build efficient and interpretable AI systems capable of
       reasoning across perception and language in real-world environments.
     </p>
-
     <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:15px;">
       <a href="https://scholar.google.com/citations?user=5370e0oAAAAJ&hl=en" target="_blank"
          style="text-decoration:none; background:#333; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">Google Scholar</a>
+      <a href="https://orcid.org/0000-0002-8836-6693" target="_blank" style="text-decoration:none; background:#A6CE39; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">ORCID iD</a>
       <a href="{{ '/group/' | relative_url }}" 
          style="text-decoration:none; background:#0056b3; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">Research Group</a>
       <a href="mailto:manjunathprasad99@gmail.com"
