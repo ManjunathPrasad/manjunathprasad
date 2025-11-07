@@ -39,7 +39,7 @@ This section provides details of my ongoing and previously taught courses.
     <h3 style="margin-top:0;">☁️ Cloud DevOps (Planned)</h3>
     <p><strong>Course Code:</strong> TBD</p>
     <p><strong>Semester:</strong> Spring 2026</p>
-    <p><strong>Status:</strong> Upcoming</p>
+    <p><strong>Status:</strong> Jan 2026 – May 2026</p>
     <p style="font-size:0.95em; text-align:justify;">
       This course will provide an introduction to <strong>Cloud-native development</strong> and <strong>DevOps practices</strong> —  
       covering CI/CD pipelines, containerization, infrastructure as code (IaC), and deployment automation using platforms like  
@@ -53,10 +53,10 @@ This section provides details of my ongoing and previously taught courses.
   </div>
   <!-- .NET Backend Development -->
 <div style="flex:1; min-width:280px; max-width:420px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 3px 6px rgba(0,0,0,0.05);">
-  <h3 style="margin-top:0;">⚙️ .NET Backend Development</h3>
+  <h3 style="margin-top:0;">⚙️ .NET Backend Development (Planned)</h3>
   <p><strong>Course Code:</strong> TBD</p>
   <p><strong>Semester:</strong> Spring 2026</p>
-  <p><strong>Duration:</strong> Jan 2025 – May 2025</p>
+  <p><strong>Duration:</strong> Jan 2026 – May 2026</p>
   <p style="font-size:0.95em; text-align:justify;">
     A lab-intensive course focusing on backend web application development using <strong>ASP.NET Core 8</strong>.  
     Students learn MVC architecture, middleware, authentication, REST APIs, and deployment practices.
