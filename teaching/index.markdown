@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <div style="max-width:950px; margin:auto;">
 
-<h3 style="margin-top:0;">Courses Taught</h3>
+<!-- <h3 style="margin-top:0;">Courses Taught</h3> -->
 <p style="text-align:justify;">
 As part of the Department of Computer Applications at <strong>Nitte Institute of Professional Education</strong>,  
 I teach a range of undergraduate courses that emphasize practical understanding and modern computing concepts.  

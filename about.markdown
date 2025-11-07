@@ -41,7 +41,7 @@ My skills are mostly varied across the domains of Machine Learning, Computer Vis
 
 <!-- ================== Introduction ================== -->
 <div style="background:#f8f9fa; border-radius:10px; padding:25px; border:1px solid #e2e6ea; box-shadow:0 2px 6px rgba(0,0,0,0.05); margin-bottom:30px;">
-  <h2 style="margin-top:0;">About Me</h2>
+  <!-- <h2 style="margin-top:0;">About Me</h2> -->
   <p style="text-align:justify;">
     I am <strong>Manjunath Prasad</strong>, currently working as an <strong>Assistant Professor</strong> in the Department of Computer Applications at  
     <strong>Nitte Institute of Professional Education</strong>, Nitte (Deemed to be University).
@@ -62,91 +62,149 @@ My skills are mostly varied across the domains of Machine Learning, Computer Vis
 <!-- ================== Professional Timeline ================== -->
 <h2>Professional Timeline</h2>
 
+<!-- Inline CSS for animation and styles -->
+<style>
+@keyframes fadeSlideIn {
+  0% { opacity: 0; transform: translateY(25px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.timeline-entry {
+  opacity: 0;
+  animation: fadeSlideIn 0.9s ease forwards;
+}
+.timeline-entry:nth-child(1) { animation-delay: 0.1s; }
+.timeline-entry:nth-child(2) { animation-delay: 0.2s; }
+.timeline-entry:nth-child(3) { animation-delay: 0.3s; }
+.timeline-entry:nth-child(4) { animation-delay: 0.4s; }
+.timeline-entry:nth-child(5) { animation-delay: 0.5s; }
+.timeline-entry:nth-child(6) { animation-delay: 0.6s; }
+.timeline-entry:nth-child(7) { animation-delay: 0.7s; }
+.timeline-entry:nth-child(8) { animation-delay: 0.8s; }
+
+.timeline-entry p { margin: 3px 0; line-height: 1.5; }
+.timeline-entry strong { color: #222; }
+
+.timeline-dot { position:relative; top:-5px; left:-42px; border-radius:50%; width:16px; height:16px; display:inline-block; }
+.timeline-dot.academic { background:#007BFF; }
+.timeline-dot.industry { background:#6C757D; }
+
+.timeline-dot:hover { transform: scale(1.15); box-shadow: 0 0 6px rgba(0,0,0,0.25); transition: all 0.2s ease; }
+
+details summary {
+  font-weight: 600;
+  color: #007BFF;
+  cursor: pointer;
+  margin: 15px 0;
+  font-size: 1em;
+}
+details summary:hover {
+  color: #0056b3;
+}
+details[open] summary::after {
+  content: "▲";
+  float: right;
+  color: #007BFF;
+}
+details summary::after {
+  content: "▼";
+  float: right;
+  color: #007BFF;
+}
+
+</style>
+
+<!-- Visible Recent Roles -->
 <div style="position:relative; margin:40px 0; padding-left:30px; border-left:3px solid #007BFF;">
 
-  <!-- Nitte Institute -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
+  <!-- 1 -->
+  <div class="timeline-entry" style="margin-bottom:30px;">
+    <div class="timeline-dot academic"></div>
     <p style="margin:0; color:#007BFF; font-weight:bold;">May 2024 – Present</p>
-    <p style="margin:3px 0 0 0;"><strong>Assistant Professor</strong><br>
+    <p><strong>Assistant Professor</strong><br>
       Department of Computer Applications,<br>
       Nitte Institute of Professional Education, Nitte (Deemed to be University)
     </p>
   </div>
 
-  <!-- Technology Lead -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">Aug 2019 – Apr 2024</p>
-    <p style="margin:3px 0 0 0;"><strong>Technology Lead</strong><br>
-      Worked on enterprise-scale projects for global clients at on-site locations - <strong>Texas (Austin)</strong>, <strong>Washington (Seattle)</strong>, <strong>Connecticut (Hartford)</strong>, and <strong>Mysuru, India</strong>.
+  <!-- 2 -->
+  <div class="timeline-entry" style="margin-bottom:30px;">
+    <div class="timeline-dot industry"></div>
+    <p style="margin:0; color:#6C757D; font-weight:bold;">Aug 2019 – Apr 2024</p>
+    <p><strong>Technology Lead</strong><br>
+      Worked on enterprise-scale projects for global clients in <strong>Austin, TX</strong>, <strong>Seattle, WA</strong>, <strong>Hartford, CT</strong>, and <strong>Mysuru, India</strong>.
     </p>
   </div>
 
-  <!-- MS UMass -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
+  <!-- 3 -->
+  <div class="timeline-entry" style="margin-bottom:30px;">
+    <div class="timeline-dot academic"></div>
     <p style="margin:0; color:#007BFF; font-weight:bold;">Jan 2017 – Jan 2019</p>
-    <p style="margin:3px 0 0 0;"><strong>Master of Science (M.S.)</strong><br>
+    <p><strong>Master of Science (M.S.)</strong><br>
       Computer and Information Sciences,<br>
       University of Massachusetts Dartmouth, USA
     </p>
   </div>
 
-  <!-- NMAMIT -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">Jun 2014 – Jan 2017</p>
-    <p style="margin:3px 0 0 0;"><strong>Assistant Professor</strong><br>
-      Department of Computer Science and Engineering,<br>
-      NMAM Institute of Technology, Nitte
-    </p>
-  </div>
+  <!-- Collapsible Section -->
+  <details>
+    <summary>Show Full Timeline </summary>
+    <div style="margin-top:15px;">
 
-  <!-- Canara Engineering College -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">Jun 2011 – May 2014</p>
-    <p style="margin:3px 0 0 0;"><strong>Assistant Professor</strong><br>
-      Department of Computer Science and Engineering,<br>
-      Canara Engineering College, Benjanapadavu, Mangaluru
-    </p>
-  </div>
+      <div class="timeline-entry" style="margin-bottom:30px;">
+        <div class="timeline-dot academic"></div>
+        <p style="margin:0; color:#007BFF; font-weight:bold;">Jun 2014 – Jan 2017</p>
+        <p><strong>Assistant Professor</strong><br>
+          Department of Computer Science and Engineering,<br>
+          NMAM Institute of Technology, Nitte
+        </p>
+      </div>
 
-  <!-- M.Tech -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">Sep 2009 – May 2011</p>
-    <p style="margin:3px 0 0 0;"><strong>Master of Technology (M.Tech)</strong><br>
-      Computer Network Engineering,<br>
-      Ballari Institute of Technology and Management, Ballari
-    </p>
-  </div>
+      <div class="timeline-entry" style="margin-bottom:30px;">
+        <div class="timeline-dot academic"></div>
+        <p style="margin:0; color:#007BFF; font-weight:bold;">Jun 2011 – May 2014</p>
+        <p><strong>Assistant Professor</strong><br>
+          Department of Computer Science and Engineering,<br>
+          Canara Engineering College, Benjanapadavu, Mangaluru
+        </p>
+      </div>
 
-  <!-- Lecturer, BGS -->
-  <div style="margin-bottom:30px;">
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">Aug 2008 – Jun 2009</p>
-    <p style="margin:3px 0 0 0;"><strong>Lecturer</strong><br>
-      Department of Computer Science and Engineering,<br>
-      B.G.S. Institute of Technology (Now Adichunchanagiri University)
-    </p>
-  </div>
+      <div class="timeline-entry" style="margin-bottom:30px;">
+        <div class="timeline-dot academic"></div>
+        <p style="margin:0; color:#007BFF; font-weight:bold;">Sep 2009 – May 2011</p>
+        <p><strong>Master of Technology (M.Tech)</strong><br>
+          Computer Network Engineering,<br>
+          Ballari Institute of Technology and Management, Ballari
+        </p>
+      </div>
 
-  <!-- Bachelor of Engineering -->
-  <div>
-    <div style="position:relative; top:-5px; left:-42px; background:#007BFF; border-radius:50%; width:16px; height:16px; display:inline-block;"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">Sep 2004 – May 2008</p>
-    <p style="margin:3px 0 0 0;"><strong>Bachelor of Engineering (B.E.)</strong><br>
-      Computer Science and Engineering,<br>
-      Visvesvaraya Technological University, Belgaum
-    </p>
-  </div>
+      <div class="timeline-entry" style="margin-bottom:30px;">
+        <div class="timeline-dot academic"></div>
+        <p style="margin:0; color:#007BFF; font-weight:bold;">Aug 2008 – Jun 2009</p>
+        <p><strong>Lecturer</strong><br>
+          Department of Computer Science and Engineering,<br>
+          B.G.S. Institute of Technology (Now Adichunchanagiri University)
+        </p>
+      </div>
+
+      <div class="timeline-entry">
+        <div class="timeline-dot academic"></div>
+        <p style="margin:0; color:#007BFF; font-weight:bold;">Sep 2004 – May 2008</p>
+        <p><strong>Bachelor of Engineering (B.E.)</strong><br>
+          Computer Science and Engineering,<br>
+          Visvesvaraya Technological University, Belgaum
+        </p>
+      </div>
+
+    </div>
+  </details>
 </div>
+
+
 
 
 <!-- ================== Education ================== -->
 <h2>Education</h2>
+
 <div style="overflow-x:auto;">
 <table>
   <thead>
