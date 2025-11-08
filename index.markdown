@@ -86,7 +86,7 @@ div, section, footer, header {
 <div style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
 
   <!-- ================== Oval Profile Image with Hover Effect ================== -->
-  <style>
+  <!-- <style>
   .profile-pic-oval {
     width: 200px;
     height: auto;
@@ -152,7 +152,91 @@ div, section, footer, header {
     line-height: 1.6;
 }
 
-  </style>
+  </style> -->
+<style>
+.profile-pic-oval {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: contain;
+  border: 3px solid #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.profile-pic-oval:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(0,123,255,0.4);
+}
+
+/* Layout containers */
+.page-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Sidebar: left-aligned and compact */
+.sidebar {
+  flex: 1;
+  min-width: 240px;
+  max-width: 280px;
+  background: #f8f9fa;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  height: 750px;
+  text-align: left;
+  line-height: 1.6;
+}
+
+/* Main content: justified + line spacing for research readability */
+.main-content {
+  flex: 3.5;
+  min-width: 350px;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.75;
+  word-spacing: 0.05em;
+}
+
+/* Headings and lists */
+.main-content h2 {
+  text-align: left;
+  margin-top: 25px;
+}
+
+.main-content ul {
+  text-align: left;
+  padding-left: 25px;
+  line-height: 1.6;
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  .page-container {
+    flex-direction: column-reverse;
+    gap: 20px;
+    padding: 0 10px;
+  }
+  .sidebar {
+    order: 2;
+    max-width: 100%;
+    height: auto;
+  }
+  .main-content {
+    order: 1;
+    max-width: 100%;
+    line-height: 1.6;
+  }
+  .profile-pic-oval {
+    width: 160px;
+  }
+}
+</style>
+
+
 
   <img src="{{ '/assets/images/profile.png' | relative_url }}" 
        alt="Manjunath Prasad H. R."
