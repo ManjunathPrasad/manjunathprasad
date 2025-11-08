@@ -10,7 +10,7 @@ permalink: /group/
 <h2>Announcements</h2>
 
 <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong> —</p>
+  <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong></p>
   <p>
     🎉 <strong>Two</strong> of our research papers submitted to 
     <span style="color:#C0392B;">IEEE Transactions on PAMI</span> have now appeared as preprints on <strong>arXiv</strong>.
@@ -22,7 +22,7 @@ permalink: /group/
 </div>
 
 <div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> —</p>
+  <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> </p>
   <p>
     🎉 <strong style="color:#C0392B;">Congratulations, Prakrathi!</strong><br>
     She successfully earned the <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong> certification.  

@@ -154,21 +154,17 @@ div, section, footer, header {
 
   <!-- ================== Profile Summary Card ================== -->
   <div style="max-width:800px; margin:auto; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); padding:20px; margin-top:25px;">
-
     <p style="font-size:0.95em; text-align:center; margin-bottom:15px;">
       <strong>Assistant Professor</strong><br>
       Department of Computer Applications<br>
       Nitte Institute of Professional Education<br>
       <span style="color:#555;">Nitte (Deemed to be University)</span>
     </p>
-
     <hr style="border:0; height:1px; background:#ddd; margin:10px 0;">
-
     <p style="font-size:0.9em; text-align:center; color:#333; margin-bottom:10px;">
       <strong>Research Interests</strong><br>
       Machine Learning · Computer Vision · Vision-Language Models
     </p>
-
     <p style="font-size:0.9em; color:#444; text-align:justify; line-height:1.5; margin-bottom:15px;">
       My research explores the integration of visual and linguistic representations
       for <strong>zero-shot scene understanding</strong> and <strong>context-aware multimodal learning</strong>.  
