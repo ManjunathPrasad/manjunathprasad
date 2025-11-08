@@ -183,7 +183,7 @@ div, section, footer, header {
          style="text-decoration:none; background:#0056b3; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">Research Group</a>
       <a href="mailto:manjunathprasad99@gmail.com"
          style="text-decoration:none; background:#6c3483; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">Email</a>
-      <a href="{{ '/Downloads/CV_ManjunathPrasad.pdf' | relative_url }}" target="_blank"
+      <a href="{{ '/Downloads/Manjunath_Resume_2025.pdf' | relative_url }}" target="_blank"
          style="text-decoration:none; background:#198754; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">Download CV</a>
     </div>
 
