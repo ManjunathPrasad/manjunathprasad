@@ -143,6 +143,15 @@ div, section, footer, header {
       width: 160px;
     }
   }
+
+  .main-content {
+    flex: 3.5;
+    min-width: 350px;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.6;
+}
+
   </style>
 
   <img src="{{ '/assets/images/profile.png' | relative_url }}" 
@@ -217,6 +226,7 @@ div, section, footer, header {
     </ul>
   </div>
 
+  
   <!-- Main Content -->
   <div class="main-content">
     <p>
