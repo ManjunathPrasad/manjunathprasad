@@ -3,156 +3,11 @@ layout: page
 title:                                                
 permalink: /
 ---
-
-<!-- <style>
-:root {
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --link-color: #0056b3;
-  --card-bg: #f8f9fa;
-  --border-color: #e2e6ea;
-}
-
-[data-theme='dark'] {
-  --bg-color: #121212;
-  --text-color: #e0e0e0;
-  --link-color: #70b5ff;
-  --card-bg: #1e1e1e;
-  --border-color: #333;
-}
-
-/* Apply globally */
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  transition: background 0.3s ease, color 0.3s ease;
-}
-a {
-  color: var(--link-color);
-  transition: color 0.3s ease;
-}
-div, section, footer, header {
-  background-color: var(--card-bg);
-  border-color: var(--border-color);
-  transition: background 0.3s ease, border 0.3s ease;
-}
-</style>
- -->
-
-
-<!-- ================== Theme Toggle Button ================== -->
-<!-- <button id="theme-toggle"
-        style="position: fixed; top: 15px; right: 20px; 
-               border: none; border-radius: 50%; width: 42px; height: 42px;
-               font-size: 20px; cursor: pointer; z-index: 1000;
-               transition: all 0.3s ease;">
-  🌞
-</button>
-
-<script>
-  const toggle = document.getElementById('theme-toggle');
-  const currentTheme = localStorage.getItem('theme') || 'light';
-  document.documentElement.setAttribute('data-theme', currentTheme);
-  toggle.textContent = currentTheme === 'dark' ? '🌙' : '🌞';
-
-  // Apply button color dynamically based on theme
-  const setButtonStyle = (theme) => {
-    if (theme === 'dark') {
-      toggle.style.background = '#ffffff';
-      toggle.style.color = '#000000';
-      toggle.style.boxShadow = '0 0 10px rgba(255,255,255,0.3)';
-    } else {
-      toggle.style.background = '#222222';
-      toggle.style.color = '#ffffff';
-      toggle.style.boxShadow = '0 0 10px rgba(0,0,0,0.2)';
-    }
-  };
-
-  setButtonStyle(currentTheme);
-
-  toggle.addEventListener('click', () => {
-    let theme = document.documentElement.getAttribute('data-theme');
-    let newTheme = theme === 'light' ? 'dark' : 'light';
-    document.documentElement.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-    toggle.textContent = newTheme === 'dark' ? '🌙' : '🌞';
-    setButtonStyle(newTheme);
-  });
-</script> -->
-
-
-
 <!-- ===== Hero Section ===== -->
 <div style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
 
-  <!-- ================== Oval Profile Image with Hover Effect ================== -->
-  <!-- <style>
-  .profile-pic-oval {
-    width: 200px;
-    height: auto;
-    border-radius: 50%;
-    object-fit: contain;
-    border: 3px solid #fff;
-    box-shadow: 0 0 10px rgba(0,0,0,0.15);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .profile-pic-oval:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 20px rgba(0,123,255,0.4);
-  }
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;500&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
-  /* Responsive layout adjustments */
-  .page-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-  .sidebar {
-    flex: 1;
-    min-width: 240px;
-    max-width: 280px;
-    background: #f8f9fa;
-    padding: 15px 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    height: 750px;
-  }
-  .main-content {
-    flex: 3.5;
-    min-width: 350px;
-  }
-
-  /* Mobile: Stack columns vertically */
-  @media (max-width: 768px) {
-    .page-container {
-      flex-direction: column-reverse;
-      gap: 20px;
-      padding: 0 10px;
-    }
-    .sidebar {
-      order: 2;
-      max-width: 100%;
-    }
-    .main-content {
-      order: 1;
-      max-width: 100%;
-    }
-    .profile-pic-oval {
-      width: 160px;
-    }
-  }
-
-  .main-content {
-    flex: 3.5;
-    min-width: 350px;
-    text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-}
-
-  </style> -->
 <style>
 .profile-pic-oval {
   width: 200px;
@@ -233,6 +88,26 @@ div, section, footer, header {
   .profile-pic-oval {
     width: 160px;
   }
+
+  /* Heading font styling for main content */
+.main-content h2 {
+  text-align: left;
+  margin-top: 25px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  color: #004AAD; /* professional blue accent */
+  letter-spacing: 0.3px;
+  font-size: 1.6em;
+}
+
+.sidebar h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  color: #003366;
+  letter-spacing: 0.3px;
+  margin-bottom: 8px;
+}
+
 }
 </style>
 
@@ -256,7 +131,7 @@ div, section, footer, header {
     <hr style="border:0; height:1px; background:#ddd; margin:10px 0;">
     <p style="font-size:0.9em; text-align:center; color:#333; margin-bottom:10px;">
       <strong>Research Interests</strong><br>
-      Machine Learning · Computer Vision · Vision-Language Models
+      Computer Vision · Deep Learning · Vision-Language Models · Vision-Language-Action Models 
     </p>
     <p style="font-size:0.9em; color:#444; text-align:justify; line-height:1.5; margin-bottom:15px;">
       My research explores the integration of visual and linguistic representations
