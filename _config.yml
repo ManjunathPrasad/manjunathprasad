@@ -1,39 +1,139 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# # Welcome to Jekyll!
+# #
+# # This config file is meant for settings that affect your whole blog, values
+# # which you are expected to set up once and rarely edit after that. If you find
+# # yourself editing this file very often, consider using Jekyll's data files
+# # feature for the data you need to update frequently.
+# #
+# # For technical reasons, this file is *NOT* reloaded automatically when you use
+# # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# #
+# # If you need help with YAML syntax, here are some quick references for you:
+# # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# # https://learnxinyminutes.com/docs/yaml/
+# #
+# # Site settings
+# # These are used to personalize your new site. If you look in the HTML files,
+# # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# # You can create any custom variable you would like, and they will be accessible
+# # in the templates via {{ site.myvariable }}.
 
+# title: Home
+# email: manjunathprasad99@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+
+
+# title: "Manjunath Prasad H. R. — Assistant Professor and Researcher in Computer Vision, Deep Learning, and AI"
+# description: "Official academic website of Manjunath Prasad H. R., Assistant Professor at Nitte (Deemed to be University). His research focuses on Machine Learning, Deep Learning, Computer Vision, Vision-Language Models, and Cloud-AI Integration."
+# keywords: "Manjunath Prasad, Manjunath Prasad H. R., Manjunath Prasad Nitte, Assistant Professor, Computer Vision, Deep Learning, Machine Learning, Vision-Language Models, Cloud AI, Researcher India, Nitte University, AI Researcher, Academic Profile"
+# author: "Manjunath Prasad Holenarasipura Rajiv"
+
+
+# baseurl: "/manjunathprasad" # the subpath of your site, e.g. /blog
+# url: "manjunathprasad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# #twitter_username: jekyllrb
+# #github_username:  jekyll
+
+# # Enable sitemap and SEO
+# theme: minima
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+
+# include:
+#   - Downloads
+#   - Downloads/01-09-2025
+#   - Downloads/01-21-2025
+#   - Downloads/01-22-2025
+#   - Downloads/Syllabus
+#   - Downloads/01-28-2025
+#   - Downloads/01-29-2025
+#   - Downloads/01-30-2025
+#   - Downloads/02-06-2025
+#   - Downloads/02-10-2025
+#   - Downloads/02-13-2025
+#   - Downloads/03-05-2025
+#   - Downloads/03-12-2025
+#   - Downloads/03-18-2025
+#   - Downloads/03-19-2025
+#   - Downloads/03-20-2025
+#   - Downloads/04-01-2025
+#   - Downloads/04-03-2025
+#   - Downloads/04-09-2025
+#   - Downloads/04-10-2025
+#   - Downloads/04-15-2025
+#   #- _includes/head-custom.html
+#   - _includes/footer.html
+
+
+#   # - assets/css/custom.css
+# # Build settings
+# # theme: minima
+# # plugins:
+# #   - jekyll-feed
+  
+# # Navigation order control
+# header_pages:
+#   - index.markdown
+#   - about.markdown
+#   - group.markdown
+#   - publication.markdown
+#   - patent.markdown
+#   - teaching/index.markdown
+
+
+# # Exclude from processing.
+# # The following items will not be processed, by default.
+# # Any item listed under the `exclude:` key here will be automatically added to
+# # the internal "default list".
+# #
+# # Excluded items can be processed by explicitly listing the directories or
+# # their entries' file path in the `include:` list.
+# #
+# # exclude:
+# #   - .sass-cache/
+# #   - .jekyll-cache/
+# #   - gemfiles/
+# #   - Gemfile
+# #   - Gemfile.lock
+# #   - node_modules/
+# #   - vendor/bundle/
+# #   - vendor/cache/
+# #   - vendor/gems/
+# #   - vendor/ruby/
+# ===========================================================
+#  JEKYLL CONFIGURATION FILE – Manjunath Prasad Academic Site
+# ===========================================================
+
+# -------------------------------
+# Basic Site Information
+# -------------------------------
 title: Home
+seo_title: "Manjunath Prasad H. R. — Assistant Professor and Researcher in Computer Vision, Deep Learning, and AI"
 email: manjunathprasad99@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
- 
-baseurl: "/manjunathprasad" # the subpath of your site, e.g. /blog
-url: "manjunathprasad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+author: "Manjunath Prasad Holenarasipura Rajiv"
+description: "Personal website of Manjunath Prasad H. R., Assistant Professor at Nitte (Deemed to be University). His research focuses on Machine Learning, Deep Learning, Computer Vision, Vision-Language Models, and Cloud-AI Integration."
+keywords: "Manjunath Prasad, Manjunath Prasad H. R., Manjunath Prasad Nitte, Nitte, Nitte (Deemed to be University), nipe, Assistant Professor, Computer Vision, Deep Learning, Machine Learning, Vision-Language Models, Cloud AI, Researcher India, Nitte University, AI Researcher, Academic Profile"
 
-# Enable sitemap and SEO
+# -------------------------------
+# URL and Base Settings
+# -------------------------------
+baseurl: "/manjunathprasad"  # the subpath of your site, e.g. /blog
+url: "https://manjunathprasad.github.io"  # your GitHub Pages domain (use HTTPS)
+
+# -------------------------------
+# Theme and Plugins
+# -------------------------------
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# -------------------------------
+# Include Folders (for static access)
+# -------------------------------
 include:
   - Downloads
   - Downloads/01-09-2025
@@ -56,17 +156,11 @@ include:
   - Downloads/04-09-2025
   - Downloads/04-10-2025
   - Downloads/04-15-2025
-  #- _includes/head-custom.html
   - _includes/footer.html
 
-
-  # - assets/css/custom.css
-# Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
-  
-# Navigation order control
+# -------------------------------
+# Navigation Order (Header Menu)
+# -------------------------------
 header_pages:
   - index.markdown
   - about.markdown
@@ -75,23 +169,28 @@ header_pages:
   - patent.markdown
   - teaching/index.markdown
 
+# -------------------------------
+# Sitemap Settings (for Google)
+# -------------------------------
+defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: true
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# -------------------------------
+# Exclusions (not processed)
+# -------------------------------
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
+
+# ===========================================================
+# END OF CONFIGURATION
+# ===========================================================
