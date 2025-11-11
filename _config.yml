@@ -27,6 +27,13 @@ url: "manjunathprasad.github.io" # the base hostname & protocol for your site, e
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+# Enable sitemap and SEO
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 include:
   - Downloads
   - Downloads/01-09-2025
@@ -55,9 +62,9 @@ include:
 
   # - assets/css/custom.css
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
   
 # Navigation order control
 header_pages:
