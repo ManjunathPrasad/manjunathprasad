@@ -3,6 +3,82 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+<!-- Structured Data for Research Publications -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Research Publications by Manjunath Prasad Holenarasipura Rajiv",
+  "description": "List of research articles, preprints, and works under review authored by Manjunath Prasad H. R.",
+  "url": "https://manjunathprasad.github.io/manjunathprasad/publications/",
+  "itemListElement": [
+    {
+      "@type": "ScholarlyArticle",
+      "position": 1,
+      "name": "Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Manjunath Prasad Holenarasipura Rajiv",
+          "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "Nitte (Deemed to be University)"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "B. M. Vidyavathi",
+          "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "Nitte (Deemed to be University)"
+          }
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (Under Review)"
+      },
+      "datePublished": "2025-10-25",
+      "inLanguage": "en",
+      "description": "This work explores the integration of vision and language models for enhanced zero-shot scene understanding in complex real-world environments.",
+      "url": "https://arxiv.org/abs/2510.25070",
+      "sameAs": "https://arxiv.org/abs/2510.25070"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "position": 2,
+      "name": "Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment in Zero-Shot Real-World Scenarios",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Manjunath Prasad Holenarasipura Rajiv",
+          "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "Nitte (Deemed to be University)"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "B. M. Vidyavathi",
+          "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "Nitte (Deemed to be University)"
+          }
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (Under Review)"
+      },
+      "datePublished": "2025-10-28",
+      "inLanguage": "en",
+      "description": "This paper introduces a dynamic vision-language reasoning approach to enhance zero-shot understanding of complex, real-world scenes through contextual alignment and adaptive multimodal fusion strategies.",
+      "url": "https://arxiv.org/abs/2510.26580",
+      "sameAs": "https://arxiv.org/abs/2510.26580"
+    }
+  ]
+}
+</script>
 
 <div style="max-width:900px; margin:auto;">
 
