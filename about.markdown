@@ -3,6 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+</style>
 <!-- I am Manjunath Prasad. Currently, I work as an Assistant Professor at Nitte Institute of Professional Education, Nitte University(Deemed to be University). Prior to this, I worked in software industry as a Technology Lead in both US and India. I developed various software products for clients like Travelers Insurance - Harford, Connecticut, USA, Microsoft Corporation- Redmond, WA, USA and, Charles Schwab Corporation - Austin, TX, USA. I have near to 9 Years experience in academic teaching and 5 years of software industry experience. 
 
 ### Education

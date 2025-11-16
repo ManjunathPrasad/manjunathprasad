@@ -3,7 +3,14 @@ layout: page
 title: Teaching
 permalink: /teaching/python/
 ---
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+</style>
 ### **Course Information**
 <!-- - [Spring 2025 (Jan 2025 - May 2025) - 22PCA611](/teaching/22PCA611/) -->
 - **Course Title** - Python Programming

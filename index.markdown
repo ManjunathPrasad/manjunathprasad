@@ -6,7 +6,16 @@ permalink: /
 <!-- ===== Hero Section ===== -->
 <div style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
 
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;500&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+</style>
+
+
+
 
 <style>
 .profile-pic-oval {

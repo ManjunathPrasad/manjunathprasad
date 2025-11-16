@@ -3,14 +3,22 @@ layout: page
 title: .NET Backend Development
 permalink: /teaching/netbackend/
 ---
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+</style>
 
 <div style="max-width:950px; margin:auto;">
 
 <!-- ================== Course Header ================== -->
 <div style="background:#f8f9fa; border-radius:10px; padding:25px; border:1px solid #e2e6ea; box-shadow:0 2px 6px rgba(0,0,0,0.05); margin-bottom:30px;">
   <!-- <h2 style="margin-top:0;">.NET Backend Development</h2> -->
-  <p><strong>Course Code:</strong> TBD</p>
-  <p><strong>Course Type:</strong> Core Course (CC)</p>
+  <p><strong>Course Code:</strong> 24PCA403</p>
+  <p><strong>Course Type:</strong> Major Course (MJC)</p>
   <p><strong>Semester:</strong> Spring 2026</p>
   <p><strong>Teaching Hours:</strong> 0:1:4 (Lecture:Tutorial:Practical)</p>
   <p><strong>Credits:</strong> 3</p>
@@ -30,6 +38,15 @@ permalink: /teaching/netbackend/
     <li><strong>CO3:</strong> Implement secure authentication and authorization techniques in ASP.NET Core.</li>
     <li><strong>CO4:</strong> Develop and document RESTful Web APIs using Swagger and consume external APIs via Postman.</li>
     <li><strong>CO5:</strong> Utilize logging, exception handling, unit testing, and custom middleware to ensure reliability.</li>
+  </ul>
+</div>
+
+<!-- ================== Announcements ================== -->
+<div style="background:#f8f9fa; border-radius:10px; border-left:5px solid #C0392B; padding:20px; margin-top:40px;">
+  <h3>Announcements</h3>
+  <ul style="margin-top:10px;">
+    <li><span style="color:blue;">Coming Soon</span> – Lab session materials and evaluation pattern.</li>
+    <li>Course commencement planned for <strong>Jan 2026</strong>.</li>
   </ul>
 </div>
 
@@ -132,20 +149,11 @@ permalink: /teaching/netbackend/
 <div style="margin-top:35px;">
   <h3>Reference Materials</h3>
   <ul>
-    <li><strong>Pro ASP.NET Core 8</strong> – Adam Freeman, Apress, 2024.</li>
-    <li><strong>ASP.NET Core in Action</strong> – Andrew Lock, Manning, 2023.</li>
     <li><strong>Microsoft Official Documentation</strong> – <a href="https://learn.microsoft.com/en-us/aspnet/core/">ASP.NET Core Docs</a></li>
   </ul>
 </div>
 
-<!-- ================== Announcements ================== -->
-<div style="background:#f8f9fa; border-radius:10px; border-left:5px solid #C0392B; padding:20px; margin-top:40px;">
-  <h3>Announcements</h3>
-  <ul style="margin-top:10px;">
-    <li><span style="color:blue;">Coming Soon</span> – Lab session materials and evaluation pattern.</li>
-    <li>Course commencement planned for <strong>Jan 2026</strong>.</li>
-  </ul>
-</div>
+
 
 <hr style="margin:2.5em 0 1em; border:0; border-top:1px solid #ccc;">
 <p style="text-align:center; color:#777;">Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
