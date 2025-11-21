@@ -226,7 +226,7 @@ details summary::after {
   </thead>
   <tbody>
     <tr><td>1</td><td>Doctor of Philosophy</td><td>Computer Science and Engineering – Computer Vision and Deep Learning</td><td>Visvesvaraya Technological University, Belgaum</td><td>Expected 2027</td></tr>
-    <tr><td>2</td><td>Master of Science</td><td>Computer and Information Sciences</td><td>University of Massachusetts, Dartmouth, MA, USA</td><td>2019</td></tr>
+    <tr><td>2</td><td>Master of Science</td><td>Computer and Information Sciences</td><td>University of Massachusetts, MA, USA</td><td>2019</td></tr>
     <tr><td>3</td><td>Master of Technology</td><td>Computer Network Engineering</td><td>Visvesvaraya Technological University, Belgaum</td><td>2011</td></tr>
     <tr><td>4</td><td>Bachelor of Engineering</td><td>Computer Science and Engineering</td><td>Visvesvaraya Technological University, Belgaum</td><td>2008</td></tr>
   </tbody>
