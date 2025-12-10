@@ -31,7 +31,7 @@ permalink: /group/
 <div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> </p>
   <p>
-    🎉 <strong style="color:#C0392B;">Congratulations, Prakrathi!</strong><br>
+    🎉 <strong style="color:#C0392B;">Congratulations,<a href = "https://learn.microsoft.com/en-us/users/prakrathiv-4558/credentials/eb5b97ca59c5ff34"> Prakrathi!</a></strong><br>
     She successfully earned the <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong> certification.  
     A proud moment for our group! 🌟
   </p>
