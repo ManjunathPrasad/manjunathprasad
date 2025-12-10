@@ -22,8 +22,8 @@ Below are the details of patents filed through my institution.
 **Institution:** Nitte Institute of Professional Education  
 **Filed through:** Nitte (Deemed to be University)  
 **Patent No:** NU_903  
-**Status:** <span style="color:green; font-weight:bold;">Filed</span>  
-**Filed Date:** November 2025   
+**Status:** <span style="color:green; font-weight:bold;">In Pipeline</span>  
+**Submitted Date:** November 2025   
 **Category:** Artificial Intelligence – Vision–Language–Action Systems  
 
 [![Patent Filing](https://img.shields.io/badge/Patent-Filed-blue.svg)]()
