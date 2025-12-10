@@ -112,7 +112,7 @@ We focus on building practical, interpretable, and generalizable AI systems.
 
   <p style="margin-top:15px;">
     📧 <strong>Contact:</strong> <a href="mailto:manjunathprasad99@gmail.com">manjunathprasad99@gmail.com</a><br>
-    🌐 <a href="https://manjunathprasad.github.io/manjunathprasad/">Visit Homepage</a>
+    🌐 <a href="https://manjunathprasad.github.io">Visit Homepage</a>
   </p>
 </div>
 
