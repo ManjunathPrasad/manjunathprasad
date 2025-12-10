@@ -67,11 +67,11 @@ We focus on building practical, interpretable, and generalizable AI systems.
 <hr style="margin:2em 0;">
 
 <!-- ================== Teams ================== -->
-<h2>Our Research Teams</h2>
+<h2>Our Special Interest Groups</h2>
 
 <!-- Cloud AI Team -->
 <div style="background:#f9fbff; border-left:5px solid #007BFF; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-  <h3 style="margin-top:0;">☁️ Cloud Computing &amp; AI Integration Team</h3>
+  <h3 style="margin-top:0;">☁️ Cloud Computing &amp; AI Integration Group</h3>
   <p style="text-align:justify;">
     This team explores the synergy between <strong>Cloud Computing</strong> and <strong>Artificial Intelligence</strong>.  
     Their current work focuses on intelligent cloud architectures, scalable AI deployment, and inference optimization for deep learning models.
@@ -85,7 +85,7 @@ We focus on building practical, interpretable, and generalizable AI systems.
 
 <!-- CV Team -->
 <div style="background:#fff9fb; border-left:5px solid #C2185B; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-  <h3 style="margin-top:0;">👁️ Computer Vision Team</h3>
+  <h3 style="margin-top:0;">👁️ Computer Vision Group</h3>
   <p style="text-align:justify;">
     The Computer Vision team is focused on mastering the <strong>theoretical and mathematical foundations</strong> of machine learning, deep learning, and visual recognition.  
     They are actively transitioning toward research publications in top-tier AI venues.
