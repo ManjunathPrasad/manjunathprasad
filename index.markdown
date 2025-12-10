@@ -149,7 +149,7 @@ permalink: /
       reasoning across perception and language in real-world environments.
     </p>
     <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px; margin-top:15px;">
-      <a href="https://scholar.google.com/citations?user=5370e0oAAAAJ&hl=en" target="_blank"
+      <a href="https://scholar.google.com/citations?user=v5C3YrAAAAAJ&hl=en" target="_blank"
          style="text-decoration:none; background:#333; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">Google Scholar</a>
       <a href="https://orcid.org/0000-0002-8836-6693" target="_blank" style="text-decoration:none; background:#A6CE39; color:white; padding:6px 10px; border-radius:5px; font-size:0.85em;">ORCID iD</a>
       <a href="{{ '/group/' | relative_url }}" 
@@ -176,7 +176,7 @@ permalink: /
       Nitte (Deemed to be University), India<br>
       <a href="mailto:manjunathprasad99@gmail.com">Email</a><br>
       <a href="https://github.com/manjunathprasad">GitHub</a><br>
-      <a href="https://scholar.google.com/citations?user=5370e0oAAAAJ&hl=en">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=v5C3YrAAAAAJ&hl=en">Google Scholar</a>
     </p>
     <h3>Research Interests</h3>
     <ul style="font-size: 0.95em; margin-top: 0;">
