@@ -21,7 +21,7 @@ permalink: /teaching/clouddevops/
   <p><strong>Course Code:</strong> 22PCA611</p>
   <p><strong>Semester:</strong> Spring 2026</p>
   <p><strong>Duration:</strong> Jan 2026 – May 2026</p>
-  <p><strong>Course Syllabus:</strong> Coming Soon</p>
+  <p><strong>Course Syllabus:</strong><a href="/Downloads/Syllabus/22PCA611_Cloud_Native_DevOps_Syllabus.pdf">22PCA611-Syllabus</a></p>
   <p style="text-align:justify;">
     In this course, we will explore the concepts, principles, and best practices related to cloud native
 development and DevOps methodologies. If you have a aim to become software developer, system
@@ -32,11 +32,12 @@ knowledge to excel in the world of cloud native DevOps.
 
 <!-- ================== Reference Books ================== -->
 <div style="margin-bottom:35px;">
-  <h3>Reference Books</h3>
+  <h3>Text Book</h3>
   <ol>
-    <li><strong>AWS Certified DevOps Engineer - Professional Certification and Beyond</strong><br>
+    <li><strong><a href="/Downloads/Syllabus/9781801074452-AWS_CERTIFIED_DEVOPS_ENGINEER_PROFESSIONAL_CERTIFICATION_AND_BEYOND.pdf">AWS Certified DevOps Engineer - Professional Certification and Beyond</a></strong><br>
         Adam Book, Packt, Nov. 2021.<br>
         <a href="https://www.packtpub.com/en-in/product/aws-certified-devops-engineer-professional-certification-and-beyond-9781801071512">Publisher Link</a>
+        
     </li>
   </ol>
 </div>
@@ -46,8 +47,8 @@ knowledge to excel in the world of cloud native DevOps.
   <div style="background:#f8f9fa; border-radius:10px; border-left:5px solid #C0392B; padding:20px; margin-top:40px;">
     <h3>Announcements</h3>
     <ul style="margin-top:10px;">
-      <li><span style="color:blue;">Coming Soon</span> – Course enrollment details will be published soon.</li>
-      <li>Lab and project components will be announced before semester commencement.</li>
+      <li><span style="color:blue;">10 Students are enrolled for the course</span></li>
+      <!-- <li>Lab and project components will be announced before semester commencement.</li> -->
     </ul>
   </div>
 </div>
@@ -65,8 +66,8 @@ environments</li>
   </ul>
 </div>
 
-<!-- ================== Tentative Weekly Schedule ================== -->
-<h3 id="TheoryLoc">Tentative Weekly Schedule</h3>
+<!-- ================== Weekly Schedule ================== -->
+<h3 id="TheoryLoc">Weekly Schedule</h3>
 
 <!-- Total Classes Counter -->
 <div style="margin:15px 0; padding:12px; background:#f4f6f8; border-left:5px solid #007BFF; border-radius:6px;">
@@ -105,7 +106,7 @@ environments</li>
       <td>W1C2</td>
       <td>12/23</td>
       <td>Service pillars overview: Operational Excellence; Security</td>
-      <td>—</td>
+      <td><a href="https://www.canva.com/assignment/access?token=bGBzXaRPmb5be1UdPbd4cQ&resourceId=DAG8RwLDe5I" >Unit 1 Presentation Slides</a></td>
     </tr>
     <tr>
       <td>W1C3</td>
@@ -175,7 +176,7 @@ environments</li>
       <td>W3C3</td>
       <td>01/07</td>
       <td>Identity & Access Management (IAM) — Users, Groups (start of IAM topics)</td>
-      <td>—</td>
+      <td><a href="https://www.canva.com/assignment/access?token=deZ_ALffMYKn0YnVcJ06FA&resourceId=DAG9m2AChUc" >Unit 2 Presentation Slides</a></td>
     </tr>
     <tr>
       <td>W3C4</td>
@@ -223,13 +224,13 @@ environments</li>
       <td>W5C2</td>
       <td>01/20</td>
       <td>Amazon S3: blob storage, S3 concepts, endpoints (start of S3 topics)</td>
-      <td>—</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>W5C3</td>
       <td>01/21</td>
       <td>S3 access control, access logs, encryption options</td>
-      <td>—</td>
+      <td><a href="/Downloads/01-19-2026/s3_logs.py" >s3_logs.py</a></td>
     </tr>
     <tr>
       <td>W5C4</td>
