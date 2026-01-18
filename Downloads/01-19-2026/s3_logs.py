@@ -14,7 +14,7 @@ s3 = boto3.client("s3", region_name=REGION)
 def ensure_bucket_exists():
     try:
         s3.head_bucket(Bucket=BUCKET_NAME)
-        print(f"✔ Bucket exists and is accessible: {BUCKET_NAME}")
+        print(f"Bucket exists and is accessible: {BUCKET_NAME}")
         return
 
     except ClientError as e:
