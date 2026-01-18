@@ -199,9 +199,10 @@ environments</li>
       <td>Integrating federation with an AWS account (syllabus)</td>
       <td>—</td>
     </tr>
+    
     <tr>
       <td>W4C3</td>
-      <td><span style="color:red">01/14</span></td>
+      <td><span style="color:red">01/15</span></td>
       <td><span style="color:red">Holiday – Makara Sankranti</span></td>
       <td>—</td>
     </tr>
