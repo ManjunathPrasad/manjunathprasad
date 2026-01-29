@@ -35,6 +35,7 @@ permalink: /teaching/ACM/
     <li><strong>Professional Windows PowerShell</strong><br>
         Andre Watt, Wrox <br>
         <a href="https://www.oreilly.com/library/view/professional-windows-r-powershell/9780471946939/">Publisher Link</a>
+        <a href="/Downloads/ACMTextBook/professional-windows-powershell_compress (1).pdf">Textbook</a>
     </li>
     <li><strong>Learning PowerShell DSC</strong><br>
         James Pogran, Packt - Second Edition<br>
