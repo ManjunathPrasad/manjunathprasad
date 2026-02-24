@@ -12,28 +12,43 @@ permalink: /patents/
   }
 </style>
 
-My research often focuses on developing practical AI frameworks that bridge academia and industry.  
-Below are the details of patents filed through my institution.
 
----
+
+
 
 ### **1. Vision–Language–Action Framework for Diabetic Retinopathy Prognosis**  
-**Inventor(s):** *Manjunath Prasad Holenarasipura Rajiv*, *B. M. Vidyavathi*  
-**Institution:** Nitte Institute of Professional Education  
-**Filed through:** Nitte (Deemed to be University)  
-**Patent No:** NU_903  
-**Status:** <span style="color:green; font-weight:bold;">In Pipeline</span>  
-**Submitted Date:** November 2025   
-**Category:** Artificial Intelligence – Vision–Language–Action Systems  
+<div style="line-height:1.8;">
+<strong>Inventor(s):</strong> <em>Manjunath Prasad Holenarasipura Rajiv</em>, <em>B. M. Vidyavathi</em><br>
+<strong>Filed through:</strong> Nitte (Deemed to be University)<br>
+<strong>Publishing Authority:</strong> Indian Patent Office (Government of India)<br>
+<strong>Application No:</strong> <span style="white-space: nowrap;">202641012475 A</span><br>
+<strong>Publication Date:</strong> 20 February 2026<br>
+<strong>Status:</strong> <span style="color:#0d6efd; font-weight:600;">Published</span>
+</div>
 
-[![Patent Filing](https://img.shields.io/badge/Patent-Filed-blue.svg)]()
+[![Patent Status](https://img.shields.io/badge/Patent%20Status-Published-0d6efd.svg)](https://iprsearch.ipindia.gov.in/PublicSearch/)
 
 <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:10px 15px; border-radius:6px; margin:10px 0;">
-This patent introduces an AI-driven <strong>vision–language–action framework</strong> that integrates visual understanding and linguistic reasoning for <strong>diabetic retinopathy prognosis</strong>.  
-It aims to enhance clinical interpretability through multi-modal fusion and zero-shot learning strategies.
+This patent proposes a clinically informed <strong>vision–language–action architecture</strong> that integrates retinal imaging, structured clinical variables, and language-guided reasoning within a unified multimodal learning pipeline.  
+The framework leverages cross-modal attention mechanisms and knowledge-informed reasoning modules to improve <strong>disease progression modeling</strong> and <strong>interpretable clinical decision support</strong>.  
+
+By combining multimodal fusion with adaptive inference strategies, the system establishes a scalable pathway toward trustworthy AI-driven prognosis in ophthalmology.
 </div>
 
 <!-- ---
+## Patents
+
+### Vision-Language-Action Framework for Diabetic Retinopathy Prognosis
+
+Manjunath Prasad Holenarasipura Rajiv, B. M. Vidyavathi.
+
+Indian Patent Application No. 202641012475 A, 2026.  
+Publication Date: 20 February 2026.  
+Applicant: JSS Academy of Higher Education & Research, Mysuru, India.
+
+Status: Published.
+
+🔗 View Official Patent Record
 
 ## **Future Patents (Under Preparation)**
 1. **Zero-Shot Medical Image Captioning with Adaptive Vision–Language Reasoning**  

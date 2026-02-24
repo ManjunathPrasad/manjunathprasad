@@ -16,6 +16,29 @@ permalink: /group/
 <!-- ================== Announcements ================== -->
 <h2>Announcements</h2>
 
+<div style="background:#f8f9fa; border-left:4px solid #E044A7; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  
+  <p><strong><span style="color:#007BFF;">February 24, 2026</span></strong></p>
+
+  <p>
+    🎉 <strong style="color:#C0392B;">Patent Published</strong><br>
+    <strong>Vision–Language–Action Framework for Diabetic Retinopathy Prognosis</strong>
+  </p>
+
+  <div style="line-height:1.8;">
+    <strong>Inventor(s):</strong> 
+    <em>Manjunath Prasad Holenarasipura Rajiv</em>, 
+    <em>B. M. Vidyavathi</em><br>
+  </div>
+
+  <p style="margin-top:10px;">
+    <a href="/patents/" style="color:#007BFF; font-weight:600; text-decoration:none;">
+      Click here for more details →
+    </a>
+  </p>
+
+</div>
+
 <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong></p>
   <p>
@@ -93,7 +116,6 @@ We focus on building practical, interpretable, and generalizable AI systems.
   <p><strong>Team Members:</strong></p>
   <ul style="margin-top:0;">
     <li><strong>Athmika</strong> (2025 – 2027)</li>
-    <li><strong>Dishanth Shetty</strong> (2025 – 2027)</li>
     <li><strong>K. Mansavi</strong> (2025 – 2027)</li>
   </ul>
 </div>
