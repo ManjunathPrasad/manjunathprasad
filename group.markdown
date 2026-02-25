@@ -21,7 +21,7 @@ permalink: /group/
   <p><strong><span style="color:#007BFF;">February 24, 2026</span></strong></p>
 
   <p>
-    🎉 <strong style="color:#C0392B;">Patent Published</strong><br>
+    <strong style="color:#C0392B;">Patent Published</strong><br>
     <strong>Vision–Language–Action Framework for Diabetic Retinopathy Prognosis</strong>
   </p>
 
@@ -42,7 +42,7 @@ permalink: /group/
 <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong></p>
   <p>
-    🎉 <strong>Two</strong> of our research papers submitted to 
+    <strong>Two</strong> of our research papers submitted to 
     <span style="color:#C0392B;">IEEE Transactions on PAMI</span> have now appeared as preprints on <strong>arXiv</strong>.
   </p>
   <ul style="margin-top:0;">
@@ -54,9 +54,9 @@ permalink: /group/
 <div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> </p>
   <p>
-    🎉 <strong style="color:#C0392B;">Congratulations,<a href = "https://learn.microsoft.com/en-us/users/prakrathiv-4558/credentials/eb5b97ca59c5ff34"> Prakrathi!</a></strong><br>
+    <strong style="color:#C0392B;">Congratulations,<a href = "https://learn.microsoft.com/en-us/users/prakrathiv-4558/credentials/eb5b97ca59c5ff34"> Prakrathi!</a></strong><br>
     She successfully earned the <strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong> certification.  
-    A proud moment for our group! 🌟
+    A proud moment for our group! 
   </p>
 </div>
 
@@ -72,17 +72,17 @@ We focus on building practical, interpretable, and generalizable AI systems.
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
   <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0;">🩺 Vision-Language-Action Framework for Diabetic Retinopathy Prognosis</h3>
+    <h3 style="margin-top:0;">Vision-Language-Action Framework for Diabetic Retinopathy Prognosis</h3>
     <p style="text-align:justify;">Developing interpretable AI pipelines for predictive medical imaging and early diagnosis of diabetic retinopathy.</p>
   </div>
 
   <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0;">🌍 Zero-Shot Remote Sensing Scene Classification</h3>
+    <h3 style="margin-top:0;"> Zero-Shot Remote Sensing Scene Classification</h3>
     <p style="text-align:justify;">Exploring cross-domain generalization in Earth observation using vision-language models for global environmental analysis.</p>
   </div>
 
   <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0;">🔁 Cross-Domain Pattern-Aware Self-Supervised Learning</h3>
+    <h3 style="margin-top:0;"> Cross-Domain Pattern-Aware Self-Supervised Learning</h3>
     <p style="text-align:justify;">Building robust visual understanding systems for real-world applications under label scarcity using representation learning.</p>
   </div>
 </div>
@@ -108,7 +108,7 @@ We focus on building practical, interpretable, and generalizable AI systems.
 
 <!-- CV Team -->
 <div style="background:#fff9fb; border-left:5px solid #C2185B; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-  <h3 style="margin-top:0;">👁️ Computer Vision Group</h3>
+  <h3 style="margin-top:0;"> Computer Vision Group</h3>
   <p style="text-align:justify;">
     The Computer Vision team is focused on mastering the <strong>theoretical and mathematical foundations</strong> of machine learning, deep learning, and visual recognition.  
     They are actively transitioning toward research publications in top-tier AI venues.
@@ -126,15 +126,15 @@ We focus on building practical, interpretable, and generalizable AI systems.
 <h2>Join Us</h2>
 
 <div style="background:#f8f9fa; border:1px solid #e2e6ea; border-radius:12px; padding:25px; box-shadow:0 3px 8px rgba(0,0,0,0.05); margin-bottom:30px;">
-  <h3 style="margin-top:0;">🚀 Interested in Joining Our Research Group?</h3>
+  <h3 style="margin-top:0;">Interested in Joining Our Research Group?</h3>
   <p style="text-align:justify;">
     We are always open to motivated undergraduate students interested in <strong>Computer Vision</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Cloud–AI Integration</strong>.  
     If you are passionate about advancing the frontiers of AI and wish to collaborate on impactful research, feel free to get in touch.
   </p>
 
   <p style="margin-top:15px;">
-    📧 <strong>Contact:</strong> <a href="mailto:manjunathprasad99@gmail.com">manjunathprasad99@gmail.com</a><br>
-    🌐 <a href="https://manjunathprasad.github.io">Visit Homepage</a>
+    <strong>Contact:</strong> <a href="mailto:manjunathprasad99@gmail.com">manjunathprasad99@gmail.com</a><br>
+    <a href="https://manjunathprasad.github.io">Visit Homepage</a>
   </p>
 </div>
 

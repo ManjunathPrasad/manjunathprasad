@@ -34,7 +34,7 @@ knowledge to excel in the world of cloud native DevOps.
 <div style="margin-bottom:35px;">
   <h3>Text Book</h3>
   <ol>
-    <li><strong><a href="/Downloads/Syllabus/9781801074452-AWS_CERTIFIED_DEVOPS_ENGINEER_PROFESSIONAL_CERTIFICATION_AND_BEYOND.pdf">AWS Certified DevOps Engineer - Professional Certification and Beyond</a></strong><br>
+    <li><strong>AWS Certified DevOps Engineer - Professional Certification and Beyond</strong><br>
         Adam Book, Packt, Nov. 2021.<br>
         <a href="https://www.packtpub.com/en-in/product/aws-certified-devops-engineer-professional-certification-and-beyond-9781801071512">Publisher Link</a>
         

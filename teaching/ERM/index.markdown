@@ -19,6 +19,13 @@ permalink: /teaching/ERM/
   <p><strong>Semester:</strong> Spring 2026</p>
   <p><strong>Units Handled:</strong> Unit 2 & Unit 4</p>
   <p><strong>Total Contact Hours:</strong> 24 Hours (12 + 12)</p>
+  <p><strong>Syllabus: </strong><a href="/Downloads/ERM/SYllabus_22PCA802_ERM.pdf">Click here</a></p>
+  <p><strong>Selected Reference Books: </Strong>
+  <ul>
+    <li><a href="https://www2.fct.unesp.br/docentes/carto/enner/PPGCC/Redacao/livros/Book%20-%20The%20Craft%20of%20Research.pdf">The Craft of Research, Fourth Edition by Wayne C. Booth, Gregory G. Colomb, Joseph
+M. Williams, Fourth Edition, 2016.</a></li>
+    <li><a href="https://www.ucg.ac.me/skladiste/blog_609332/objava_105202/fajlovi/Creswell.pdf">Research Design: Qualitative, Quantitative, and Mixed Methods Approaches by John W. and J. David Creswell, Third Edition.</a></li>
+  </ul>
   <p style="text-align:justify;">
     This module focuses on empirical research frameworks and qualitative research methodologies 
     in Computer Science. Students will develop the ability to design scientifically sound studies, 
@@ -171,4 +178,3 @@ permalink: /teaching/ERM/
   Last updated: {{ site.time | date: "%B %d, %Y" }}
 </p>
 
-</div>
