@@ -97,7 +97,23 @@ It bridges theory with industry practice, preparing learners for roles in DevOps
   </div>
 </div>
 
+<div style="flex:1; min-width:280px; max-width:420px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 3px 6px rgba(0,0,0,0.05);">
+  <h3 style="margin-top:0;">📊 Empirical Research Methods</h3>
+  <p><strong>Course Code:</strong> 22PCA612</p>
+  <p><strong>Semester:</strong> Spring 2026</p>
+  <p><strong>Units Handled:</strong> Unit 2 & 4</p>
+  <p style="font-size:0.95em; text-align:justify;">
+    This module focuses on empirical research frameworks and qualitative research methodologies in Computer Science. 
+    Students learn to design controlled and quasi-experiments, conduct structured literature reviews, 
+    and apply qualitative coding techniques such as grounded theory and phenomenography. 
+    The course prepares learners for academic research and journal publication in AI, Software Engineering, and Data Science.
+  </p>
 
+  <a href="{{ '/teaching/ERM/' | relative_url }}" 
+     style="display:inline-block; background:#007BFF; color:#fff; padding:8px 15px; border-radius:5px; text-decoration:none; margin-top:10px;">
+     View Course
+  </a>
+</div>
 
 
 
