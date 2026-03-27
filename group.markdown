@@ -16,6 +16,27 @@ permalink: /group/
 <!-- ================== Announcements ================== -->
 <h2>Announcements</h2>
 
+
+<div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <p><strong><span style="color:#007BFF;">20 March 2026 </span></strong></p>
+
+  <p>
+    <strong>1</strong> conference (Main Track) research paper titled 
+    <strong>"On the Effectiveness of Token-Level Entropy for Hallucination Detection in Vision-Language Models"</strong> 
+    submitted to 
+    <span style="color:#C0392B;">
+      <strong>
+        38th International Conference on Machine Learning and Applications (ICMLA 2026)
+      </strong>
+    </span>.
+  </p>
+
+  <p style="margin-top:5px;">
+    <strong>Venue:</strong> Oakland Center, Rochester, Michigan, United States of America <br>
+    <strong>Conference Dates:</strong> October 5 - 7, 2026
+  </p>
+</div>
+
 <div style="background:#f8f9fa; border-left:4px solid #E044A7; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   
   <p><strong><span style="color:#007BFF;">February 24, 2026</span></strong></p>
@@ -39,18 +60,6 @@ permalink: /group/
 
 </div>
 
-<!-- <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong></p>
-  <p>
-    <strong>Two</strong> of our research papers submitted to 
-    <span style="color:#C0392B;">IEEE Transactions on PAMI</span> have now appeared as preprints on <strong>arXiv</strong>.
-  </p>
-  <ul style="margin-top:0;">
-    <li>Preprint: <a href="https://arxiv.org/abs/2510.25070"><em>Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments</em></a></li>
-    <li>Preprint: <a href="https://arxiv.org/abs/2510.26580"><em>Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment in Zero-Shot Real-World Scenarios</em></a></li>
-  </ul>
-</div> -->
-
 <!-- <div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> </p>
   <p>
@@ -70,20 +79,24 @@ Our group is passionately exploring <strong>cutting-edge problems</strong> in <s
 We focus on building practical, interpretable, and generalizable AI systems.  
 </p>
 
+<div>
+<div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0;"> Zero-Shot Remote Sensing Scene Classification</h3>
+    <p style="text-align:justify;">Exploring cross-domain generalization in Earth observation using vision-language models for global environmental analysis.</p>
+  </div>
+<div>
+
+</div>
+<div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0;"> Hallucination Detection and Mitigation in VLMs</h3>
+    <p style="text-align:justify;">Hallucination is one of the key problems in VLMs. We conduct empirial study and analysis to detect and mitigate hallucinations in VLMs</p>
+  </div>
+</div>
+
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
   <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
     <h3 style="margin-top:0;">Vision-Language-Action Framework for Diabetic Retinopathy Prognosis</h3>
     <p style="text-align:justify;">Developing interpretable AI pipelines for predictive medical imaging and early diagnosis of diabetic retinopathy.</p>
-  </div>
-
-  <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0;"> Zero-Shot Remote Sensing Scene Classification</h3>
-    <p style="text-align:justify;">Exploring cross-domain generalization in Earth observation using vision-language models for global environmental analysis.</p>
-  </div>
-
-  <div style="flex:1; min-width:280px; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:10px; padding:20px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0;"> Cross-Domain Pattern-Aware Self-Supervised Learning</h3>
-    <p style="text-align:justify;">Building robust visual understanding systems for real-world applications under label scarcity using representation learning.</p>
   </div>
 </div>
 
@@ -91,6 +104,20 @@ We focus on building practical, interpretable, and generalizable AI systems.
 
 <!-- ================== Teams ================== -->
 <h2>Our Special Interest Groups</h2>
+
+<!-- CV Team -->
+<div style="background:#fff9fb; border-left:5px solid #C2185B; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+  <h3 style="margin-top:0;"> Computer Vision Group</h3>
+  <p style="text-align:justify;">
+    The Computer Vision team is focused on mastering the <strong>theoretical and mathematical foundations</strong> of machine learning, deep learning, and visual recognition.  
+    They are actively transitioning toward research publications in top-tier AI venues.
+  </p>
+  <p><strong>Team Members:</strong></p>
+  <ul style="margin-top:0;">
+    <li><strong>Athmika S.</strong> (2025 – 2027)</li>
+    <li><strong>K. Manasvi</strong> (2025 – 2027)</li>
+  </ul>
+</div>
 
 <!-- Cloud AI Team -->
 <div style="background:#f9fbff; border-left:5px solid #007BFF; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
@@ -106,19 +133,7 @@ We focus on building practical, interpretable, and generalizable AI systems.
   </ul>
 </div>
 
-<!-- CV Team -->
-<div style="background:#fff9fb; border-left:5px solid #C2185B; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
-  <h3 style="margin-top:0;"> Computer Vision Group</h3>
-  <p style="text-align:justify;">
-    The Computer Vision team is focused on mastering the <strong>theoretical and mathematical foundations</strong> of machine learning, deep learning, and visual recognition.  
-    They are actively transitioning toward research publications in top-tier AI venues.
-  </p>
-  <p><strong>Team Members:</strong></p>
-  <ul style="margin-top:0;">
-    <li><strong>Athmika</strong> (2025 – 2027)</li>
-    <li><strong>K. Mansavi</strong> (2025 – 2027)</li>
-  </ul>
-</div>
+
 
 <hr style="margin:2em 0;">
 
