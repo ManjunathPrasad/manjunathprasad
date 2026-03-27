@@ -134,7 +134,7 @@ permalink: /
     <p style="font-size:0.95em; text-align:center; margin-bottom:15px;">
       <strong>Assistant Professor</strong><br>
       Department of Computer Applications<br>
-      Nitte Institute of Professional Education<br>
+      <a href="https://nitte.edu.in/nipe/">Nitte Institute of Professional Education</a><br>
       <span style="color:#555;">Nitte (Deemed to be University)</span>
     </p>
     <hr style="border:0; height:1px; background:#ddd; margin:10px 0;">
@@ -198,25 +198,26 @@ permalink: /
   <!-- Main Content -->
   <div class="main-content">
     <p>
-      I am an <strong>Assistant Professor</strong> in the Department of Computer Applications at the 
-      <strong>Nitte Institute of Professional Education, Nitte (Deemed to be University)</strong>.
-      My research interests include <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, 
-      <strong>Computer Vision</strong>, and <strong>Vision-Language Models</strong>.
+      I am an Assistant Professor in the Department of Computer Applications at the 
+      Nitte Institute of Professional Education, Nitte (Deemed to be University).
+      My research interests include Machine Learning, Deep Learning, 
+      Computer Vision, and Vision-Language Models.
     </p>
     <p>
-      I am currently exploring innovative methods to integrate visual and textual modalities for intelligent scene understanding — focusing on <strong>zero-shot learning</strong>, 
-      <strong>vision-language retrieval</strong>, and <strong>context-aware multimodal reasoning</strong>. 
-      Additionally, I work on <strong>Cloud-AI integration</strong>, emphasizing scalable deployment, inference optimization, and efficient fine-tuning of large pretrained models.
+      I am currently exploring innovative methods to integrate visual and textual modalities for intelligent scene understanding — focusing on zero-shot learning, 
+      vision-language retrieval, and context-aware multimodal reasoning. 
+      Additionally, I work on Cloud-AI integration, emphasizing scalable deployment, inference optimization, and efficient fine-tuning of large pretrained models.
     </p>
     <h2>Current Research</h2>
     <ul>
-      <li><strong>Vision-Language Integration for Zero-shot Scene Understanding</strong> — under review at IEEE TPAMI</li>
-      <li><strong>Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment</strong> — under review at IEEE TPAMI</li>
-      <li><strong>Cloud-AI Integration Projects</strong> — scalable deployment and inference optimization for deep models</li>
+      <li>Detection and Mitigation of Hallucinations in Vision-Language Models</li>
+      <li>Vision-Language Integration for Zero-shot Scene Understanding</li>
+      <li>Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment<</li>
+      <li>Cloud-AI Integration Projects— scalable deployment and inference optimization for deep models</li>
     </ul>
     <h2>Academic Role</h2>
     <p>
-      I teach courses on <strong>Programming Languages</strong> (Python and C#) and <strong>Multi-cloud Computing</strong>. 
+      I teach courses on Programming Languages (Python and C#) and Multi-cloud Computing. 
       As part of my academic role, I mentor student projects that connect theoretical foundations with practical, research-oriented applications.
     </p>
   </div>

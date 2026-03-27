@@ -39,7 +39,7 @@ permalink: /group/
 
 <div style="background:#f8f9fa; border-left:4px solid #E044A7; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   
-  <p><strong><span style="color:#007BFF;">February 24, 2026</span></strong></p>
+  <p><strong><span style="color:#007BFF;">24 February 2026</span></strong></p>
 
   <p>
     <strong style="color:#C0392B;">Patent Published</strong><br>
