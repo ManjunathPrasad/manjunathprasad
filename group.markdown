@@ -39,7 +39,7 @@ permalink: /group/
 
 </div>
 
-<div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+<!-- <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 30, 2025</span></strong></p>
   <p>
     <strong>Two</strong> of our research papers submitted to 
@@ -49,9 +49,9 @@ permalink: /group/
     <li>Preprint: <a href="https://arxiv.org/abs/2510.25070"><em>Vision-Language Integration for Zero-shot Scene Understanding in Real-World Environments</em></a></li>
     <li>Preprint: <a href="https://arxiv.org/abs/2510.26580"><em>Dynamic Context-Aware Scene Reasoning Using Vision-Language Alignment in Zero-Shot Real-World Scenarios</em></a></li>
   </ul>
-</div>
+</div> -->
 
-<div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+<!-- <div style="background:#f8f9fa; border-left:4px solid #28a745; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <p><strong><span style="color:#007BFF;">October 11, 2025</span></strong> </p>
   <p>
     <strong style="color:#C0392B;">Congratulations,<a href = "https://learn.microsoft.com/en-us/users/prakrathiv-4558/credentials/eb5b97ca59c5ff34"> Prakrathi!</a></strong><br>
@@ -60,7 +60,7 @@ permalink: /group/
   </p>
 </div>
 
-<hr style="margin:2em 0;">
+<hr style="margin:2em 0;"> -->
 
 <!-- ================== Current Research ================== -->
 <h2>Current Research Directions</h2>
@@ -101,7 +101,7 @@ We focus on building practical, interpretable, and generalizable AI systems.
   </p>
   <p><strong>Team Members:</strong></p>
   <ul style="margin-top:0;">
-    <li><strong>Prakrathi V</strong> (2024 – 2026)</li>
+    <!-- <li><strong>Prakrathi V</strong> (2024 – 2026)</li> -->
     <li><strong>Jenisha Castelino</strong> (2025 – 2027)</li>
   </ul>
 </div>
