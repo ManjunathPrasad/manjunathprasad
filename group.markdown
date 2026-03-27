@@ -31,10 +31,10 @@ permalink: /group/
     </span>.
   </p>
 
-  <p style="margin-top:5px;">
+  <!-- <p style="margin-top:5px;">
     <strong>Venue:</strong> Oakland Center, Rochester, Michigan, United States of America <br>
     <strong>Conference Dates:</strong> October 5 - 7, 2026
-  </p>
+  </p> -->
 </div>
 
 <div style="background:#f8f9fa; border-left:4px solid #E044A7; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
