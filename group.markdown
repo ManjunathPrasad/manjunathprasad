@@ -118,7 +118,7 @@ We focus on building practical, interpretable, and generalizable AI systems.
 </div>
 
 <!-- Cloud AI Team -->
-<div style="background:#f9fbff; border-left:5px solid #007BFF; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
+<!-- <div style="background:#f9fbff; border-left:5px solid #007BFF; border-radius:10px; padding:20px; margin-bottom:25px; box-shadow:0 2px 5px rgba(0,0,0,0.05);">
   <h3 style="margin-top:0;">☁️ Cloud Computing &amp; AI Integration Group</h3>
   <p style="text-align:justify;">
     This team explores the synergy between <strong>Cloud Computing</strong> and <strong>Artificial Intelligence</strong>.  
@@ -126,10 +126,10 @@ We focus on building practical, interpretable, and generalizable AI systems.
   </p>
   <p><strong>Team Members:</strong></p>
   <ul style="margin-top:0;">
-    <!-- <li><strong>Prakrathi V</strong> (2024 – 2026)</li> -->
+    <li><strong>Prakrathi V</strong> (2024 – 2026)</li> 
     <li><strong>Jenisha Castelino</strong> (2025 – 2027)</li>
   </ul>
-</div>
+</div> -->
 
 
 
