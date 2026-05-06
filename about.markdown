@@ -51,8 +51,8 @@ My skills are mostly varied across the domains of Machine Learning, Computer Vis
 <div style="background:#f8f9fa; border-radius:10px; padding:25px; border:1px solid #e2e6ea; box-shadow:0 2px 6px rgba(0,0,0,0.05); margin-bottom:30px;">
   <!-- <h2 style="margin-top:0;">About Me</h2> -->
   <p style="text-align:justify;">
-    I am <strong>Manjunath Prasad</strong>, currently working as an <strong>Assistant Professor</strong> in the Department of Computer Applications at  
-    <strong>Nitte Institute of Professional Education</strong>, Nitte (Deemed to be University).
+    I am <strong>Manjunath Prasad</strong>, currently working as an <strong>Assistant Professor</strong> in the Department of Artificial Intelligence and Machine Learning at  
+    <strong>Mangalore Institute of Technology and Engineering</strong>.
   </p>
   <p style="text-align:justify;">
     Prior to joining academia, I worked in the software industry as a <strong>Technology Lead</strong> in both the United States and India.
@@ -124,10 +124,20 @@ details summary::after {
 <!-- Visible Recent Roles -->
 <div style="position:relative; margin:40px 0; padding-left:30px; border-left:3px solid #007BFF;">
 
+  
+  <div class="timeline-entry" style="margin-bottom:30px;">
+    <div class="timeline-dot academic"></div>
+    <p style="margin:0; color:#007BFF; font-weight:bold;">May 2026 – Present</p>
+    <p><strong>Assistant Professor</strong><br>
+      Department of Artificial Intelligence and Machine Learning,<br>
+      Mangalore Institute of Technology and Engineering
+    </p>
+  </div>
+
   <!-- 1 -->
   <div class="timeline-entry" style="margin-bottom:30px;">
     <div class="timeline-dot academic"></div>
-    <p style="margin:0; color:#007BFF; font-weight:bold;">May 2024 – Present</p>
+    <p style="margin:0; color:#007BFF; font-weight:bold;">May 2024 – April 2026</p>
     <p><strong>Assistant Professor</strong><br>
       Department of Computer Applications,<br>
       Nitte Institute of Professional Education, Nitte (Deemed to be University)

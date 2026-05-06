@@ -133,9 +133,9 @@ permalink: /
   <div style="max-width:800px; margin:auto; background:#f8f9fa; border:1px solid #e2e6ea; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); padding:20px; margin-top:25px;">
     <p style="font-size:0.95em; text-align:center; margin-bottom:15px;">
       <strong>Assistant Professor</strong><br>
-      Department of Computer Applications<br>
-      <a href="https://nitte.edu.in/nipe/">Nitte Institute of Professional Education</a><br>
-      <span style="color:#555;">Nitte (Deemed to be University)</span>
+      <a href="https://mite.ac.in/artificial-intelligence-machine-learning/">Department of Artificial Intelligence and Machine Learning</a><br>
+      <a href="https://mite.ac.in/">Mangalore Institute of Technology and Engineering</a><br>
+      <span style="color:#555;">Mijar, Moodabidri, Karnataka - 574225, INDIA</span>
     </p>
     <hr style="border:0; height:1px; background:#ddd; margin:10px 0;">
     <p style="font-size:0.9em; text-align:center; color:#333; margin-bottom:10px;">
@@ -172,8 +172,7 @@ permalink: /
   <div class="sidebar">
     <h3>Contact</h3>
     <p style="font-size: 0.95em;">
-      Nitte Institute of Professional Education<br>
-      Nitte (Deemed to be University), India<br>
+      Mangalore Institute of Technology and Engineering<br>
       <a href="mailto:manjunathprasad99@gmail.com">Email</a><br>
       <a href="https://github.com/manjunathprasad">GitHub</a><br>
       <a href="https://scholar.google.com/citations?user=v5C3YrAAAAAJ&hl=en">Google Scholar</a>
@@ -198,8 +197,8 @@ permalink: /
   <!-- Main Content -->
   <div class="main-content">
     <p>
-      I am an Assistant Professor in the Department of Computer Applications at the 
-      Nitte Institute of Professional Education, Nitte (Deemed to be University).
+      I am an Assistant Professor in the Department of Artificial Intelligence and Machine Learning at the 
+      Mangalore Institute of Technology and Engineering.
       My research interests include Machine Learning, Deep Learning, 
       Computer Vision, and Vision-Language Models.
     </p>

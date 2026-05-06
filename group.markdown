@@ -18,23 +18,21 @@ permalink: /group/
 
 
 <div style="background:#f8f9fa; border-left:4px solid #007BFF; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <p><strong><span style="color:#007BFF;">20 March 2026 </span></strong></p>
+  <p><strong><span style="color:#007BFF;">03 May 2026 </span></strong></p>
 
-  <p>
-    <strong>1</strong> conference (Main Track) research paper titled 
-    <strong>"On the Effectiveness of Token-Level Entropy for Hallucination Detection in Vision-Language Models"</strong> 
-    submitted to 
-    <span style="color:#C0392B;">
-      <strong>
-        38th International Conference on Machine Learning and Applications (ICMLA 2026)
-      </strong>
-    </span>.
+<p>
+  <strong>1</strong> research paper on 
+  <strong>hallucination-aware decoding for vision-language models</strong> 
+  is currently 
+  <span style="color:#C0392B;">
+    <strong>under review at NeurIPS 2026 (Main Track)</strong>
+  </span>.
+</p>
+
+  <p style="margin-top:5px;">
+    <strong>Conference Venue:</strong> Sydney, Austrlia <br>
+    <!-- <strong>Conference Dates:</strong> October 5 - 7, 2026 -->
   </p>
-
-  <!-- <p style="margin-top:5px;">
-    <strong>Venue:</strong> Oakland Center, Rochester, Michigan, United States of America <br>
-    <strong>Conference Dates:</strong> October 5 - 7, 2026
-  </p> -->
 </div>
 
 <div style="background:#f8f9fa; border-left:4px solid #E044A7; padding:15px 20px; border-radius:10px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
