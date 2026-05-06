@@ -30,7 +30,7 @@ permalink: /group/
 </p>
 
   <p style="margin-top:5px;">
-    <strong>Conference Venue:</strong> Sydney, Austrlia <br>
+    <strong>Conference Venue:</strong> Sydney, Australia <br>
     <!-- <strong>Conference Dates:</strong> October 5 - 7, 2026 -->
   </p>
 </div>

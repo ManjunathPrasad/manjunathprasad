@@ -135,7 +135,7 @@ permalink: /
       <strong>Assistant Professor</strong><br>
       <a href="https://mite.ac.in/artificial-intelligence-machine-learning/">Department of Artificial Intelligence and Machine Learning</a><br>
       <a href="https://mite.ac.in/">Mangalore Institute of Technology and Engineering</a><br>
-      <span style="color:#555;">Mijar, Moodabidri, Karnataka - 574225, INDIA</span>
+      <span style="color:#555;">Mijar, Moodabidre, Karnataka - 574225, INDIA</span>
     </p>
     <hr style="border:0; height:1px; background:#ddd; margin:10px 0;">
     <p style="font-size:0.9em; text-align:center; color:#333; margin-bottom:10px;">
