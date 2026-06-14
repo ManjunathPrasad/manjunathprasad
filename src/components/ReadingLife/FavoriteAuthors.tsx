@@ -3,12 +3,12 @@ import { motion } from "framer-motion";
 import { authors } from "../../data/reading/authors";
 
 // Import author images from assets/authors folder
-import dostoevskyImg from "../../assets/authors/dostoevsky.jpg";
-import camusImg from "../../assets/authors/camus.jpg";
-import kafkaImg from "../../assets/authors/kafka.jpg";
-import kuvempuImg from "../../assets/authors/kuvempu.jpg";
-import tejaswiImg from "../../assets/authors/tejaswi.jpg";
-import lankeshImg from "../../assets/authors/lankesh.jpg";
+import dostoevskyImg from "../../assets/Authors/dostoevsky.jpg";
+import camusImg from "../../assets/Authors/camus.jpg";
+import kafkaImg from "../../assets/Authors/kafka.jpg";
+import kuvempuImg from "../../assets/Authors/kuvempu.jpg";
+import tejaswiImg from "../../assets/Authors/tejaswi.jpg";
+import lankeshImg from "../../assets/Authors/lankesh.jpg";
 import orwellImg from "../../assets/Authors/orwell.jpg"
 import gandhiImg from "../../assets/Authors/gandhi.jpg";
 import tolstoyImg from "../../assets/Authors/leo-tolstoy.jpg";
