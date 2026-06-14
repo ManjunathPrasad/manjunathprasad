@@ -26,7 +26,7 @@ export const authors: Author[] = [
     {
         id: 4,
         name: "George Orwell",
-        country: "India",
+        country: "England",
         knownFor: "Socialism"
     },
 
