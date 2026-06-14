@@ -192,7 +192,7 @@ export default function LearningJourney() {
                         
                         {/* Timeline Nodes */}
                         <div className="flex justify-between relative">
-                            {journey.map((item, index) => (
+                            {journey.map((item) => (
                                 <div key={item.title} className="flex flex-col items-center group cursor-pointer">
                                     {/* Node */}
                                     <div className="relative z-10">

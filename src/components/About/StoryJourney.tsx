@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, Circle } from "lucide-react";
 
@@ -190,15 +190,39 @@ const institutionTimeline = {
 };
 
 // Helper function to safely get timeline values
-const getTimelineValue = (institutionName, property) => {
-    const timeline = institutionTimeline[institutionName];
-    return timeline?.[property] ?? (property === 'start' ? 0 : 100);
+const getTimelineValue = (institutionName: string, property: string) => {
+    const timeline = institutionTimeline[institutionName as keyof typeof institutionTimeline];
+    return timeline?.[property as keyof typeof timeline] ?? (property === 'start' ? 0 : 100);
 };
 
 export default function StoryJourney() {
     const [selectedInstitution, setSelectedInstitution] = useState(academiaDetails[0]);
     const [selectedCompany, setSelectedCompany] = useState(industryDetails[0]);
     const [activeChapter, setActiveChapter] = useState(0);
+    const observerRefs = useRef<(HTMLDivElement | null)[]>([]);
+
+    useEffect(() => {
+        const observers: IntersectionObserver[] = [];
+        
+        observerRefs.current.forEach((el, index) => {
+            if (el) {
+                const observer = new IntersectionObserver(
+                    ([entry]) => {
+                        if (entry.isIntersecting) {
+                            setActiveChapter(index);
+                        }
+                    },
+                    { threshold: 0.4 }
+                );
+                observer.observe(el);
+                observers.push(observer);
+            }
+        });
+        
+        return () => {
+            observers.forEach(observer => observer.disconnect());
+        };
+    }, []);
 
     return (
         <section className="py-32">
@@ -258,17 +282,7 @@ export default function StoryJourney() {
                         <motion.div
                             key={chapter.number}
                             ref={(el) => {
-                                if (!el) return;
-                                const observer = new IntersectionObserver(
-                                    ([entry]) => {
-                                        if (entry.isIntersecting) {
-                                            setActiveChapter(index);
-                                        }
-                                    },
-                                    { threshold: 0.4 }
-                                );
-                                observer.observe(el);
-                                return () => observer.disconnect();
+                                observerRefs.current[index] = el;
                             }}
                             initial={{ opacity: 0, y: 100 }}
                             whileInView={{ opacity: 1, y: 0 }}

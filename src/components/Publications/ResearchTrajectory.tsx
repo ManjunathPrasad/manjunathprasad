@@ -175,17 +175,17 @@ export default function ResearchTrajectory() {
                         
                         {/* Timeline Nodes */}
                         <div className="relative flex justify-between">
-                            {roadmap.map((item, index) => {
+                            {roadmap.map((item, idx) => {
                                 const styles = getStatusStyles(item.status);
-                                const isActive = activeIndex === index;
+                                const isActive = activeIndex === idx;
                                 const progress = (scrollProgress / (roadmap.length - 1)) * 100;
-                                const isPassed = (index / (roadmap.length - 1)) * 100 <= progress;
+                                const isPassed = (idx / (roadmap.length - 1)) * 100 <= progress;
                                 
                                 return (
                                     <div
                                         key={item.title}
                                         className="flex flex-col items-center group cursor-pointer"
-                                        onMouseEnter={() => setActiveIndex(index)}
+                                        onMouseEnter={() => setActiveIndex(idx)}
                                         onMouseLeave={() => setActiveIndex(null)}
                                     >
                                         {/* Node Container */}
@@ -264,7 +264,7 @@ export default function ResearchTrajectory() {
                         <div className="absolute left-6 top-0 bottom-0 w-0.5 bg-gradient-to-b from-blue-500 via-purple-500 to-emerald-500" />
                         
                         <div className="space-y-6">
-                            {roadmap.map((item, index) => {
+                            {roadmap.map((item) => {
                                 const styles = getStatusStyles(item.status);
                                 const [isExpanded, setIsExpanded] = useState(false);
                                 
