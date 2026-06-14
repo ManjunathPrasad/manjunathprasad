@@ -141,10 +141,15 @@ export default function TeachingPage() {
                             mt-8
                             text-sm
                             text-gray-500
-                            italic
                         "
                     >
-                        "A teacher who does not learn himself cannot teach others. A lamp that does not burn cannot light another lamp." — Sri Kuvempu
+                        "A teacher who does not learn himself cannot teach others. <br />
+                        A lamp that does not burn cannot light another lamp." <br />
+                        ~ Sri Kuvempu 
+                        <br /><br />
+                        "ಸ್ವತಃ ಕಲಿಯದ ಶಿಕ್ಷಕ ಇತರರಿಗೆ ಕಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. <br />
+                        ದೀಪವು ತಾನು ಬೆಳಗದೆ ಇನ್ನೊಂದು ದೀಪವನ್ನು ಬೆಳಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ." <br />
+                        ~ ಶ್ರೀ ಕುವೆಂಪು
                     </div>
 
                 </div>
