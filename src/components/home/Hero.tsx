@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import profileImage from "../../assets/profile.jpg";
 
 export default function Hero() {
     // Update this path to your actual CV file location
@@ -101,7 +102,7 @@ export default function Hero() {
                         className="flex justify-center"
                     >
                         <img
-                            src="../src/assets/profile.jpg"
+                            src={profileImage}
                             alt="Manjunath Prasad"
                             className="w-80 h-80 rounded-full object-cover shadow-2xl"
                             style={{ objectPosition: "center 5%" }}
