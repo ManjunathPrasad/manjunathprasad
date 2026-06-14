@@ -1,53 +1,53 @@
 import type { Book } from "../../types/Book";
 
 // Import all book covers
-import thePlagueCover from "../../assets/books/the-plague.jpg";
-import metamorphosisCover from "../../assets/books/metamorphosis.jpg";
-import crimeAndPunishmentCover from "../../assets/books/crime-and-punishment.jpg";
-import meditationsCover from "../../assets/books/meditations.jpg";
-import brothersKaramazovCover from "../../assets/books/brothers-karamazov.jpg";
+import thePlagueCover from "../../assets/Books/the-plague.jpg";
+import metamorphosisCover from "../../assets/Books/metamorphosis.jpg";
+import crimeAndPunishmentCover from "../../assets/Books/crime-and-punishment.jpg";
+import meditationsCover from "../../assets/Books/meditations.jpg";
+import brothersKaramazovCover from "../../assets/Books/brothers-karamazov.jpg";
 
 // New book covers
-import warAndPeaceCover from "../../assets/books/war-and-peace.jpg";
-import freedomAtMidnightCover from "../../assets/books/freedom-at-midnight.jpg";
-import anjuMalligeCover from "../../assets/books/anju-mallige.jpg";
-import greatExpectationsCover from "../../assets/books/great-expectations.jpg";
-import threeMusketeersCover from "../../assets/books/three-musketeers.jpg";
-import poorFolkCover from "../../assets/books/poor-folk.jpg";
-import strangerCover from "../../assets/books/stranger.jpg";
-import madumagaluCover from "../../assets/books/madumagalu.jpg";
-import lankeshSamagraCover from "../../assets/books/lankesh-samagra.jpg";
-import annaKareninaCover from "../../assets/books/anna-karenina.jpg";
-import tughlakCover from "../../assets/books/tughlak.jpg";
-import divyaCover from "../../assets/books/divya.jpg";
-import oliverTwistCover from "../../assets/books/oliver-twist.jpg";
-import animalFarmCover from "../../assets/books/animal-farm.jpg";
-import idiotCover from "../../assets/books/idiot.jpg";
-import mansSearchCover from "../../assets/books/mans-search.jpg";
-import mahapalayanaCover from "../../assets/books/mahapalayana.jpg";
-import karvaloCover from "../../assets/books/karvalo.jpg";
-import discoveryOfIndiaCover from "../../assets/books/discovery-of-india.jpg";
-import hayavadanaCover from "../../assets/books/hayavadana.jpg";
-import bhavaCover from "../../assets/books/bhava.jpg";
-import lesMiserablesCover from "../../assets/books/les-miserables.jpg";
-import nineteenEightyFourCover from "../../assets/books/1984.jpg";
-import trialCover from "../../assets/books/trial.jpg";
-import kanooruCover from "../../assets/books/kanooru.jpg";
-import chidambaraCover from "../../assets/books/chidambara.jpg";
+import warAndPeaceCover from "../../assets/Books/war-and-peace.jpg";
+import freedomAtMidnightCover from "../../assets/Books/freedom-at-midnight.jpg";
+import anjuMalligeCover from "../../assets/Books/anju-mallige.jpg";
+import greatExpectationsCover from "../../assets/Books/great-expectations.jpg";
+import threeMusketeersCover from "../../assets/Books/three-musketeers.jpg";
+import poorFolkCover from "../../assets/Books/poor-folk.jpg";
+import strangerCover from "../../assets/Books/stranger.jpg";
+import madumagaluCover from "../../assets/Books/madumagalu.jpg";
+import lankeshSamagraCover from "../../assets/Books/lankesh-samagra.jpg";
+import annaKareninaCover from "../../assets/Books/anna-karenina.jpg";
+import tughlakCover from "../../assets/Books/tughlak.jpg";
+import divyaCover from "../../assets/Books/divya.jpg";
+import oliverTwistCover from "../../assets/Books/oliver-twist.jpg";
+import animalFarmCover from "../../assets/Books/animal-farm.jpg";
+import idiotCover from "../../assets/Books/idiot.jpg";
+import mansSearchCover from "../../assets/Books/mans-search.jpg";
+import mahapalayanaCover from "../../assets/Books/mahapalayana.jpg";
+import karvaloCover from "../../assets/Books/karvalo.jpg";
+import discoveryOfIndiaCover from "../../assets/Books/discovery-of-india.jpg";
+import hayavadanaCover from "../../assets/Books/hayavadana.jpg";
+import bhavaCover from "../../assets/Books/bhava.jpg";
+import lesMiserablesCover from "../../assets/Books/les-miserables.jpg";
+import nineteenEightyFourCover from "../../assets/Books/1984.jpg";
+import trialCover from "../../assets/Books/trial.jpg";
+import kanooruCover from "../../assets/Books/kanooru.jpg";
+import chidambaraCover from "../../assets/Books/chidambara.jpg";
 import samskaaraCover from "../../assets/Books/samskara.jpg";
 
 // New book imports from screenshot
-import monkWhoSoldFerrariCover from "../../assets/books/the-monk-who-sold-his-ferrari.jpg";
-import alchemistCover from "../../assets/books/alchemist.jpg";
-import trainToPakistanCover from "../../assets/books/train-to-pakistan.jpg";
-import delhiCover from "../../assets/books/delhi.jpg";
-import timepassCover from "../../assets/books/timepass.jpg";
-import durgaastamaanaCover from "../../assets/books/durgaastamaana.jpg";
-import huliMaavinaMaraCover from "../../assets/books/huli-maavina-mara.jpg";
-import myExperimentsWithTruthCover from "../../assets/books/my-experiments-with-truth.jpg";
-import goneWithTheWindCover from "../../assets/books/gone-with-the-wind.jpg";
+import monkWhoSoldFerrariCover from "../../assets/Books/the-monk-who-sold-his-ferrari.jpg";
+import alchemistCover from "../../assets/Books/alchemist.jpg";
+import trainToPakistanCover from "../../assets/Books/train-to-pakistan.jpg";
+import delhiCover from "../../assets/Books/delhi.jpg";
+import timepassCover from "../../assets/Books/timepass.jpg";
+import durgaastamaanaCover from "../../assets/Books/durgaastamaana.jpg";
+import huliMaavinaMaraCover from "../../assets/Books/huli-maavina-mara.jpg";
+import myExperimentsWithTruthCover from "../../assets/Books/my-experiments-with-truth.jpg";
+import goneWithTheWindCover from "../../assets/Books/gone-with-the-wind.jpg";
 
-export const books: Book[] = [
+export const Books: Book[] = [
     {
         id: 1,
         title: "The Plague",

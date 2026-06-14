@@ -1,26 +1,26 @@
 import type { Painting } from "../types/Painting";
 
 // Import painting images
-import primaveraImg from "../assets/paintings/primavera.jpg";
-import birthOfVenusImg from "../assets/paintings/the-birth-of-venus.jpg";
-import ladyWithErmineImg from "../assets/paintings/lady-with-an-ermine.jpg";
-import lastSupperImg from "../assets/paintings/the-last-supper.jpg";
-import monaLisaImg from "../assets/paintings/mona-lisa.jpg";
-import creationOfAdamImg from "../assets/paintings/the-creation-of-adam.jpg";
-import callingOfSaintMatthewImg from "../assets/paintings/the-calling-of-saint-matthew.jpg";
-import nightWatchImg from "../assets/paintings/the-night-watch.jpg";
-import girlWithPearlImg from "../assets/paintings/girl-with-a-pearl-earring.jpg";
-import impressionSunriseImg from "../assets/paintings/impression-sunrise.jpg";
-import sunflowersImg from "../assets/paintings/sunflowers.jpg";
-import starryNightImg from "../assets/paintings/the-starry-night.jpg";
-import lesDemoisellesImg from "../assets/paintings/les-demoiselles-davignon.jpg";
-import persistenceOfMemoryImg from "../assets/paintings/the-persistence-of-memory.jpg";
-import guernicaImg from "../assets/paintings/guernica.jpg";
-import weepingWomanImg from "../assets/paintings/the-weeping-woman.jpg";
-import swansReflectingImg from "../assets/paintings/swans-reflecting-elephants.jpg";
-import elephantsImg from "../assets/paintings/the-elephants.jpg";
+import primaveraImg from "../assets/Paintings/primavera.jpg";
+import birthOfVenusImg from "../assets/Paintings/the-birth-of-venus.jpg";
+import ladyWithErmineImg from "../assets/Paintings/lady-with-an-ermine.jpg";
+import lastSupperImg from "../assets/Paintings/the-last-supper.jpg";
+import monaLisaImg from "../assets/Paintings/mona-lisa.jpg";
+import creationOfAdamImg from "../assets/Paintings/the-creation-of-adam.jpg";
+import callingOfSaintMatthewImg from "../assets/Paintings/the-calling-of-saint-matthew.jpg";
+import nightWatchImg from "../assets/Paintings/the-night-watch.jpg";
+import girlWithPearlImg from "../assets/Paintings/girl-with-a-pearl-earring.jpg";
+import impressionSunriseImg from "../assets/Paintings/impression-sunrise.jpg";
+import sunflowersImg from "../assets/Paintings/sunflowers.jpg";
+import starryNightImg from "../assets/Paintings/the-starry-night.jpg";
+import lesDemoisellesImg from "../assets/Paintings/les-demoiselles-davignon.jpg";
+import persistenceOfMemoryImg from "../assets/Paintings/the-persistence-of-memory.jpg";
+import guernicaImg from "../assets/Paintings/guernica.jpg";
+import weepingWomanImg from "../assets/Paintings/the-weeping-woman.jpg";
+import swansReflectingImg from "../assets/Paintings/swans-reflecting-elephants.jpg";
+import elephantsImg from "../assets/Paintings/the-elephants.jpg";
 
-export const paintings: Painting[] = [
+export const Paintings: Painting[] = [
     {
         id: 1,
         title: "Primavera",
@@ -118,7 +118,7 @@ export const paintings: Painting[] = [
         year: "1888",
         artMovement: "Post-Impressionism",
         image: sunflowersImg,
-        description: "Series of still life paintings of sunflowers."
+        description: "Series of still life Paintings of sunflowers."
     },
     {
         id: 12,
