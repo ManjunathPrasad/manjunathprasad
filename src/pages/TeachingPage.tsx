@@ -144,8 +144,7 @@ export default function TeachingPage() {
                             italic
                         "
                     >
-                        "A teacher affects eternity; he can never tell where
-                        his influence stops." — Henry Adams
+                        "A teacher who does not learn himself cannot teach others. A lamp that does not burn cannot light another lamp." — Sri Kuvempu
                     </div>
 
                 </div>
