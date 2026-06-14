@@ -135,9 +135,19 @@ const academiaDetails = [
 
 const industryDetails = [
     {
+        name: "Charles Schwab",
+        role: "Technology Lead",
+        duration: "2019 – 2020",
+        location: "Austin, Texas, USA",
+        logo: schwabLogo,
+        image: schwabCampus,
+        description:
+            "Contributed to financial technology platforms and enterprise software modernization."
+    },
+    {
         name: "Microsoft Corporation",
         role: "Technology Lead",
-        duration: "2019 – 2024",
+        duration: "2020 – 2023",
         location: "Redmond, Washington, USA",
         logo: microsoftLogo,
         image: microsoftCampus,
@@ -147,22 +157,12 @@ const industryDetails = [
     {
         name: "Travelers Insurance",
         role: "Technology Lead",
-        duration: "2019 – 2024",
+        duration: "2023 – 2024",
         location: "Hartford, Connecticut, USA",
         logo: travellersLogo,
         image: travellersCampus,
         description:
             "Developed enterprise insurance solutions supporting large-scale business operations."
-    },
-    {
-        name: "Charles Schwab",
-        role: "Technology Lead",
-        duration: "2019 – 2024",
-        location: "Austin, Texas, USA",
-        logo: schwabLogo,
-        image: schwabCampus,
-        description:
-            "Contributed to financial technology platforms and enterprise software modernization."
     }
 ];
 
