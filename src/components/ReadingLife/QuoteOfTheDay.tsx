@@ -1,0 +1,32 @@
+import { quotes } from "../../data/reading/quotes";
+
+export default function QuoteOfTheDay() {
+
+    const quote = quotes[0];
+
+    return (
+        <section className="py-28 bg-slate-950 text-white">
+
+            <div className="max-w-4xl mx-auto px-6 text-center">
+
+                <p className="uppercase tracking-[0.35em] text-blue-400 text-sm font-semibold">
+                    Quote Collection
+                </p>
+
+                <blockquote className="mt-10 text-3xl md:text-5xl font-light leading-relaxed">
+                    "{quote.text}"
+                </blockquote>
+
+                <p className="mt-10 text-blue-300 text-lg">
+                    {quote.author}
+                </p>
+
+                <p className="mt-2 text-slate-400">
+                    {quote.source}
+                </p>
+
+            </div>
+
+        </section>
+    );
+}
