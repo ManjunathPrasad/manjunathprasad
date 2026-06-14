@@ -1,4 +1,5 @@
 import Layout from "../components/layout/Layout";
+import { GraduationCap } from "lucide-react";
 
 export default function TeachingPage() {
 
@@ -68,8 +69,10 @@ export default function TeachingPage() {
                     "
                 >
 
-                    <div className="text-7xl mb-6">
-                        🎓
+                    <div className="flex justify-center mb-6">
+                        <div className="w-20 h-20 rounded-2xl bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center shadow-lg">
+                            <GraduationCap className="w-10 h-10 text-white" />
+                        </div>
                     </div>
 
                     <p
