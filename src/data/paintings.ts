@@ -20,7 +20,7 @@ import weepingWomanImg from "../assets/Paintings/the-weeping-woman.jpg";
 import swansReflectingImg from "../assets/Paintings/swans-reflecting-elephants.jpg";
 import elephantsImg from "../assets/Paintings/the-elephants.jpg";
 
-export const Paintings: Painting[] = [
+export const paintings: Painting[] = [
     {
         id: 1,
         title: "Primavera",

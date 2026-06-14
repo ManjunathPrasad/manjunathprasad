@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { books } from "../../data/reading/books";
+import { Books } from "../../data/reading/books";
 
 export default function InfiniteBookShelf() {
     const carouselRef = useRef<HTMLDivElement>(null);
@@ -9,7 +9,7 @@ export default function InfiniteBookShelf() {
     const animationRef = useRef<number | undefined>(undefined);
     const scrollSpeed = 1; // pixels per frame
 
-    const displayBooks = [...books, ...books, ...books]; // Triple for seamless infinite scroll
+    const displayBooks = [...Books, ...Books, ...Books]; // Triple for seamless infinite scroll
 
     // Auto-scroll function
     const autoScroll = () => {
