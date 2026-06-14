@@ -117,19 +117,29 @@ export default function PublicationStats() {
 
                         {/* ACL Row */}
                         <div className="flex flex-wrap justify-between items-start gap-2">
-                            <span className="text-sm md:text-base flex-1 min-w-[180px]">
-                                Association Computational Linguistics (ACL) - ACL Rolling Reviews
-                            </span>
+                            <div className="flex-1 min-w-[180px]">
+                                <span className="text-sm md:text-base">
+                                    Association Computational Linguistics (ACL) - ACL Rolling Reviews
+                                </span>
+                                <span className="text-xs text-gray-400 ml-2">
+                                    (First author)
+                                </span>
+                            </div>
                             <span className="font-bold text-blue-600 whitespace-nowrap">
                                 3 Papers
                             </span>
                         </div>
 
-                        {/* EMNLP Row - Fixed alignment */}
+                        {/* EMNLP Row */}
                         <div className="flex flex-wrap justify-between items-start gap-2">
-                            <span className="text-sm md:text-base flex-1 min-w-[180px]">
-                                Empirical Methods in Natural Language Processing (EMNLP) - Main Conference
-                            </span>
+                            <div className="flex-1 min-w-[180px]">
+                                <span className="text-sm md:text-base">
+                                    Empirical Methods in Natural Language Processing (EMNLP) - Main Conference
+                                </span>
+                                <span className="text-xs text-gray-400 ml-2">
+                                    (First author)
+                                </span>
+                            </div>
                             <span className="font-bold text-purple-600 whitespace-nowrap">
                                 P2 · P3
                             </span>
@@ -137,14 +147,29 @@ export default function PublicationStats() {
 
                         {/* Pandora Row */}
                         <div className="flex flex-wrap justify-between items-start gap-2">
-                            <span className="text-sm md:text-base flex-1 min-w-[180px]">
-                                Pandora Workshop - EMNLP
-                            </span>
+                            <div className="flex-1 min-w-[180px]">
+                                <span className="text-sm md:text-base">
+                                    Pandora Workshop
+                                </span>
+                                <span className="text-xs text-gray-400 ml-2">
+                                    (First author)
+                                </span>
+                            </div>
                             <span className="font-bold text-green-600 whitespace-nowrap">
                                 P1
                             </span>
                         </div>
 
+                    </div>
+
+                    {/* Optional: Add a subtle badge at the bottom */}
+                    <div className="mt-4 pt-4 border-t border-gray-100">
+                        <span className="text-xs text-gray-400 flex items-center gap-1">
+                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            All papers are first-author publications
+                        </span>
                     </div>
 
                 </div>
