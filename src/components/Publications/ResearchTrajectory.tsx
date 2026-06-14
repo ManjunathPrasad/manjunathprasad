@@ -13,7 +13,7 @@ export default function ResearchTrajectory() {
             name: "Entropy",
             status: "Completed",
             description: "Foundational research on uncertainty quantification in VLMs",
-            year: "2024",
+            year: "2026",
             icon: "✓"
         },
         {
@@ -21,7 +21,7 @@ export default function ResearchTrajectory() {
             name: "HAlign",
             status: "Completed",
             description: "Hallucination detection through confidence-grounding alignment",
-            year: "2024",
+            year: "2026",
             icon: "✓"
         },
         {
@@ -29,7 +29,7 @@ export default function ResearchTrajectory() {
             name: "HAlign-T",
             status: "Completed",
             description: "Temporal extension for dynamic multimodal scenarios",
-            year: "2024",
+            year: "2026",
             icon: "✓"
         },
         {
@@ -37,7 +37,7 @@ export default function ResearchTrajectory() {
             name: "Decoding",
             status: "Current",
             description: "Interpretable decoding strategies for VLM outputs",
-            year: "2025",
+            year: "2026",
             icon: "●"
         },
         {
@@ -45,7 +45,7 @@ export default function ResearchTrajectory() {
             name: "Representation",
             status: "Planned",
             description: "Learning robust multimodal representations",
-            year: "2025",
+            year: "2027",
             icon: "○"
         },
         {
@@ -53,7 +53,7 @@ export default function ResearchTrajectory() {
             name: "Mechanistic",
             status: "Planned",
             description: "Mechanistic interpretability of vision-language models",
-            year: "2025",
+            year: "2027",
             icon: "○"
         },
         {
@@ -61,7 +61,7 @@ export default function ResearchTrajectory() {
             name: "Polly",
             status: "Vision",
             description: "Autonomous agents with grounded multimodal reasoning",
-            year: "2026",
+            year: "2027",
             icon: "★"
         }
     ];
