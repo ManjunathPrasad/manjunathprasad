@@ -75,11 +75,11 @@ export default function PublicationStats() {
                     "
                 >
 
-                    <p className="uppercase tracking-[0.25em] text-xs md:text-sm opacity-80">
+                    <p className="uppercase tracking-[0.25em] text-xs md:text-sm opacity-80 font-semibold">
                         Current Mission
                     </p>
 
-                    <h3 className="mt-4 text-3xl md:text-4xl lg:text-5xl font-black leading-tight">
+                    <h3 className="mt-4 text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-black leading-tight">
                         Trustworthy Vision-Language Models
                     </h3>
 
@@ -109,67 +109,94 @@ export default function PublicationStats() {
                     "
                 >
 
-                    <p className="text-xs md:text-sm uppercase tracking-widest text-gray-500">
+                    <p className="text-xs md:text-sm uppercase tracking-widest text-gray-500 font-semibold">
                         Current Status
                     </p>
 
                     <div className="mt-6 space-y-6 flex-1">
-
-                        {/* ACL Row */}
-                        <div className="flex flex-wrap justify-between items-start gap-2">
-                            <div className="flex-1 min-w-[180px]">
-                                <span className="text-sm md:text-base">
-                                    Association Computational Linguistics (ACL) - ACL Rolling Reviews
-                                </span>
-                                <span className="text-xs text-gray-400 ml-2">
-                                    (First author)
-                                </span>
-                            </div>
-                            <span className="font-bold text-blue-600 whitespace-nowrap">
-                                3 Papers
-                            </span>
+                        {/* Table Header */}
+                        <div className="hidden sm:grid sm:grid-cols-12 text-xs font-semibold text-gray-400 pb-2 border-b border-gray-100">
+                            <div className="col-span-6">Conference / Workshop</div>
+                            <div className="col-span-2 text-center">Rank</div>
+                            <div className="col-span-4 text-right">Papers (First Author)</div>
                         </div>
 
-                        {/* EMNLP Row */}
-                        <div className="flex flex-wrap justify-between items-start gap-2">
-                            <div className="flex-1 min-w-[180px]">
+                        {/* ACL Row */}
+                        <div className="grid grid-cols-1 sm:grid-cols-12 gap-2 sm:gap-4 items-start sm:items-center">
+                            <div className="sm:col-span-6">
+                                <span className="text-sm md:text-base">
+                                    Association for Computational Linguistics (ACL) - ACL Rolling Reviews
+                                </span>
+                            </div>
+                            <div className="sm:col-span-2">
+                                <span className="inline-block sm:w-full text-center px-2 py-0.5 bg-gray-100 text-gray-600 rounded-md text-xs font-bold">
+                                    A
+                                </span>
+                            </div>
+                            <div className="sm:col-span-4 flex justify-between sm:justify-end items-center">
+                                <span className="text-xs text-gray-400 sm:hidden mr-2">Papers:</span>
+                                <span className="font-bold text-blue-600 whitespace-nowrap">
+                                    3 Papers
+                                </span>
+                            </div>
+                        </div>
+
+                        {/* EMNLP Row - with A* Rank Hyperlinked */}
+                        <div className="grid grid-cols-1 sm:grid-cols-12 gap-2 sm:gap-4 items-start sm:items-center">
+                            <div className="sm:col-span-6">
                                 <span className="text-sm md:text-base">
                                     Empirical Methods in Natural Language Processing (EMNLP) - Main Conference
                                 </span>
-                                <span className="text-xs text-gray-400 ml-2">
-                                    (First author)
+                            </div>
+                            <div className="sm:col-span-2">
+                                <a 
+                                    href="https://portal.core.edu.au/conf-ranks/?search=EMNLP&by=all&source=ICORE2026&sort=atitle&page=1"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="inline-block sm:w-full text-center px-2 py-0.5 bg-red-100 text-red-700 rounded-md text-xs font-bold shadow-sm hover:bg-red-200 hover:shadow-md transition-all duration-200 cursor-pointer"
+                                >
+                                    A*
+                                </a>
+                            </div>
+                            <div className="sm:col-span-4 flex justify-between sm:justify-end items-center">
+                                <span className="text-xs text-gray-400 sm:hidden mr-2">Papers:</span>
+                                <span className="font-bold text-purple-600 whitespace-nowrap">
+                                    P2 · P3
                                 </span>
                             </div>
-                            <span className="font-bold text-purple-600 whitespace-nowrap">
-                                P2 · P3
-                            </span>
                         </div>
 
                         {/* Pandora Row */}
-                        <div className="flex flex-wrap justify-between items-start gap-2">
-                            <div className="flex-1 min-w-[180px]">
+                        <div className="grid grid-cols-1 sm:grid-cols-12 gap-2 sm:gap-4 items-start sm:items-center">
+                            <div className="sm:col-span-6">
                                 <span className="text-sm md:text-base">
                                     Pandora Workshop
                                 </span>
-                                <span className="text-xs text-gray-400 ml-2">
-                                    (First author)
+                            </div>
+                            <div className="sm:col-span-2">
+                                <span className="inline-block sm:w-full text-center px-2 py-0.5 bg-gray-100 text-gray-600 rounded-md text-xs font-bold">
+                                    —
                                 </span>
                             </div>
-                            <span className="font-bold text-green-600 whitespace-nowrap">
-                                P1
-                            </span>
+                            <div className="sm:col-span-4 flex justify-between sm:justify-end items-center">
+                                <span className="text-xs text-gray-400 sm:hidden mr-2">Papers:</span>
+                                <span className="font-bold text-green-600 whitespace-nowrap">
+                                    P1
+                                </span>
+                            </div>
                         </div>
-
                     </div>
 
-                    {/* Optional: Add a subtle badge at the bottom */}
-                    <div className="mt-4 pt-4 border-t border-gray-100">
-                        <span className="text-xs text-gray-400 flex items-center gap-1">
-                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                            </svg>
-                            All papers are first-author publications
-                        </span>
+                    {/* First author note - Centered with blue/purple gradient */}
+                    <div className="mt-6 pt-4 border-t border-gray-100">
+                        <div className="flex justify-center items-center">
+                            <span className="text-sm flex items-center gap-1.5 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent font-medium">
+                                <svg className="w-3.5 h-3.5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                All papers are first-author publications
+                            </span>
+                        </div>
                     </div>
 
                 </div>
@@ -229,7 +256,6 @@ export default function PublicationStats() {
 
                     {papers.map((paper, index) => {
 
-                        // P1, P2, P3 are submitted, P4 is ready to submit
                         const submitted = index < 3;
                         const readyToSubmit = index === 3;
                         const polly = index === 6;

@@ -6,6 +6,7 @@ import PublicationStats from "../components/Publications/PublicationStats";
 import PublicationGrid from "../components/Publications/PublicationGrid";
 import ResearchTrajectory from "../components/Publications/ResearchTrajectory";
 import Navbar from "../components/layout/Navbar";
+import Footer from "../components/layout/Footer";
 
 export default function PublicationsPage() {
     const [isVisible, setIsVisible] = useState(false);
@@ -93,6 +94,7 @@ export default function PublicationsPage() {
                     </motion.div>
                 </motion.div>
             </div>
+            <Footer/>
         </main>
     );
 }

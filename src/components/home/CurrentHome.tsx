@@ -58,7 +58,9 @@ export default function CurrentHome() {
 
                             <p className="text-gray-600">
                                 Department of Artificial Intelligence &
-                                Machine Learning
+                                Machine Learning <br />
+                                Badagamijar, Moodabidri, <br />
+                                Karnataka 574225, India
                             </p>
 
                             <p className="mt-8 text-lg text-gray-600 leading-relaxed">
