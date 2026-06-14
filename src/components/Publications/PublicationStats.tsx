@@ -104,49 +104,45 @@ export default function PublicationStats() {
                         shadow-lg
                         hover:shadow-xl
                         transition-all
+                        flex
+                        flex-col
                     "
                 >
 
-                    <p className="text-xs md:text-sm uppercase tracking-wider text-gray-500">
+                    <p className="text-xs md:text-sm uppercase tracking-widest text-gray-500">
                         Current Status
                     </p>
 
-                    <div className="mt-6 space-y-5">
+                    <div className="mt-6 space-y-6 flex-1">
 
-                        <div className="flex justify-between items-center">
-
-                            <span className="text-sm md:text-base">
-                                ACL ARR
+                        {/* ACL Row */}
+                        <div className="flex flex-wrap justify-between items-start gap-2">
+                            <span className="text-sm md:text-base flex-1 min-w-[180px]">
+                                Association Computational Linguistics (ACL) - ACL Rolling Reviews
                             </span>
-
-                            <span className="font-bold text-blue-600">
+                            <span className="font-bold text-blue-600 whitespace-nowrap">
                                 3 Papers
                             </span>
-
                         </div>
 
-                        <div className="flex justify-between items-center">
-
-                            <span className="text-sm md:text-base">
-                                EMNLP Main
+                        {/* EMNLP Row - Fixed alignment */}
+                        <div className="flex flex-wrap justify-between items-start gap-2">
+                            <span className="text-sm md:text-base flex-1 min-w-[180px]">
+                                Empirical Methods in Natural Language Processing (EMNLP) - Main Conference
                             </span>
-
-                            <span className="font-bold text-purple-600">
+                            <span className="font-bold text-purple-600 whitespace-nowrap">
                                 P2 · P3
                             </span>
-
                         </div>
 
-                        <div className="flex justify-between items-center">
-
-                            <span className="text-sm md:text-base">
-                                Pandora Workshop
+                        {/* Pandora Row */}
+                        <div className="flex flex-wrap justify-between items-start gap-2">
+                            <span className="text-sm md:text-base flex-1 min-w-[180px]">
+                                Pandora Workshop - EMNLP
                             </span>
-
-                            <span className="font-bold text-green-600">
+                            <span className="font-bold text-green-600 whitespace-nowrap">
                                 P1
                             </span>
-
                         </div>
 
                     </div>
@@ -189,7 +185,7 @@ export default function PublicationStats() {
                     </h3>
 
                     <span className="text-blue-600 font-semibold">
-                        3 / 7 Papers Active
+                        4 / 7 Papers Active
                     </span>
 
                 </div>
@@ -208,7 +204,9 @@ export default function PublicationStats() {
 
                     {papers.map((paper, index) => {
 
+                        // P1, P2, P3 are submitted, P4 is ready to submit
                         const submitted = index < 3;
+                        const readyToSubmit = index === 3;
                         const polly = index === 6;
 
                         return (
@@ -234,6 +232,12 @@ export default function PublicationStats() {
                                                 bg-green-50
                                                 border-green-300
                                                 shadow-green-100
+                                              `
+                                            : readyToSubmit
+                                            ? `
+                                                bg-yellow-50
+                                                border-yellow-300
+                                                shadow-yellow-100
                                               `
                                             : polly
                                             ? `
@@ -274,6 +278,8 @@ export default function PublicationStats() {
                                     {
                                         submitted
                                             ? "Submitted"
+                                            : readyToSubmit
+                                            ? "Ready to submit"
                                             : polly
                                             ? "Polly"
                                             : "Planned"
@@ -297,6 +303,26 @@ export default function PublicationStats() {
                                         "
                                     >
                                         Under Review
+                                    </div>
+
+                                )}
+
+                                {readyToSubmit && (
+
+                                    <div
+                                        className="
+                                            mt-3
+                                            text-[10px]
+                                            uppercase
+                                            tracking-wider
+                                            text-yellow-700
+                                            opacity-0
+                                            group-hover:opacity-100
+                                            transition-all
+                                            duration-300
+                                        "
+                                    >
+                                        Ready
                                     </div>
 
                                 )}
