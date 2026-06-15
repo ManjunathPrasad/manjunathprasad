@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import { ArrowRight } from "lucide-react";
 import profileImage from "../../assets/profile.jpg";
 
 export default function Hero() {
@@ -89,6 +90,50 @@ export default function Hero() {
                             >
                                 Download CV
                             </a>
+                        </motion.div>
+
+                        {/* Student Collaboration Message with Tailwind Gradient */}
+                        <motion.div
+                            initial={{ opacity: 0, y: 30 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: 0.7, duration: 0.6 }}
+                            className="relative mt-10 p-5 bg-gradient-to-br from-blue-800 via-indigo-700 to-purple-800 rounded-lg border border-blue-400/30 overflow-hidden shadow-xl"
+                        >
+                            <style>
+                                {`
+                                    @keyframes shimmerAnimation {
+                                        0% {
+                                            transform: translateX(-100%);
+                                        }
+                                        100% {
+                                            transform: translateX(100%);
+                                        }
+                                    }
+                                    .shimmer-effect {
+                                        animation: shimmerAnimation 2.5s ease-in-out infinite;
+                                    }
+                                `}
+                            </style>
+                            
+                            {/* Shimmer Effect */}
+                            <div className="absolute inset-0 shimmer-effect bg-gradient-to-r from-transparent via-white/50 to-transparent" />
+                            
+                            <div className="relative z-10">
+                                <div className="relative z-10">
+                                    <p className="text-white text-sm">
+                                        <span className="font-bold text-white">Looking for Students</span><br /> <br />
+                                        <span className="text-white/90">
+                                            I am always looking for self-motivated undergraduate or graduate students. <br />
+                                            Feel free to contact me with your CV at least one and a half years before your graduation. <br /><br />
+                                        </span>
+                                    </p>
+                                    <Link 
+                                        to="/contact"
+                                        className="text-white font-semibold text-sm hover:text-white/80">
+                                        Get in Touch →
+                                    </Link>
+                                </div>
+                            </div>
                         </motion.div>
 
                     </div>

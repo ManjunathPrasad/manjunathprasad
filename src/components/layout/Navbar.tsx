@@ -61,7 +61,6 @@ export default function Navbar() {
                                 className="
                                     text-xl
                                     md:text-2xl
-                                    font-black
                                     tracking-tight
                                     bg-gradient-to-r
                                     from-blue-600
@@ -69,6 +68,7 @@ export default function Navbar() {
                                     to-pink-600
                                     bg-clip-text
                                     text-transparent
+                                    font-cursive
                                 "
                             >
                                 Manjunath Prasad
