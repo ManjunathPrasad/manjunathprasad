@@ -164,7 +164,7 @@ export const Books: Book[] = [
     {
         id: 11,
         title: "Durgaastamaana",
-        author: "Poornachandra Tejaswi",
+        author: "Ta Ra Su",
         cover: durgaastamaanaCover,
         year: 1975,
         category: "Kannada Novel",
@@ -404,7 +404,7 @@ export const Books: Book[] = [
         year: 2004,
         category: "Kannada Novel",
         completed: false,
-        favorite: false,
+        favorite: true,
         reflection: "A philosophical journey exploring existential questions."
     },
     {
@@ -437,7 +437,7 @@ export const Books: Book[] = [
         year: 1971,
         category: "Indian Play",
         completed: false,
-        favorite: true,
+        favorite: false,
         reflection: "A play exploring identity, completeness, and the human search for wholeness."
     },
     {
@@ -497,14 +497,14 @@ export const Books: Book[] = [
         reflection: "A mystery novel exploring the secrets of nature."
     },
     {
-    id: 41,
-    title: "Samskaara",
-    author: "U. R. Ananthamurthy",
-    cover: samskaaraCover,
-    year: 1965,
-    category: "Kannada Novel",
-    completed: false,
-    favorite: true,
-    reflection: "A groundbreaking novel exploring tradition versus modernity, caste, and cultural identity in rural Karnataka."
-}
+        id: 41,
+        title: "Samskaara",
+        author: "U. R. Ananthamurthy",
+        cover: samskaaraCover,
+        year: 1965,
+        category: "Kannada Novel",
+        completed: false,
+        favorite: true,
+        reflection: "A groundbreaking novel exploring tradition versus modernity, caste, and cultural identity in rural Karnataka."
+    }
 ];
