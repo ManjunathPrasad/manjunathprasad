@@ -84,7 +84,7 @@ export default function Navbar() {
                                     text-slate-500
                                 "
                             >
-                                AI Researcher & Art Connoisseur
+                                AI Researcher
                             </span>
 
                         </div>
