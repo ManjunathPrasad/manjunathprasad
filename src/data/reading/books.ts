@@ -477,7 +477,7 @@ export const Books: Book[] = [
     {
         id: 39,
         title: "Kanooru Heggaditi",
-        author: "Shivaram Karanth",
+        author: "Kuvempu",
         cover: kanooruCover,
         year: 1936,
         category: "Kannada Novel",
