@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { ArrowRight } from "lucide-react";
 import profileImage from "../../assets/profile.jpg";
 
 export default function Hero() {
