@@ -109,7 +109,7 @@ export default function Hero() {
                                         }
                                     }
                                     .shimmer-effect {
-                                        animation: shimmerAnimation 2.5s ease-in-out infinite;
+                                        animation: shimmerAnimation 2.5s ease-in-out infinite;s
                                     }
                                 `}
                             </style>
@@ -123,7 +123,7 @@ export default function Hero() {
                                         <span className="font-bold text-white">Looking for Students</span><br /> <br />
                                         <span className="text-white/90">
                                             I am always looking for self-motivated undergraduate or graduate students. <br />
-                                            Feel free to contact me with your CV at least one and a half years before your graduation. <br /><br />
+                                            Feel free to contact me with your CV. <br /><br />
                                         </span>
                                     </p>
                                     <Link 
