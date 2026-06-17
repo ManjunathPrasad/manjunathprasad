@@ -153,9 +153,9 @@ export const Books: Book[] = [
     {
         id: 10,
         title: "Timepass",
-        author: "Dinanath Batwal",
+        author: "Protima Bedi",
         cover: timepassCover,
-        year: 2015,
+        year: 2000,
         category: "Memoir",
         completed: false,
         favorite: false,
