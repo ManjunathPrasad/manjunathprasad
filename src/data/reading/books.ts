@@ -175,7 +175,7 @@ export const Books: Book[] = [
     {
         id: 12,
         title: "Huli Maavina Mara",
-        author: "K. P. Poornachandra Tejaswi",
+        author: "P. Lankesh",
         cover: huliMaavinaMaraCover,
         year: 1985,
         category: "Kannada Novel",
@@ -242,7 +242,7 @@ export const Books: Book[] = [
     {
         id: 18,
         title: "Anju Mallige",
-        author: "K. S. Narasimhaswamy",
+        author: "Girisha Karnad",
         cover: anjuMalligeCover,
         year: 1942,
         category: "Kannada Poetry",
