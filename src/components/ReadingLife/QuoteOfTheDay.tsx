@@ -1,8 +1,17 @@
+import { useState } from "react";
 import { quotes } from "../../data/reading/quotes";
 
 export default function QuoteOfTheDay() {
 
-    const quote = quotes[0];
+    const [quote] = useState(() => {
+
+        const randomIndex = Math.floor(
+            Math.random() * quotes.length
+        );
+
+        return quotes[randomIndex];
+
+    });
 
     return (
         <section className="py-28 bg-slate-950 text-white">
@@ -13,15 +22,15 @@ export default function QuoteOfTheDay() {
                     Quote Collection
                 </p>
 
-                <blockquote className="mt-10 text-3xl md:text-5xl font-light leading-relaxed">
+                <blockquote className="kannada-quote mt-10 text-3xl md:text-5xl font-medium leading-relaxed">
                     "{quote.text}"
                 </blockquote>
 
-                <p className="mt-10 text-blue-300 text-lg">
+                <p className="kannada-quote mt-10 text-blue-300 text-lg">
                     {quote.author}
                 </p>
 
-                <p className="mt-2 text-slate-400">
+                <p className="kannada-quote mt-2 text-slate-400">
                     {quote.source}
                 </p>
 
