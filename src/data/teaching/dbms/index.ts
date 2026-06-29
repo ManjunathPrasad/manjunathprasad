@@ -1,0 +1,8 @@
+export { dbmsCourse } from "./course";
+export { dbmsProgress } from "./progress";
+export { dbmsSyllabus } from "./syllabus";
+export { dbmsJournal } from "./journal";
+export { dbmsLabs } from "./labs";
+export { dbmsResources } from "./resources";
+export { dbmsAssignments } from "./assignments";
+export { dbmsAnnouncements } from "./announcements";
