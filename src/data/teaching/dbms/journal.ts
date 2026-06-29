@@ -181,9 +181,9 @@ export const dbmsJournal: JournalLecture[] = [
     },
 
     {
-        id: 3,
+        id: 4,
 
-        classNo: 3,
+        classNo: 4,
 
         unit: "Unit 1",
 
