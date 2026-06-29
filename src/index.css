@@ -1,10 +1,10 @@
-@import "tailwindcss";
-
 @import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@100..800&family=Dancing+Script:wght@400;500;600;700&family=Pacifico&family=Great+Vibes&display=swap');
 
 .kannada-quote {
     font-family: "Anek Kannada", sans-serif;
 }
+
+@import "tailwindcss";
 
 @keyframes shimmer {
     0% {
@@ -14,4 +14,8 @@
     100% {
         transform: translateX(100%);
     }
+}
+
+html {
+    scroll-behavior: smooth;
 }
