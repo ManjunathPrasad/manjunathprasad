@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import HomePage from "../pages/HomePage";
 import AboutPage from "../pages/AboutPage";
@@ -11,10 +11,11 @@ import SkillsPage from "../pages/SkillsPage";
 import StudentsPage from "../pages/StudentsPage";
 import ReadingLifePage from "../pages/ReadingLifePage";
 import ArtGalleryPage from "../pages/ArtGalleryPage";
+import CoursePage from "../pages/teaching/CoursePage";
 
 export default function AppRoutes() {
     return (
-        <HashRouter>
+        <BrowserRouter>
             <Routes>
                 <Route path="/" element={<HomePage />} />
                 <Route path="/about" element={<AboutPage />} />
@@ -22,12 +23,13 @@ export default function AppRoutes() {
                 <Route path="/publications" element={<PublicationsPage />} />
                 <Route path="/skills" element={<SkillsPage />} />
                 <Route path="/teaching" element={<TeachingPage />} />
+                <Route path="/teaching/dbms" element={<CoursePage />} />
                 <Route path="/contact" element={<ContactPage />} />
                 {/* <Route path="/projects" element={<ProjectsPage />} /> */}
                 <Route path="/students" element={<StudentsPage />} />
                 <Route path="/reading-life" element={<ReadingLifePage />} />
                 <Route path= "/art-gallery" element= {<ArtGalleryPage /> } />
             </Routes>
-        </HashRouter>
+        </BrowserRouter>
     );
 }
