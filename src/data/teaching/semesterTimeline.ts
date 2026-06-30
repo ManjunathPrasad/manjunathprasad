@@ -18,31 +18,31 @@ export const semesterTimeline = [
 
     {
         id: 3,
-        date: "06 Jul",
+        date: "01 Jul",
         title: "Unit 2",
-        description: "Database Modeling",
+        description: "Data Models",
         completed: false
     },
 
     {
         id: 4,
-        date: "20 Jul",
+        date: "08 Jul",
         title: "Unit 3",
-        description: "Relational Model & SQL",
+        description: "Normalization",
         completed: false
     },
 
     {
         id: 5,
-        date: "03 Aug",
+        date: "16 Jul",
         title: "Unit 4",
-        description: "Relational Algebra & Normalization",
+        description: "Query Processing",
         completed: false
     },
 
     {
         id: 6,
-        date: "17 Aug",
+        date: "23 Jul",
         title: "Unit 5",
         description: "Transaction Processing & Recovery",
         completed: false
@@ -50,7 +50,7 @@ export const semesterTimeline = [
 
     {
         id: 7,
-        date: "28 Aug",
+        date: "31 Jul",
         title: "Semester Ends",
         description: "Completion of Summer Semester.",
         completed: false
