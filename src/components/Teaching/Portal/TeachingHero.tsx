@@ -119,7 +119,7 @@ export default function TeachingHero() {
 
                     <HeroButton
                         title="Academic Calendar"
-                        href="#semester-timeline"
+                        href="https://mite.ac.in/wp-content/uploads/2026/06/COE_Summer_Semester_UG_2025-26_Admitted_Batch_2023.pdf"
                     />
 
                 </div>
