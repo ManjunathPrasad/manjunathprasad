@@ -6,7 +6,15 @@ export default function CurrentSemesterCourses() {
 
     return (
 
-        <section className="py-20 border-b border-slate-200">
+        <section
+            id="current-courses"
+            className="
+                scroll-mt-28
+                py-20
+                border-b
+                border-slate-200
+            "
+        >
 
             <div className="max-w-7xl mx-auto px-6">
 
