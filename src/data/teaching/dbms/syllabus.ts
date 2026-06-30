@@ -100,21 +100,23 @@ export const dbmsSyllabus: SyllabusUnit[] = [
     {
         id: 4,
 
-        title: "Normalization",
+        title: "Query Processing",
 
         description:
-            "Database normalization and dependency analysis.",
+            "Database retrieval and joins & aggregates",
 
         hours: 9,
 
         lectures: 4,
 
         topics: [
-            "Functional Dependency",
-            "1NF",
-            "2NF",
-            "3NF",
-            "BCNF"
+            "SQL Data Types",
+            "DDL",
+            "DML",
+            "DCL",
+            "Basic Retrieval Queries in SQL",
+            "Joins",
+            "Aggregates"
         ],
 
         outcomes: [
