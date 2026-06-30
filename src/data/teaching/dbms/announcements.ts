@@ -37,7 +37,7 @@ export const dbmsAnnouncements: Announcement[] = [
 
         type: "General",
 
-        pinned: true,
+        pinned: false,
 
         isNew: true,
 
@@ -47,10 +47,10 @@ export const dbmsAnnouncements: Announcement[] = [
     {
         id: 2,
 
-        title: "Internal Assessment Test 1 (IA Test 1)",
+        title: "Continuous Internal Evaluation Test 1 (CIE Test 1)",
 
         description:
-            "Internal Assessment Test 1 (T1) is scheduled on 10 July 2026 (Friday) and 11 July 2026 (Saturday). Students should complete all Unit 1 topics before the examination.",
+            "Continuous Internal Evaluation Test 1 (CIE Test 1) is scheduled on 10 July 2026 (Friday) and 11 July 2026 (Saturday). Students should complete all Unit 1 topics before the examination.",
 
         date: "10 Jul 2026",
 
@@ -63,80 +63,80 @@ export const dbmsAnnouncements: Announcement[] = [
         attachment: ""
     },
 
-    {
-        id: 3,
+    // {
+    //     id: 3,
 
-        title: "Internal Assessment Test 2 (IA Test 2)",
+    //     title: "Internal Assessment Test 2 (IA Test 2)",
 
-        description:
-            "Internal Assessment Test 2 (T2) will be conducted on 27 July 2026 (Monday), 28 July 2026 (Tuesday) and 29 July 2026 (Wednesday). Students are advised to revise all completed units.",
+    //     description:
+    //         "Internal Assessment Test 2 (T2) will be conducted on 27 July 2026 (Monday), 28 July 2026 (Tuesday) and 29 July 2026 (Wednesday). Students are advised to revise all completed units.",
 
-        date: "27 Jul 2026",
+    //     date: "27 Jul 2026",
 
-        type: "Exam",
+    //     type: "Exam",
 
-        pinned: true,
+    //     pinned: true,
 
-        isNew: false,
+    //     isNew: false,
 
-        attachment: ""
-    },
+    //     attachment: ""
+    // },
 
-    {
-        id: 4,
+    // {
+    //     id: 4,
 
-        title: "Laboratory Test",
+    //     title: "Laboratory Test",
 
-        description:
-            "Laboratory Test (LT) is scheduled on 30 July 2026 (Thursday) and 31 July 2026 (Friday). Students should complete all laboratory experiments and practice SQL programs before the assessment.",
+    //     description:
+    //         "Laboratory Test (LT) is scheduled on 30 July 2026 (Thursday) and 31 July 2026 (Friday). Students should complete all laboratory experiments and practice SQL programs before the assessment.",
 
-        date: "30 Jul 2026",
+    //     date: "30 Jul 2026",
 
-        type: "Laboratory",
+    //     type: "Laboratory",
 
-        pinned: true,
+    //     pinned: true,
 
-        isNew: false,
+    //     isNew: false,
 
-        attachment: ""
-    },
+    //     attachment: ""
+    // },
 
-    {
-        id: 5,
+    // {
+    //     id: 5,
 
-        title: "Practical Examination",
+    //     title: "Practical Examination",
 
-        description:
-            "University Practical Examinations are scheduled to commence on 11 August 2026. Students should complete record submissions and laboratory requirements before the examination.",
+    //     description:
+    //         "University Practical Examinations are scheduled to commence on 11 August 2026. Students should complete record submissions and laboratory requirements before the examination.",
 
-        date: "11 Aug 2026",
+    //     date: "11 Aug 2026",
 
-        type: "Exam",
+    //     type: "Exam",
 
-        pinned: false,
+    //     pinned: false,
 
-        isNew: false,
+    //     isNew: false,
 
-        attachment: ""
-    },
+    //     attachment: ""
+    // },
 
-    {
-        id: 6,
+    // {
+    //     id: 6,
 
-        title: "Theory Examination Schedule",
+    //     title: "Theory Examination Schedule",
 
-        description:
-            "Theory Semester Examinations are scheduled from 03 August 2026 to 10 August 2026. Students are advised to prepare according to the university timetable.",
+    //     description:
+    //         "Theory Semester Examinations are scheduled from 03 August 2026 to 10 August 2026. Students are advised to prepare according to the university timetable.",
 
-        date: "03 Aug 2026",
+    //     date: "03 Aug 2026 - 10 Aug 2026",
 
-        type: "Exam",
+    //     type: "Exam",
 
-        pinned: false,
+    //     pinned: false,
 
-        isNew: false,
+    //     isNew: false,
 
-        attachment: ""
-    }
+    //     attachment: ""
+    // }
 
 ];

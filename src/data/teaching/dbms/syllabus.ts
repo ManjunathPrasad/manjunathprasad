@@ -48,7 +48,7 @@ export const dbmsSyllabus: SyllabusUnit[] = [
     {
         id: 2,
 
-        title: "Entity Relationship Model",
+        title: "Data Models",
 
         description:
             "Conceptual database design using ER diagrams.",
@@ -74,10 +74,10 @@ export const dbmsSyllabus: SyllabusUnit[] = [
     {
         id: 3,
 
-        title: "Relational Model & SQL",
+        title: "Normalization",
 
         description:
-            "Relational database concepts and SQL.",
+            "Design Theory and Normalization",
 
         hours: 8,
 
